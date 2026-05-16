@@ -1,0 +1,3 @@
+label,travel_solver,station_statics,equations,active_cells,data_parameter_ratio_cells_only,pre_rms_s,fsm_failures,fsm_build_seconds,lsmr_iterations,lsmr_istop,lsmr_acond,station_static_l2_s,station_static_max_abs_s,round
+round1,fmm,True,8526,925,9.217297297297296,0.46119271991660843,0,0.4205613136291504,550,2,21.907690168145084,1.3077956625233413,0.7457987229918154,1
+round2,fmm,True,8512,941,9.045696068012752,0.39656273115021945,0,0.3995201587677002,526,2,39.73674771545065,1.6585392594151525,1.064470298926368,2

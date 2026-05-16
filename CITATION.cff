@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the archived release."
+title: "Fast-marching earthquake relocation and P-wave tomography in the Middle Magdalena Valley, Colombia"
+version: "1.0.0"
+date-released: "2026-05-16"
+type: software
+authors:
+  - family-names: "Names removed for review"
+    given-names: "Author"
+repository-code: "https://github.com/romusan/relocation-pwave-tomography"
+abstract: "Reproducibility package for a Fast-Marching earthquake-relocation and P-wave tomography workflow used to delineate a local Nazca Benioff-zone geometry beneath the Middle Magdalena Valley, Colombia."
+keywords:
+  - earthquake relocation
+  - P-wave tomography
+  - Fast Marching Method
+  - Middle Magdalena Valley
+  - Nazca slab
+  - Benioff zone
+license: "MIT"

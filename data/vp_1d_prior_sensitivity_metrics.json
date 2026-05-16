@@ -1,0 +1,31 @@
+{
+  "method": "FSM 10-km sensitivity run with laterally uniform depth-only Vp initial model",
+  "observations": 2746,
+  "events": 660,
+  "active_cells_1d": 316,
+  "active_cells_slab": 317,
+  "common_active_cells": 316,
+  "data_parameter_ratio_1d": 8.689873417721518,
+  "initial_rms_1d_s": 1.8218296799313694,
+  "final_rms_1d_s": 1.3474062702287666,
+  "rms_reduction_1d_percent": 26.0410407695452,
+  "slab_prior_anomaly_percent_p05_p95_common": [
+    -3.000000593819644,
+    1.7962579448944593
+  ],
+  "slab_run_update_percent_p05_p95_common": [
+    -24.200577231598025,
+    76.67777189107233
+  ],
+  "one_d_run_update_percent_p05_p95_common": [
+    -24.67946831768922,
+    73.46657238833245
+  ],
+  "corr_slab_prior_vs_slab_update_common": 0.036928121927777315,
+  "corr_slab_final_vs_1d_final_abs_vp_common": 0.9473997064331228,
+  "corr_slab_update_vs_1d_update_common": 0.9421499515900875,
+  "figures": {
+    "profile": "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_Q\\output_V2\\sgc_1000_fsm_tomography\\vp_1d_prior_sensitivity\\figures\\vp_1d_initial_profile.png",
+    "comparison": "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_Q\\output_V2\\sgc_1000_fsm_tomography\\vp_1d_prior_sensitivity\\figures\\vp_1d_vs_slab_prior_sensitivity.png"
+  }
+}

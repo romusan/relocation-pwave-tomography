@@ -1,0 +1,83 @@
+{
+  "gap_summary": [
+    {
+      "gap_class": "gap_ge_180",
+      "n_events": 1016,
+      "median_n_picks": 5.0,
+      "median_gap_deg": 226.198,
+      "median_catalog_rms_s": 0.6,
+      "median_final_rms_s": 0.2216453999606055,
+      "median_rms_improvement_s": 0.3088467209511646,
+      "median_horizontal_uncertainty_km": 22.360679774997894,
+      "median_depth_span_km": 40.0,
+      "median_total_shift_km": 10.0
+    },
+    {
+      "gap_class": "gap_lt_180",
+      "n_events": 713,
+      "median_n_picks": 5.0,
+      "median_gap_deg": 156.937,
+      "median_catalog_rms_s": 0.6,
+      "median_final_rms_s": 0.2369039366384351,
+      "median_rms_improvement_s": 0.3546396067667756,
+      "median_horizontal_uncertainty_km": 14.14213494938139,
+      "median_depth_span_km": 30.0,
+      "median_total_shift_km": 10.0
+    }
+  ],
+  "gap_lt_180_events": 713,
+  "gap_ge_180_events": 1016,
+  "benioff": {
+    "surface_nodes": 4934,
+    "slab2_overlap_nodes": 4934,
+    "slab2_rmse_km": 11.120086821992668,
+    "slab2_mae_km": 9.337775983252264,
+    "slab2_median_local_minus_slab2_km": 8.31392391368361,
+    "mc_n": 200,
+    "mc_depth_sigma_km": 15.0,
+    "mc_median_depth_std_km": 7.480949401855469,
+    "mc_p90_depth_std_km": 11.32260799407959,
+    "support_classes": [
+      {
+        "support_class": "A_geometric_and_positive_vp_support",
+        "n_nodes": 2033,
+        "median_depth_km": 115.05451752662592,
+        "median_dvp_percent": 0.7906904354276757,
+        "median_mc_std_km": 6.765927791595459,
+        "fraction": 0.4120389136603162
+      },
+      {
+        "support_class": "B_geometric_and_tomographic_coverage_no_positive_vp",
+        "n_nodes": 1627,
+        "median_depth_km": 99.27460354616557,
+        "median_dvp_percent": -0.564073425901688,
+        "median_mc_std_km": 7.178779125213623,
+        "fraction": 0.329752736116741
+      },
+      {
+        "support_class": "C_interpolated_or_no_active_tomography",
+        "n_nodes": 1274,
+        "median_depth_km": 97.74046093034826,
+        "median_dvp_percent": -6.1411355003436e-08,
+        "median_mc_std_km": 9.10357666015625,
+        "fraction": 0.25820835022294286
+      }
+    ]
+  },
+  "station_statics": {
+    "station_metadata_count": 14,
+    "station_static_elevation_correlation": -0.4481001807819588,
+    "max_abs_static_station": "VMM12",
+    "max_abs_static_s": 1.064470298926368
+  },
+  "regularization": {
+    "selected_lcurve": {
+      "laplace_weight": 3.0,
+      "damp_weight": 0.25,
+      "data_norm": 32.825250517882694,
+      "model_norm": 0.3636806287867015,
+      "laplacian_norm": 1.2613324336981384,
+      "lsmr_iterations": 228
+    }
+  }
+}

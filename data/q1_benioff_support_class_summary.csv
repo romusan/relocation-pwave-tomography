@@ -1,0 +1,4 @@
+support_class,n_nodes,median_depth_km,median_dvp_percent,median_mc_std_km,fraction
+A_geometric_and_positive_vp_support,2033,115.05451752662592,0.7906904354276757,6.765928,0.4120389136603162
+B_geometric_and_tomographic_coverage_no_positive_vp,1627,99.27460354616557,-0.564073425901688,7.178779,0.329752736116741
+C_interpolated_or_no_active_tomography,1274,97.74046093034826,-6.1411355003436e-08,9.103577,0.25820835022294286

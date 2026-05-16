@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Raw waveform and event archives
+*.mseed
+*.miniseed
+*.sac
+*.seed
+data/xml_events/
+waveforms/
+raw/
+
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.spl
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# OS/editor
+.DS_Store
+Thumbs.db
+~$*
+

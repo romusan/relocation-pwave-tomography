@@ -1,0 +1,103 @@
+{
+  "vertical_profiles": {
+    "ns_profile_x_km": -36.31574630737305,
+    "ns_profile_lon": -73.32867832575951,
+    "ew_profile_y_km": -16.207199096679688,
+    "ew_profile_lat": 6.854408919361483,
+    "profile_half_width_km": 20.0,
+    "ns_events": 781,
+    "ew_events": 727
+  },
+  "spike_point_spread": {
+    "spike_grid_index_kji": [
+      8,
+      8,
+      12
+    ],
+    "spike_xyz_km": [
+      -66.31575012207031,
+      3.792799949645996,
+      80.0
+    ],
+    "spike_true_nonzero_cells": 1,
+    "spike_recovered_fraction": 0.8839312847748722,
+    "spike_l1_spread_fraction": 0.9807196304015023
+  },
+  "regularization_table": {
+    "regularization_table_figure": "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_localizacion_simultaneas\\output_sgc_new_events_joint_vp_relocation_fmm_min4_plus_shallow\\figures\\q1_regularization_tradeoff_table.png",
+    "selected_laplace": 3.0,
+    "selected_damp": 0.25
+  },
+  "gap_by_dataset": [
+    {
+      "selection_group": "bucaramanga_nest",
+      "gap_class": "gap_ge_180",
+      "n_events": 99,
+      "median_gap_deg": 219.997,
+      "median_final_rms_s": 0.2058444878932085,
+      "median_depth_km": 130.0,
+      "median_horizontal_uncertainty_km": 22.360679774997894,
+      "median_depth_span_km": 40.0,
+      "median_rms_improvement_s": 0.4345475664909176
+    },
+    {
+      "selection_group": "bucaramanga_nest",
+      "gap_class": "gap_lt_180",
+      "n_events": 201,
+      "median_gap_deg": 134.97500000000002,
+      "median_final_rms_s": 0.2258840769703043,
+      "median_depth_km": 140.0,
+      "median_horizontal_uncertainty_km": 14.14213494938139,
+      "median_depth_span_km": 40.0,
+      "median_rms_improvement_s": 0.425834679599773
+    },
+    {
+      "selection_group": "domain_20_120",
+      "gap_class": "gap_ge_180",
+      "n_events": 917,
+      "median_gap_deg": 226.709,
+      "median_final_rms_s": 0.2247113428110584,
+      "median_depth_km": 100.0,
+      "median_horizontal_uncertainty_km": 22.360679774997894,
+      "median_depth_span_km": 40.0,
+      "median_rms_improvement_s": 0.2951606224882692
+    },
+    {
+      "selection_group": "domain_20_120",
+      "gap_class": "gap_lt_180",
+      "n_events": 512,
+      "median_gap_deg": 159.08500000000004,
+      "median_final_rms_s": 0.2455875071798718,
+      "median_depth_km": 120.0,
+      "median_horizontal_uncertainty_km": 14.14213494938139,
+      "median_depth_span_km": 30.0,
+      "median_rms_improvement_s": 0.30890589819256264
+    }
+  ],
+  "residual_tail": {
+    "arrival_count": 8513,
+    "equation_rms_s": 0.3981408806670499,
+    "median_abs_residual_s": 0.149058570786746,
+    "p90_abs_residual_s": 0.5077102119021831,
+    "p95_abs_residual_s": 0.679282716082347,
+    "n_abs_residual_gt_1s": 170,
+    "fraction_abs_residual_gt_1s": 0.01996945847527311,
+    "sumsq_fraction_abs_residual_gt_1s": 0.531151591365381,
+    "n_abs_residual_gt_0p75s": 332,
+    "fraction_abs_residual_gt_0p75s": 0.03899917772818043,
+    "sumsq_fraction_abs_residual_gt_0p75s": 0.6177853469840784
+  },
+  "lcurve_quantitative": {
+    "selected_laplace": 3.0,
+    "selected_damp": 0.25,
+    "selected_data_norm": 32.825250517882694,
+    "min_data_norm": 32.70721099353951,
+    "selected_data_norm_excess_percent": 0.3608975536510817,
+    "weak_smoothing_model_norm": 0.4984440847744113,
+    "selected_model_norm": 0.3636806287867015,
+    "model_norm_reduction_vs_weak_percent": 27.036825213544635,
+    "weak_smoothing_laplacian_norm": 1.9246726979498288,
+    "selected_laplacian_norm": 1.2613324336981384,
+    "laplacian_norm_reduction_vs_weak_percent": 34.4650945045505
+  }
+}

@@ -1,0 +1,15 @@
+station,latitude,longitude,elevation_m,site_name,start_time,end_time
+BAR2,6.592,-73.182,1864.0,"Barichara, Santander, Colombia",1993-06-01T00:00:00,
+BRJC,6.9732,-73.74416,108.0,"Barrancabermeja, Santander, Colombia",2018-08-03T19:00:00,
+CPAM3,7.36444,-72.66475,2422.5,"Pamplona, Norte de Santander, Colombia",2022-12-05T20:30:00,
+CPAMP,7.379,-72.6372,2384.0,"Pamplona, Norte de Santander, Colombia",1996-08-02T00:00:00,
+PAM,7.3395,-72.6995,3676.0,"Pamplona, Norte de Santander, Colombia",2014-01-01T00:00:00,
+PDSC,6.992156,-73.064184,958.0,"Piedecuesta, Santander, Colombia",2018-09-21T00:00:00,
+PTB,6.5395,-74.456333,260.0,"Puerto Berrio, Antioquia, Colombia",2011-11-13T00:00:00,2023-11-15T20:04:59
+PTB1,6.53321,-74.45888,141.0,"Puerto Berrio 1, Antioquia",2021-09-01T00:00:00,
+VMM05,7.9068,-73.557,86.0,"San Martin, Cesar, Colombia",2015-10-08T00:00:00,2022-09-05T00:00:00
+VMM07,7.3601,-73.8519,91.0,"Puerto Wilches, Santander, Colombia",2015-10-08T00:00:00,
+VMM09,7.1269,-73.2898,1079.0,"Lebrija, Santander, Colombia",2015-10-02T00:00:00,2024-11-19T23:59:59
+VMM10,6.767,-73.725,165.0,"El Carmen de Chucuri, Santander, Colombia",2015-10-12T00:00:00,
+VMM11,7.43796,-73.57067,84.0,"Sabana de Torres, Santander",2016-06-09T00:00:00,
+VMM12,8.08644,-73.88861,66.0,"Simiti,Bolivar",2016-06-11T00:00:00,
