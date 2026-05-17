@@ -18,7 +18,16 @@
 
 \title{Fast-marching earthquake relocation and P-wave tomography constrain a seismicity-defined Nazca Benioff zone beneath the Middle Magdalena Valley, Colombia}
 
-\author{Author names removed for review}
+\author[inst1]{Romulo Sandoval Florez\corref{cor1}}
+\ead{romulo@ecci.edu.co}
+\author[inst2]{Francisco H. Cabrera Zambrano}
+\author[inst3]{Claudia P. Parra Medina}
+
+\cortext[cor1]{Corresponding author}
+
+\address[inst1]{Universidad ECCI, Bogot\'a, Colombia}
+\address[inst2]{Grupo de Investigaci\'on PANGEA, Universidad de Pamplona, Colombia}
+\address[inst3]{Universidad Militar Nueva Granada, Bogot\'a, Colombia}
 
 \begin{abstract}
 Intermediate-depth seismicity beneath the Middle Magdalena Valley (MMV), Colombia, provides a direct observational constraint on the geometry of the subducting Nazca slab, but local plate-scale interpretation is complicated by sparse station coverage, fixed catalog hypocentres, and strong basin-related velocity heterogeneity. We use 1729 earthquakes from the Servicio Geol\'ogico Colombiano catalog for 2022--2026, including 300 Bucaramanga-nest earthquakes at 120--170 km depth. This event set is independent of the local earthquakes used to build the earlier MMV Fast-Marching velocity--attenuation model that supplies the starting P-wave velocity field. We implement an alternating earthquake-relocation and P-wave tomography workflow on a 10 km grid: travel times are computed with Fast Marching fields, hypocentres are updated by local grid search with origin-time correction, and slowness perturbations plus station static terms are solved with LSMR. After active-cell and finite-ray checks, the final velocity system contains 8513 equations and 931 active cells, yielding a data-to-parameter ratio of 9.14 and an equation-level RMS of 0.40 s. Event-level diagnostics show a median final RMS of 0.23 s and a median reduction of 0.33 s relative to the SGC catalog RMS for 86\% of the earthquakes. A full current-dataset sensitivity run initialized from a depth-only 1-D model gives a comparable but poorer final RMS of 0.43 s and confirms that the preferred update is not a simple reproduction of the slab-informed starting field. Resolution tests recover broad structures in the illuminated corridor (checkerboard correlation 0.94; spike amplitude recovery 0.88), whereas local uncertainty diagnostics indicate a median horizontal span of 14.1 km and a median depth span of 30 km within a +0.20 s RMS envelope. A local Benioff surface reconstructed from 236 relocated intermediate-depth control events spans 70--168 km depth, differs from Slab2 by 11.1 km RMS within the MMV study area, and has a Monte Carlo depth uncertainty of 7.5 km median. We classify the surface into nodes with both geometric and positive Vp support (41\%), geometric/tomographic coverage without positive Vp support (33\%), and interpolated or tomography-poor nodes (26\%). The results support a corridor-scale, seismicity-defined Nazca-related high-velocity geometry beneath the MMV, while ruling out cell-scale interpretation of individual velocity anomalies.
