@@ -1,4 +1,4 @@
-\RequirePackage{cmap}
+﻿\RequirePackage{cmap}
 \documentclass[review,authoryear]{elsarticle}
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
@@ -21,7 +21,7 @@
 \author{Author names removed for review}
 
 \begin{abstract}
-Intermediate-depth seismicity beneath the Middle Magdalena Valley (MMV), Colombia, provides a direct observational constraint on the geometry of the subducting Nazca slab, but local plate-scale interpretation is complicated by sparse station coverage, fixed catalog hypocentres, and strong basin-related velocity heterogeneity. We use 1729 earthquakes from the Servicio Geol\'ogico Colombiano catalog for 2022--2026, including 300 Bucaramanga-nest earthquakes at 120--170 km depth. This event set is independent of the local earthquakes used to build the earlier MMV Fast-Marching velocity--attenuation model that supplies the starting P-wave velocity field. We implement an alternating earthquake-relocation and P-wave tomography workflow on a 10 km grid: travel times are computed with Fast Marching fields, hypocentres are updated by local grid search with origin-time correction, and slowness perturbations plus station static terms are solved with LSMR. After active-cell and finite-ray checks, the final velocity system contains 8513 equations and 931 active cells, yielding a data-to-parameter ratio of 9.14 and an equation-level RMS of 0.40 s. Event-level diagnostics show a median final RMS of 0.23 s and a median reduction of 0.33 s relative to the SGC catalog RMS for 86\% of the earthquakes. Resolution tests recover broad structures in the illuminated corridor (checkerboard correlation 0.94; spike amplitude recovery 0.88), whereas local uncertainty diagnostics indicate a median horizontal span of 14.1 km and a median depth span of 30 km within a +0.20 s RMS envelope. A local Benioff surface reconstructed from 236 relocated intermediate-depth control events spans 70--168 km depth, differs from Slab2 by 11.1 km RMS within the MMV study area, and has a Monte Carlo depth uncertainty of 7.5 km median. We classify the surface into nodes with both geometric and positive Vp support (41\%), geometric/tomographic coverage without positive Vp support (33\%), and interpolated or tomography-poor nodes (26\%). The results support a corridor-scale, seismicity-defined Nazca-related high-velocity geometry beneath the MMV, while ruling out cell-scale interpretation of individual velocity anomalies.
+Intermediate-depth seismicity beneath the Middle Magdalena Valley (MMV), Colombia, provides a direct observational constraint on the geometry of the subducting Nazca slab, but local plate-scale interpretation is complicated by sparse station coverage, fixed catalog hypocentres, and strong basin-related velocity heterogeneity. We use 1729 earthquakes from the Servicio Geol\'ogico Colombiano catalog for 2022--2026, including 300 Bucaramanga-nest earthquakes at 120--170 km depth. This event set is independent of the local earthquakes used to build the earlier MMV Fast-Marching velocity--attenuation model that supplies the starting P-wave velocity field. We implement an alternating earthquake-relocation and P-wave tomography workflow on a 10 km grid: travel times are computed with Fast Marching fields, hypocentres are updated by local grid search with origin-time correction, and slowness perturbations plus station static terms are solved with LSMR. After active-cell and finite-ray checks, the final velocity system contains 8513 equations and 931 active cells, yielding a data-to-parameter ratio of 9.14 and an equation-level RMS of 0.40 s. Event-level diagnostics show a median final RMS of 0.23 s and a median reduction of 0.33 s relative to the SGC catalog RMS for 86\% of the earthquakes. A full current-dataset sensitivity run initialized from a depth-only 1-D model gives a comparable but poorer final RMS of 0.43 s and confirms that the preferred update is not a simple reproduction of the slab-informed starting field. Resolution tests recover broad structures in the illuminated corridor (checkerboard correlation 0.94; spike amplitude recovery 0.88), whereas local uncertainty diagnostics indicate a median horizontal span of 14.1 km and a median depth span of 30 km within a +0.20 s RMS envelope. A local Benioff surface reconstructed from 236 relocated intermediate-depth control events spans 70--168 km depth, differs from Slab2 by 11.1 km RMS within the MMV study area, and has a Monte Carlo depth uncertainty of 7.5 km median. We classify the surface into nodes with both geometric and positive Vp support (41\%), geometric/tomographic coverage without positive Vp support (33\%), and interpolated or tomography-poor nodes (26\%). The results support a corridor-scale, seismicity-defined Nazca-related high-velocity geometry beneath the MMV, while ruling out cell-scale interpretation of individual velocity anomalies.
 \end{abstract}
 
 \begin{keyword}
@@ -53,8 +53,8 @@ The final inversion dataset contains 1729 earthquakes and 8569 first P arrivals 
 \toprule
 Dataset & Period & Events & P arrivals & Bucaramanga-nest events & Role in this manuscript \\
 \midrule
-Earlier MMV FMM velocity--attenuation workflow & Pre-2022 MMV workflow & 660 & 2746 & Not used as controls & Starting Vp construction and 1-D prior diagnostic only \\
-Present independent SGC dataset & 2022--2026 & 1729 & 8569 & 300 & Relocation, station statics, Vp update, and Benioff reconstruction \\
+Earlier MMV FMM velocity--attenuation workflow & Pre-2022 MMV workflow & 660 & 2746 & Not used as controls & Starting Vp construction only \\
+Present independent SGC dataset & 2022--2026 & 1729 & 8569 & 300 & Relocation, station statics, Vp update, 1-D sensitivity test, and Benioff reconstruction \\
 \bottomrule
 \end{tabular}
 }
@@ -68,7 +68,7 @@ The construction began with a depth-dependent 1-D P-wave reference structure der
 
 A key limitation of that earlier velocity-only inversion is that earthquake hypocentres were kept fixed. In fixed-location tomography, residuals caused by catalog hypocentral error, origin-time error, or depth--time trade-off cannot be absorbed by relocation and are instead partly projected into the velocity update. This limitation motivated the present alternating workflow, because fixed-location tomography cannot separate velocity perturbations from catalog hypocentral errors and origin-time/depth trade-offs. The previous FMM velocity model is therefore used only as the starting point, while the current paper jointly updates earthquake locations, origin-time corrections, station static terms, and P-wave velocity perturbations using an independent event set.
 
-Because the starting field contains a smooth slab-informed component, its influence was tested before using it as the reference model. The companion velocity workflow included a 1-D prior sensitivity experiment in which the same Fast-Marching inversion was initialized from a laterally uniform depth-only model rather than from the slab-informed starting field. That diagnostic used 2746 P observations and 660 earthquakes from the MMV workflow and recovered a final model highly correlated with the slab-prior run in the common active cells ($r=0.95$ for absolute Vp and $r=0.94$ for the recovered update), while the correlation between the imposed slab-prior anomaly and the recovered update was near zero ($r=0.04$). The diagnostic documents that the starting model is not simply reproduced by the inversion. In the present paper, all velocity anomalies are therefore interpreted as updates relative to the starting model, and the Benioff surface is reconstructed independently from relocated seismicity rather than imposed on the inversion.
+Because the starting field contains a smooth slab-informed component, its influence was tested with the full dataset used in this manuscript. We repeated the complete two-round relocation--tomography workflow using the same 1729 events, 8569 selected P arrivals, station statics, active-cell criteria, and regularization, but initialized the inversion from a laterally uniform depth-only 1-D model. The 1-D model was obtained by retaining the depth dependence of the starting field and replacing each depth slice by its domain median, thereby removing the lateral slab-guided component while preserving the Londo\~no et al.-based depth trend. This sensitivity test is not treated as the preferred model; it is used to evaluate whether the broad Benioff interpretation depends on the slab-informed start. In the present paper, all velocity anomalies are therefore interpreted as updates relative to the starting model, and the Benioff surface is reconstructed independently from relocated seismicity rather than imposed on the inversion.
 
 \subsection{Fast-Marching relocation and velocity update}
 For each station, first-arrival travel times were computed on the 10 km grid using a Fast Marching solution of the eikonal equation \citep{Sethian1996,Zhao2005}. Using station-to-grid travel-time fields avoids graph-direction artifacts associated with Dijkstra-type 26-neighbour propagation and provides smoothly varying predictions for candidate hypocentral nodes. For event $i$ recorded at station $s$, the residual at a candidate hypocentre $\mathbf{x}_i$ is
@@ -107,6 +107,8 @@ Surface nodes were separated into three support classes: class A, nodes with geo
 The first relocation round reduced the median event-level RMS from 0.54 s to 0.27 s, with a median horizontal shift of 9.4 km. The second coupled round further reduced the median event-level RMS to 0.22 s before the final equation-level prediction step. The final P-wave inversion used 8513 finite, valid backtraced equations and 931 active cells, giving a data-to-parameter ratio of 9.14 and an equation-level RMS of 0.40 s. Relative to the SGC catalog RMS, 1491 of the 1729 events (86\%) improve after relocation, station-static correction, and velocity updating. The median SGC RMS is 0.60 s, whereas the median final event RMS is 0.23 s; the median absolute improvement is 0.33 s, or 59\% relative reduction. The largest event-level improvements occur for earthquakes with SGC RMS close to the selection limit but final residuals below 0.12 s (Table~\ref{tab:rms_examples}).
 
 The checkerboard test reaches a correlation of 0.94 between the imposed and recovered slowness perturbations in active cells, with an amplitude recovery of 0.94 after adding 0.03 s timing noise. The spike test is a true single-cell point-spread experiment: only one active cell is perturbed in the imposed model. The peak amplitude recovered at the spike cell is 0.88 of the imposed value; however, Laplacian smoothing distributes 98\% of the total recovered L1 norm outside the central cell. This distribution is expected for a Laplacian-regularized inversion with elongated station geometry and does not imply that the central anomaly is artefactual; rather, it shows that the robust interpretation scale is approximately 20--30 km, not one isolated 10 km cell. These two metrics are therefore complementary: peak recovery is good, but the point-spread function confirms that individual 10 km cells cannot be interpreted in isolation. Vertical N-S and E-W profiles through the Bucaramanga-nest corridor show that the intermediate-depth seismicity and the reconstructed Benioff surface occupy the same depth range as the better-sampled velocity corridor. In that restricted sense, shallow negative perturbations are most plausibly related to basin and fractured upper-crustal domains, while intermediate-depth positive perturbations provide a velocity attribute consistent with a Nazca-related high-velocity corridor previously inferred at regional scale \citep{Poveda2018,Londono2020Velocity,Syracuse2016}.
+
+The full current-dataset 1-D sensitivity run gives a comparable but less stable solution than the preferred slab-informed start. Using the same 1729 events and 8569 selected P arrivals, the 1-D-start run retains 1000 active cells and reaches an equation-level RMS of 0.43 s, compared with 0.40 s for the preferred run. Its median event-level RMS is also higher (0.29 s versus 0.23 s), while the checkerboard correlation remains similar (0.93 versus 0.94). In the 715 common active cells, the raw cell-by-cell final Vp correlation is 0.60 and the recovered-update correlation is 0.33, showing that individual 10 km cell amplitudes are not independent of the starting model. However, after smoothing over two grid cells, consistent with the 20--30 km scale supported by the spike test, the final absolute Vp correlation increases to 0.93 and the median absolute final-model difference is 2.5\% (90th percentile 6.5\%). The correlation between the preferred starting lateral component and the preferred recovered update is essentially zero ($r=0.001$). Thus, the slab-informed starting model improves stability and fit, but the preferred update is not a simple reproduction of the imposed lateral prior; the defensible interpretation remains corridor-scale rather than cell-scale (Figure~\ref{fig:prior1d}).
 
 \subsection{Azimuthal gap and location uncertainty}
 The final catalog is not uniformly constrained. The median azimuthal gap is $195^\circ$ and the 90th percentile is $270^\circ$. Separating events by gap class shows why this matters (Table~\ref{tab:gap_classes}). The 713 events with gap $<180^\circ$ have a median horizontal uncertainty proxy of 14.1 km and a median depth span of 30 km. The 1016 events with gap $\geq180^\circ$ have comparable, and slightly lower, event-level RMS but a broader median horizontal uncertainty of 22.4 km and a 40 km median depth span. This apparently counter-intuitive RMS pattern does not imply better locations for the high-gap class. Rather, RMS measures travel-time fit after origin-time and station-static correction, whereas azimuthal gap controls geometric stability. The split by Bucaramanga-nest and non-nest events (Table~\ref{tab:gap_dataset}) shows the same behaviour within both subsets: poorer-gap events can fit the recorded arrivals well, but their local uncertainty envelope remains broader. The repeated median horizontal-span values in the two subsets are expected because the uncertainty proxy is quantized by the 10 km search grid and summarized by class medians, not copied between rows. Thus, RMS alone would overstate the quality of poorly surrounded events. The Benioff reconstruction and velocity interpretation are therefore weighted toward spatially coherent clusters and high-coverage cells rather than individual earthquake depths.
@@ -159,98 +161,105 @@ A minority of 238 events worsens relative to the SGC catalog RMS, and 25 events 
 
 \begin{figure}[p]
 \centering
-\includegraphics[width=0.85\textwidth]{C:/Users/claudia.parra/Documents/Materias_romulo/investigacion/tomografia_localizacion_simultaneas/output_sgc_new_events_joint_vp_relocation_fmm_min4_plus_shallow/figures/sgc_new_events_area_stations_events.png}
+\includegraphics[width=0.85\textwidth]{../figures/sgc_new_events_area_stations_events.png}
 \caption{Study area, stations, and independent SGC earthquakes used in the alternating relocation--tomography workflow. Bucaramanga-nest events were prioritized within the same RMS and pick-count filters to improve intermediate-depth sampling of the Nazca-related seismic zone.}
 \label{fig:area}
 \end{figure}
 
 \begin{figure}[p]
 \centering
-\includegraphics[width=\textwidth]{C:/Users/claudia.parra/Documents/Materias_romulo/investigacion/tomografia_localizacion_simultaneas/output_sgc_new_events_joint_vp_relocation_fmm_min4_plus_shallow/figures/q1_gap_quality_map_and_stats.png}
+\includegraphics[width=\textwidth]{../figures/q1_gap_quality_map_and_stats.png}
 \caption{Relocated events colored by azimuthal gap, with event-level RMS and depth-uncertainty distributions separated into gap classes. The figure shows why location quality must be evaluated with geometry, not RMS alone.}
 \label{fig:gap}
 \end{figure}
 
 \begin{figure}[p]
 \centering
-\includegraphics[width=0.9\textwidth]{C:/Users/claudia.parra/Documents/Materias_romulo/investigacion/tomografia_localizacion_simultaneas/output_sgc_new_events_joint_vp_relocation_fmm_min4_plus_shallow/figures/sgc_new_events_relocation_diagnostics.png}
+\includegraphics[width=0.9\textwidth]{../figures/sgc_new_events_relocation_diagnostics.png}
 \caption{Relocation diagnostics for the independent SGC event set.}
 \label{fig:relocation}
 \end{figure}
 
 \begin{figure}[p]
 \centering
-\includegraphics[width=\textwidth]{C:/Users/claudia.parra/Documents/Materias_romulo/investigacion/tomografia_localizacion_simultaneas/output_sgc_new_events_joint_vp_relocation_fmm_min4_plus_shallow/figures/sgc_new_events_vp_slices_initial_final_delta.png}
+\includegraphics[width=\textwidth]{../figures/sgc_new_events_vp_slices_initial_final_delta.png}
 \caption{Starting velocity model, final coupled velocity model, and active-cell perturbations. Velocity anomalies are interpreted only where coverage and synthetic tests support broad structures.}
 \label{fig:vp}
 \end{figure}
 
 \begin{figure}[p]
 \centering
-\includegraphics[width=\textwidth]{C:/Users/claudia.parra/Documents/Materias_romulo/investigacion/tomografia_localizacion_simultaneas/output_sgc_new_events_joint_vp_relocation_fmm_min4_plus_shallow/figures/q1_velocity_vertical_profiles_ns_ew.png}
+\includegraphics[width=\textwidth]{../figures/q1_velocity_vertical_profiles_ns_ew.png}
 \caption{N-S and E-W vertical profiles through the Bucaramanga-nest corridor. Each row shows the starting Vp model, final Vp model, and $\Delta V_P$, with relocated seismicity, stations projected to the profile, and the reconstructed Benioff surface.}
 \label{fig:profiles}
 \end{figure}
 
 \begin{figure}[p]
 \centering
-\includegraphics[width=\textwidth]{C:/Users/claudia.parra/Documents/Materias_romulo/investigacion/tomografia_localizacion_simultaneas/output_sgc_new_events_joint_vp_relocation_fmm_min4_plus_shallow/figures/sgc_new_events_checkerboard_diagnostic.png}
+\includegraphics[width=\textwidth]{../figures/current_dataset_1d_prior_sensitivity.png}
+\caption{Current-dataset starting-model sensitivity. The preferred run starts from the local slab-informed FMM velocity model, whereas the sensitivity run starts from a laterally uniform 1-D depth-only model built from the same depth trend. The panels compare recovered updates and final-model differences at representative intermediate depths.}
+\label{fig:prior1d}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=\textwidth]{../figures/sgc_new_events_checkerboard_diagnostic.png}
 \caption{Checkerboard recovery test for the final active-cell geometry. The imposed pattern uses alternating blocks of approximately 20--30 km lateral extent, or two to three contiguous active cells on the 10 km grid where the active mask is spatially continuous. The test constrains the scale of robust velocity interpretation.}
 \label{fig:checker}
 \end{figure}
 
 \begin{figure}[p]
 \centering
-\includegraphics[width=\textwidth]{C:/Users/claudia.parra/Documents/Materias_romulo/investigacion/tomografia_localizacion_simultaneas/output_sgc_new_events_joint_vp_relocation_fmm_min4_plus_shallow/figures/q1_spike_point_spread_single_cell.png}
+\includegraphics[width=\textwidth]{../figures/q1_spike_point_spread_single_cell.png}
 \caption{Single-cell spike recovery test. The imposed model perturbs only one active cell; the recovered maps and sections show the point-spread function around that cell.}
 \label{fig:spike}
 \end{figure}
 
 \begin{figure}[p]
 \centering
-\includegraphics[width=\textwidth]{C:/Users/claudia.parra/Documents/Materias_romulo/investigacion/tomografia_localizacion_simultaneas/output_sgc_new_events_joint_vp_relocation_fmm_min4_plus_shallow/figures/q1_regularization_tradeoff_table.png}
+\includegraphics[width=\textwidth]{../figures/q1_regularization_tradeoff_table.png}
 \caption{Regularization sweep for the final velocity update. Damping changes produce nearly identical trade-offs relative to the Laplacian weight, indicating that smoothness is the dominant regularization control for this dataset. The selected solution uses $\lambda_L=3.0$ and $\lambda_D=0.25$; it is within 0.36\% of the minimum data norm while reducing the model and Laplacian norms by 27\% and 34\%, respectively, relative to $\lambda_L=1.0$, $\lambda_D=0.25$.}
 \label{fig:lcurve}
 \end{figure}
 
 \begin{figure}[p]
 \centering
-\includegraphics[width=\textwidth]{C:/Users/claudia.parra/Documents/Materias_romulo/investigacion/tomografia_localizacion_simultaneas/output_sgc_new_events_joint_vp_relocation_fmm_min4_plus_shallow/figures/nazca_benioff_vp_surface_3d.png}
+\includegraphics[width=\textwidth]{../figures/nazca_benioff_vp_surface_3d.png}
 \caption{Three-dimensional local Nazca/Benioff surface reconstructed from relocated intermediate-depth earthquakes and colored by $\Delta V_P$ sampled on the surface. Black circles are relocated control events; highlighted points indicate controls located in positive $\Delta V_P$ cells.}
 \label{fig:surface3d}
 \end{figure}
 
 \begin{figure}[p]
 \centering
-\includegraphics[width=\textwidth]{C:/Users/claudia.parra/Documents/Materias_romulo/investigacion/tomografia_localizacion_simultaneas/output_sgc_new_events_joint_vp_relocation_fmm_min4_plus_shallow/figures/q1_benioff_support_classes_and_slab2.png}
+\includegraphics[width=\textwidth]{../figures/q1_benioff_support_classes_and_slab2.png}
 \caption{Support classes for the local Benioff surface and comparison between the local surface and Slab2. Class A nodes are both geometrically constrained and supported by positive velocity perturbations; class B nodes have geometric and tomographic coverage without positive velocity support; class C nodes are interpolated or tomography-poor.}
 \label{fig:slab2}
 \end{figure}
 
 \begin{figure}[p]
 \centering
-\includegraphics[width=0.72\textwidth]{C:/Users/claudia.parra/Documents/Materias_romulo/investigacion/tomografia_localizacion_simultaneas/output_sgc_new_events_joint_vp_relocation_fmm_min4_plus_shallow/figures/q1_benioff_depth_uncertainty_mc.png}
+\includegraphics[width=0.72\textwidth]{../figures/q1_benioff_depth_uncertainty_mc.png}
 \caption{Monte Carlo depth uncertainty of the RBF Benioff surface after perturbing control-event depths by 15 km standard deviation.}
 \label{fig:benioffunc}
 \end{figure}
 
 \begin{figure}[p]
 \centering
-\includegraphics[width=0.78\textwidth]{C:/Users/claudia.parra/Documents/Materias_romulo/investigacion/tomografia_localizacion_simultaneas/output_sgc_new_events_joint_vp_relocation_fmm_min4_plus_shallow/figures/q1_station_statics_vs_elevation.png}
+\includegraphics[width=0.78\textwidth]{../figures/q1_station_statics_vs_elevation.png}
 \caption{Estimated station static terms compared with station elevation from SGC FDSN station metadata. Large static terms are not explained by elevation alone and are treated as combined receiver, timing, coupling, and local-structure corrections.}
 \label{fig:statics}
 \end{figure}
 
 \begin{figure}[p]
 \centering
-\includegraphics[width=\textwidth]{C:/Users/claudia.parra/Documents/Materias_romulo/investigacion/tomografia_localizacion_simultaneas/output_sgc_new_events_joint_vp_relocation_fmm_min4_plus_shallow/figures/location_local_grid_uncertainty.png}
+\includegraphics[width=\textwidth]{../figures/location_local_grid_uncertainty.png}
 \caption{Local grid-search uncertainty proxy. Accepted nodes are candidate hypocentres within 0.20 s of the local minimum RMS.}
 \label{fig:uncertainty}
 \end{figure}
 
 \begin{figure}[p]
 \centering
-\includegraphics[width=\textwidth]{C:/Users/claudia.parra/Documents/Materias_romulo/investigacion/tomografia_localizacion_simultaneas/output_sgc_new_events_joint_vp_relocation_fmm_min4_plus_shallow/figures/rms_sgc_vs_final_by_depth.png}
+\includegraphics[width=\textwidth]{../figures/rms_sgc_vs_final_by_depth.png}
 \caption{SGC-reported RMS and final event-level RMS after relocation and velocity updating, plotted against SGC-reported depth. Positive improvement indicates lower final RMS.}
 \label{fig:rmsdepth}
 \end{figure}
@@ -283,7 +292,7 @@ The independent SGC event set provides a stricter test of the local MMV Fast-Mar
 
 The station static terms are a central part of the interpretation rather than a numerical detail. Without statics, near-station residuals at BAR2, PAM, VMM11, VMM12, and other receivers could be mapped into shallow velocity cells and inflate apparent basin-scale anomalies. The elevation test shows that topography does not explain the static pattern by itself. The static terms should therefore be read as nuisance parameters that absorb receiver-side and possible timing effects, not as direct estimates of near-surface geology. This is important because it prevents overclaiming from a sparse station network.
 
-The local Benioff surface provides the main tectonic constraint derived from the workflow. It is built from relocated intermediate-depth earthquakes, not imposed through the velocity prior, and it is then evaluated with two independent attributes: Slab2 depth and the final P-wave perturbation field. The Slab2 comparison indicates that the local surface is deeper by a median of 8.3 km and differs by 11.1 km RMS within the study area. This difference is geologically meaningful but not contradictory. Slab2 is a regional plate-interface model, whereas the local surface follows the seismogenic volume, which may be offset from the plate interface because dehydration reactions, thermal structure, and eclogitization distribute seismicity through a finite thickness \citep{Hacker2003,vanKeken2011}. The deeper local seismicity-defined surface suggests that the intermediate-depth earthquakes beneath the MMV preferentially sample an intra-slab seismogenic volume rather than the regional plate-interface surface represented by Slab2. This distinction is important in northeastern Colombia, where the Bucaramanga nest and the surrounding intermediate-depth seismicity define a volumetric, rather than purely interfacial, expression of Nazca-slab deformation. The median offset is also comparable to the Monte Carlo surface uncertainty and to the internal RBF fit RMSE of 12.6 km, so the Slab2 departure is within the scatter expected for a seismicity-defined zone rather than a single interface. A secondary contribution from the depth-dependent starting velocity profile cannot be excluded, but the 1-D prior sensitivity test indicates that the recovered update pattern is controlled primarily by the arrival-time data. The offset is therefore better interpreted as the difference between a seismicity-defined Benioff zone and an averaged plate-interface surface than as a failure of the local reconstruction.
+The local Benioff surface provides the main tectonic constraint derived from the workflow. It is built from relocated intermediate-depth earthquakes, not imposed through the velocity prior, and it is then evaluated with two independent attributes: Slab2 depth and the final P-wave perturbation field. The Slab2 comparison indicates that the local surface is deeper by a median of 8.3 km and differs by 11.1 km RMS within the study area. This difference is geologically meaningful but not contradictory. Slab2 is a regional plate-interface model, whereas the local surface follows the seismogenic volume, which may be offset from the plate interface because dehydration reactions, thermal structure, and eclogitization distribute seismicity through a finite thickness \citep{Hacker2003,vanKeken2011}. The deeper local seismicity-defined surface suggests that the intermediate-depth earthquakes beneath the MMV preferentially sample an intra-slab seismogenic volume rather than the regional plate-interface surface represented by Slab2. This distinction is important in northeastern Colombia, where the Bucaramanga nest and the surrounding intermediate-depth seismicity define a volumetric, rather than purely interfacial, expression of Nazca-slab deformation. The median offset is also comparable to the Monte Carlo surface uncertainty and to the internal RBF fit RMSE of 12.6 km, so the Slab2 departure is within the scatter expected for a seismicity-defined zone rather than a single interface. A secondary contribution from the depth-dependent starting velocity profile cannot be excluded. The full current-dataset 1-D-start sensitivity run shows that detailed 10 km updates vary with the starting field, but it also shows that the preferred lateral starting component is uncorrelated with the recovered update and that the smoothed 20 km final Vp fields remain highly correlated. The offset is therefore better interpreted as the difference between a seismicity-defined Benioff zone and an averaged plate-interface surface than as a direct artefact of the slab-informed starting model.
 
 The 41\% class-A fraction should therefore not be described as ``only'' 41\% support. It defines the part of the RBF surface where geometry, ray coverage, and positive P-wave perturbations agree. Class B nodes remain geometrically and tomographically sampled but do not express a positive velocity attribute, and class C nodes are interpolation-dominated or tomography-poor. This classification makes the surface falsifiable: the interpretation is concentrated where several independent criteria agree, and the rest of the surface is retained as geometric context rather than used as evidence for slab structure.
 
@@ -294,6 +303,7 @@ Two limitations remain important. First, the workflow is alternating and grid-ba
 \item An independent 2022--2026 SGC earthquake subset with 1729 events, 8569 P arrivals, and 300 Bucaramanga-nest earthquakes provides a substantially stronger test of the MMV P-wave model than the earlier attenuation-oriented event set.
 \item The alternating Fast-Marching relocation--tomography workflow improves the event-level RMS for 86\% of the catalog. The final velocity system has 8513 equations, 931 active cells, and a data-to-parameter ratio of 9.14.
 \item Checkerboard and spike tests support interpretation of broad structures in the illuminated corridor. Individual 10 km cells should not be interpreted as independent geological bodies.
+\item The full-dataset 1-D-start sensitivity run reaches a comparable but poorer RMS (0.43 s) and confirms that the slab-informed starting component is not simply reproduced by the inversion. At the supported 20--30 km scale, the preferred and 1-D-start final velocity fields remain similar enough for corridor-scale interpretation, while raw 10 km cell amplitudes remain start-model dependent.
 \item Azimuthal-gap stratification is essential. Events with gap $<180^\circ$ and gap $\geq180^\circ$ have similar final RMS but different horizontal and depth uncertainty, showing that RMS alone is not a sufficient quality metric.
 \item The local Nazca/Benioff surface reconstructed from 236 intermediate-depth control events spans 70--168 km depth, differs from Slab2 by 11.1 km RMS within the MMV study area, and has a Monte Carlo depth uncertainty of 7.5 km median.
 \item The most defensible slab-related interpretation is restricted to class-A surface nodes, where geometric control, active tomographic coverage, hit count, and positive P-wave perturbations coincide. These nodes define a local Nazca-related high-velocity corridor beneath the MMV.
@@ -318,3 +328,4 @@ This research received no external funding.
 \bibliography{references_q1}
 
 \end{document}
+

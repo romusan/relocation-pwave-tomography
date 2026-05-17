@@ -2,7 +2,7 @@
 
 This repository contains the reproducibility package associated with the manuscript:
 
-**Fast-marching earthquake relocation and P-wave tomography delineate a local Nazca Benioff-zone geometry beneath the Middle Magdalena Valley, Colombia**
+**Fast-marching earthquake relocation and P-wave tomography constrain a seismicity-defined Nazca Benioff zone beneath the Middle Magdalena Valley, Colombia**
 
 The package includes the manuscript source, final paper PDF, Python scripts, processed tables, diagnostic metrics, and figures used to support the results. The workflow applies an alternating Fast-Marching earthquake-relocation and P-wave tomography approach to an independent 2022-2026 Servicio Geologico Colombiano earthquake subset.
 
@@ -26,6 +26,8 @@ Raw SGC XML event files and waveform data are not included because they are larg
 ## Main scripts
 
 - `code/run_sgc_new_events_joint_vp_relocation.py`
+- `code/run_sgc_new_events_joint_vp_relocation_1d_sensitivity.py`
+- `code/analyze_current_dataset_1d_sensitivity.py`
 - `code/analyze_location_uncertainty_station_diagnostics.py`
 - `code/analyze_rms_improvement_examples.py`
 - `code/generate_nazca_benioff_vp_surface.py`
@@ -49,6 +51,7 @@ The core processed outputs are already included in `data/`, `figures/`, and `met
 ```bash
 python code/analyze_rms_improvement_examples.py
 python code/analyze_location_uncertainty_station_diagnostics.py
+python code/analyze_current_dataset_1d_sensitivity.py
 python code/generate_nazca_benioff_vp_surface.py
 ```
 
@@ -67,4 +70,3 @@ Author names removed for review. (2026). Fast-marching earthquake relocation and
 ```
 
 If the GitHub repository is archived with Zenodo, cite the Zenodo DOI generated from release `v1.0.0`.
-

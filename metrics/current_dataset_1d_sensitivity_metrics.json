@@ -1,0 +1,81 @@
+{
+  "method": "Current 2022-2026 dataset sensitivity: preferred slab-informed start versus depth-only 1-D start",
+  "preferred": {
+    "events": 1729,
+    "picks": 8569,
+    "equations": 8513,
+    "active_cells": 931,
+    "final_rms_s": 0.3981408806670499,
+    "median_event_final_rms_s": 0.2305466310858617,
+    "checkerboard_corr": 0.9422885827955508
+  },
+  "one_d": {
+    "events": 1729,
+    "picks": 8569,
+    "equations": 8514,
+    "active_cells": 1000,
+    "final_rms_s": 0.4295841036994787,
+    "median_event_final_rms_s": 0.2928378157868818,
+    "checkerboard_corr": 0.9287079249371872
+  },
+  "common_active_cells": 715,
+  "corr_final_abs_vp_common": 0.6005085298834286,
+  "corr_recovered_update_common": 0.3299163564197318,
+  "corr_starting_lateral_component_vs_preferred_update_common": 0.001263567182787918,
+  "final_difference_percent_p05_p50_p95_common": [
+    -20.58250517996582,
+    -1.1591691552350558,
+    14.889539824529184
+  ],
+  "abs_final_difference_percent_p50_p90_common": [
+    5.450405144993372,
+    17.860652573758994
+  ],
+  "smoothed_comparison": {
+    "sigma_1_cells": {
+      "corr_final_abs_vp_common": 0.8651415788764536,
+      "corr_recovered_update_common": 0.381235442821916,
+      "abs_final_difference_percent_p50_p90_common": [
+        3.076874531786119,
+        8.31249361325496
+      ]
+    },
+    "sigma_1.5_cells": {
+      "corr_final_abs_vp_common": 0.9107185132604088,
+      "corr_recovered_update_common": 0.42047583421757284,
+      "abs_final_difference_percent_p50_p90_common": [
+        2.5257874029716607,
+        7.233080059349875
+      ]
+    },
+    "sigma_2_cells": {
+      "corr_final_abs_vp_common": 0.9326763841712118,
+      "corr_recovered_update_common": 0.5272800409140853,
+      "abs_final_difference_percent_p50_p90_common": [
+        2.5148776207769696,
+        6.4563853913688325
+      ]
+    }
+  },
+  "event_rms_difference_1d_minus_preferred_p50_p90_s": [
+    0.054278269329124745,
+    0.18658203274960894
+  ],
+  "relocation_difference_all_events": {
+    "median_horizontal_km": 10.0,
+    "p90_horizontal_km": 14.142135623730951,
+    "median_vertical_km": 10.0,
+    "p90_vertical_km": 20.0,
+    "median_total_km": 14.14213494938139,
+    "p90_total_km": 24.494898985175666
+  },
+  "relocation_difference_intermediate_events_70_170km": {
+    "events": 1437,
+    "median_horizontal_km": 10.0,
+    "p90_horizontal_km": 14.142135623730951,
+    "median_vertical_km": 10.0,
+    "p90_vertical_km": 20.0,
+    "median_total_km": 14.142135623730951,
+    "p90_total_km": 28.284271247461902
+  }
+}
