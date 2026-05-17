@@ -11,7 +11,7 @@
 \DisableLigatures{encoding = *, family = *}
 \usepackage[hidelinks]{hyperref}
 \biboptions{authoryear}
-\journal{Geophysical Journal International}
+\journal{Journal of South American Earth Sciences}
 
 \begin{document}
 \begin{frontmatter}
@@ -33,11 +33,13 @@ Middle Magdalena Valley \sep earthquake relocation \sep P-wave tomography \sep B
 \section{Introduction}
 The northern Andes record one of the most complex subduction settings in South America, where the Nazca, Caribbean, and South American plates interact with inherited crustal structures, sedimentary basins, and strongly segmented intermediate-depth seismicity \citep{Taboada2000,VanDerHilst1994,Syracuse2016,Schellart2023}. In Colombia, the Bucaramanga seismic nest and the broader intermediate-depth seismicity field provide a natural tracer of slab-related processes, but the relation between hypocentral patterns, velocity anomalies, and plate geometry remains scale dependent \citep{Zarifi2007,Londono2019,SepulvedaJaimes2018}. At the scale of the Middle Magdalena Valley (MMV), previous studies have documented both crustal heterogeneity associated with the basin and deeper subduction-related structure beneath northeastern Colombia \citep{OjedaHavskov2001,Poveda2018,Londono2020Velocity,LondonoRomero2017}.
 
+The MMV is an intermontane sedimentary basin between the Central and Eastern Cordilleras, crossed and bounded by inherited fault systems and Cenozoic basin-fill packages that strongly affect shallow seismic velocities and local ray geometry \citep{MojicaFranco1990,GomezTapias2019}. The regional structural framework includes the Bucaramanga--Santa Marta, La Salina, Eastern Frontal, and related fault systems, which connect basin inversion, Andean shortening, and right-lateral deformation in the North Andean block \citep{MojicaFranco1990,Audemard2021,Londono2019}. This geological setting is important for the present work because shallow basin heterogeneity, receiver-side structure, and intermediate-depth Nazca-related seismicity are sampled by the same elongated station network; the velocity model must therefore be interpreted jointly with ray coverage, station statics, and the seismicity-defined Benioff geometry rather than as isolated 10 km cell anomalies.
+
 Local earthquake tomography is a standard approach for linking arrival-time residuals, hypocentral geometry, and three-dimensional velocity structure \citep{Aki1976,Crosson1976,Thurber1983,Pavlis1980}. The difficulty is that hypocentre and velocity errors are coupled: fixed catalog locations can project location bias into the velocity model, whereas an over-flexible velocity update can absorb pick, origin-time, receiver, and source-distribution errors \citep{Thurber1992}. This issue is especially important in the MMV because the station geometry is elongated, the basin produces strong lateral heterogeneity, and the Bucaramanga nest contributes many rays at intermediate depth but not necessarily uniform azimuthal coverage.
 
 This study differs from previous MMV work in both method and structural target. Earlier studies established the regional seismicity, local magnitude scale, ambient-noise velocity structure, and detailed MMV velocity context \citep{Londono2019,LondonoRomero2017,Poveda2018,Londono2020Velocity}, while the Bucaramanga nest has been characterized as a persistent intermediate-depth seismicity cluster \citep{Zarifi2007,SepulvedaJaimes2018}. Here we use an independent 2022--2026 event subset, relocate the earthquakes with Fast-Marching travel times, solve for station static terms and P-wave velocity updates, and reconstruct a local Benioff surface that is evaluated quantitatively against Slab2 and Monte Carlo depth perturbations.
 
-This paper asks a focused structural question: can an independent SGC earthquake subset, relocated in an updated 3-D P-wave velocity model, constrain a local Nazca/Benioff geometry beneath the MMV at a scale suitable for high-impact tectonic interpretation? The answer cannot rest on RMS reduction alone. We therefore combine an alternating Fast-Marching relocation--tomography workflow with station static terms, checkerboard and spike tests, azimuthal-gap stratification, local grid-search uncertainty, regularization diagnostics, comparison with Slab2 \citep{Hayes2018Slab2}, and Monte Carlo uncertainty propagation for the reconstructed Benioff surface. The emphasis is deliberately corridor-scale: the objective is not to claim a complete Thurber-type simultaneous inversion, but to quantify how much of the local Nazca geometry is jointly supported by relocated seismicity and the recovered P-wave velocity field.
+This paper asks a focused structural question: can an independent SGC earthquake subset, relocated in an updated 3-D P-wave velocity model, constrain a local Nazca/Benioff geometry beneath the MMV at a scale suitable for corridor-scale tectonic interpretation? The answer cannot rest on RMS reduction alone. We therefore combine an alternating Fast-Marching relocation--tomography workflow with station static terms, checkerboard and spike tests, azimuthal-gap stratification, local grid-search uncertainty, regularization diagnostics, comparison with Slab2 \citep{Hayes2018Slab2}, and Monte Carlo uncertainty propagation for the reconstructed Benioff surface. The emphasis is deliberately corridor-scale: the objective is not to claim a complete Thurber-type simultaneous inversion, but to quantify how much of the local Nazca geometry is jointly supported by relocated seismicity and the recovered P-wave velocity field.
 
 \section{Data and tectonic context}
 The input catalog was built from the SGC expert catalog for 2022--2026 within the MMV study area (longitude -74.6 to -72.55, latitude 6.2 to 8.05; Figure~\ref{fig:area} uses rounded plotting limits). To provide an independent test of a local velocity field derived from the same MMV domain, events previously used in the earlier MMV velocity--attenuation workflow were excluded. The selected dataset retains events with SGC catalog RMS $<1.0$ s, depths between 20 and 170 km, and at least four P picks. Within those same quality filters, 300 Bucaramanga-nest events between 120 and 170 km depth were prioritized so that the intermediate-depth part of the ray set samples the Nazca-related seismic zone; the nest events were not exempted from the RMS or pick-count criteria.
@@ -161,8 +163,8 @@ A minority of 238 events worsens relative to the SGC catalog RMS, and 25 events 
 
 \begin{figure}[p]
 \centering
-\includegraphics[width=0.85\textwidth]{../figures/sgc_new_events_area_stations_events.png}
-\caption{Study area, stations, and independent SGC earthquakes used in the alternating relocation--tomography workflow. Bucaramanga-nest events were prioritized within the same RMS and pick-count filters to improve intermediate-depth sampling of the Nazca-related seismic zone.}
+\includegraphics[width=\textwidth,height=0.75\textheight,keepaspectratio]{../figures/q1_fig1_geologic_context_and_data.png}
+\caption{Geological context and data geometry for the MMV relocation--tomography experiment. (a) Geological and structural framework of the Middle Magdalena Valley, including the main basin-bounding and intrabasin fault systems, adapted from the geological map used in the companion localization study and based on regional SGC compilations \citep{GomezTapias2019}. (b) Selected SGC earthquakes, Bucaramanga-nest events, stations, and tomography-domain limits used in the present alternating Fast-Marching relocation--tomography workflow. Bucaramanga-nest events were prioritized within the same RMS and pick-count filters to improve intermediate-depth sampling of the Nazca-related seismic zone.}
 \label{fig:area}
 \end{figure}
 
@@ -189,15 +191,16 @@ A minority of 238 events worsens relative to the SGC catalog RMS, and 25 events 
 
 \begin{figure}[p]
 \centering
-\includegraphics[width=\textwidth]{../figures/q1_velocity_vertical_profiles_ns_ew.png}
+\includegraphics[width=\textwidth,height=0.82\textheight,keepaspectratio]{../figures/q1_velocity_vertical_profiles_ns_ew_portrait.png}
 \caption{N-S and E-W vertical profiles through the Bucaramanga-nest corridor. Each row shows the starting Vp model, final Vp model, and $\Delta V_P$, with relocated seismicity, stations projected to the profile, and the reconstructed Benioff surface.}
 \label{fig:profiles}
 \end{figure}
+\clearpage
 
 \begin{figure}[p]
 \centering
 \includegraphics[width=\textwidth]{../figures/current_dataset_1d_prior_sensitivity.png}
-\caption{Current-dataset starting-model sensitivity. The preferred run starts from the local slab-informed FMM velocity model, whereas the sensitivity run starts from a laterally uniform 1-D depth-only model built from the same depth trend. The panels compare recovered updates and final-model differences at representative intermediate depths.}
+\caption{Current-dataset starting-model sensitivity. The preferred run starts from the local slab-informed FMM velocity model, whereas the sensitivity run starts from a laterally uniform 1-D depth-only model built from the same depth trend. The panels compare recovered updates and final-model differences at representative intermediate depths. The comparison evaluates corridor-scale stability; individual 10 km cell differences are not interpreted geologically.}
 \label{fig:prior1d}
 \end{figure}
 
