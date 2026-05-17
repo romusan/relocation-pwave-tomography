@@ -33,6 +33,9 @@ def main():
     ax1 = fig.add_subplot(gs[1, 0])
 
     img = plt.imread(GEOLOGY_MAP)
+    # Keep the geologic map and scale bar, but remove the detailed stratigraphic
+    # legend so the structural framework remains legible at manuscript size.
+    img = img[:, : int(img.shape[1] * 0.50)]
     ax0.imshow(img)
     ax0.set_axis_off()
     ax0.text(
