@@ -1,0 +1,25 @@
+{
+  "pid": 151088,
+  "core_sha256": "1a835930158b24e240789a8037ee6a23928bd230752946f6098e3c8996c729dd",
+  "helper_sha256": "ef078127318956b4116f8d68629952723c82422511f8f3fa7c970c27060ef437",
+  "jacobian": "two private station workers for depth basis, original for 3D",
+  "bitwise_verification": [
+    {
+      "basis": "1d",
+      "rows": 48,
+      "parameters": 19,
+      "bitwise_identical": true,
+      "serial_seconds": 1.8190511998254806,
+      "station_parallel_seconds": 1.1845470999833196
+    },
+    {
+      "basis": "3d",
+      "rows": 48,
+      "parameters": 9196,
+      "bitwise_identical": true,
+      "serial_seconds": 1.1220633999910206,
+      "station_parallel_seconds": 1.0840189999435097
+    }
+  ],
+  "protocol_change": false
+}

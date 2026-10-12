@@ -1,0 +1,2082 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          10
+        ]
+      ],
+      "date-time": "2026-10-10T00:22:42Z",
+      "timestamp": 1791591762075,
+      "version": "4.3.4"
+    },
+    "reference-count": 0,
+    "publisher": "Seismological Society of America (SSA)",
+    "issue": "6",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Bulletin of the Seismological Society of America"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2000,
+          12,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1785/0120000006",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2005,
+          3,
+          15
+        ]
+      ],
+      "date-time": "2005-03-15T14:55:26Z",
+      "timestamp": 1110898526000
+    },
+    "page": "1353-1368",
+    "source": "Crossref",
+    "is-referenced-by-count": 2981,
+    "title": [
+      "A Double-Difference Earthquake Location Algorithm: Method and Application to the Northern Hayward Fault, California"
+    ],
+    "prefix": "10.1785",
+    "volume": "90",
+    "author": [
+      {
+        "given": "F.",
+        "family": "Waldhauser",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "790",
+    "container-title": [
+      "Bulletin of the Seismological Society of America"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1785/0120000006",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          3
+        ]
+      ],
+      "date-time": "2017-11-03T15:24:13Z",
+      "timestamp": 1509722653000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://pubs.geoscienceworld.org/bssa/article/90/6/1353-1368/120565"
+      },
+      "secondary": [
+        {
+          "URL": "http://bssa.geoscienceworld.org/cgi/doi/10.1785/0120000006",
+          "label": "geoscienceworld"
+        }
+      ]
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          12,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            2000,
+            12,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1785/0120000006",
+    "relation": {},
+    "ISSN": [
+      "0037-1106"
+    ],
+    "issn-type": [
+      {
+        "value": "0037-1106",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2000,
+          12,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          9
+        ]
+      ],
+      "date-time": "2026-10-09T01:59:01Z",
+      "timestamp": 1791511141012,
+      "version": "4.3.4"
+    },
+    "reference-count": 0,
+    "publisher": "Seismological Society of America (SSA)",
+    "issue": "5",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Bulletin of the Seismological Society of America"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2003,
+          10,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1785/0120020190",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2005,
+          3,
+          15
+        ]
+      ],
+      "date-time": "2005-03-15T14:55:26Z",
+      "timestamp": 1110898526000
+    },
+    "page": "1875-1889",
+    "source": "Crossref",
+    "is-referenced-by-count": 783,
+    "title": [
+      "Double-Difference Tomography: The Method and Its Application to the Hayward Fault, California"
+    ],
+    "prefix": "10.1785",
+    "volume": "93",
+    "author": [
+      {
+        "given": "H.",
+        "family": "Zhang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "790",
+    "container-title": [
+      "Bulletin of the Seismological Society of America"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1785/0120020190",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          3
+        ]
+      ],
+      "date-time": "2017-11-03T15:28:00Z",
+      "timestamp": 1509722880000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://pubs.geoscienceworld.org/bssa/article/93/5/1875-1889/120882"
+      },
+      "secondary": [
+        {
+          "URL": "http://bssa.geoscienceworld.org/cgi/doi/10.1785/0120020190",
+          "label": "geoscienceworld"
+        }
+      ]
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          10,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2003,
+            10,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1785/0120020190",
+    "relation": {},
+    "ISSN": [
+      "0037-1106"
+    ],
+    "issn-type": [
+      {
+        "value": "0037-1106",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2003,
+          10,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ],
+      "date-time": "2026-10-06T17:35:42Z",
+      "timestamp": 1791308142122,
+      "version": "4.3.1"
+    },
+    "reference-count": 150,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2012,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2012-10-01T00:00:00Z",
+          "timestamp": 1349049600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "funder": [
+      {
+        "name": "NSF",
+        "award": [
+          "EAR-1045684"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "EAR-1045684"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Tectonophysics"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2012,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.tecto.2012.07.019",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2012,
+          8,
+          1
+        ]
+      ],
+      "date-time": "2012-08-01T17:04:37Z",
+      "timestamp": 1343840677000
+    },
+    "page": "42-56",
+    "source": "Crossref",
+    "is-referenced-by-count": 113,
+    "special_numbering": "C",
+    "title": [
+      "Earthquake nests as natural laboratories for the study of intermediate-depth earthquake mechanics"
+    ],
+    "prefix": "10.1016",
+    "volume": "570-571",
+    "author": [
+      {
+        "given": "Germán A.",
+        "family": "Prieto",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gregory C.",
+        "family": "Beroza",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sarah A.",
+        "family": "Barrett",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gabriel A.",
+        "family": "López",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Manuel",
+        "family": "Florez",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "B1",
+        "key": "10.1016/j.tecto.2012.07.019_bb0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "2044",
+        "DOI": "10.1029/2001JB000680",
+        "article-title": "Brittle-ductile transition and associated seismicity: experimental and numerical studies and relationship with the b value",
+        "volume": "108",
+        "author": "Amitrano",
+        "year": "2003",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "995",
+        "DOI": "10.1130/G25230A.1",
+        "article-title": "Stress-release in exhumed intermediate-deep earthquakes determined from ultramafic pseudotachylyte",
+        "volume": "36",
+        "author": "Andersen",
+        "year": "2008",
+        "journal-title": "Geology"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "129",
+        "DOI": "10.1016/S0264-3707(03)00044-9",
+        "article-title": "Earthquakes distribution and their focal mechanism in correlation with the active tectonic zones of Romania",
+        "volume": "36",
+        "author": "Bala",
+        "year": "2003",
+        "journal-title": "Journal of Geodynamics"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0020",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1029/2004JB003039",
+        "article-title": "Radiated seismic energy and earthquake source duration variations from teleseismic source time functions for shallow subduction zone earthquakes",
+        "volume": "109",
+        "author": "Bilek",
+        "year": "2004",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "699",
+        "DOI": "10.1130/0091-7613(1977)5<699:SDAFMO>2.0.CO;2",
+        "article-title": "Spatial distribution and focal mechanisms of mantle earthquakes in the Hindu Kush-Pamir region: a contorted Benioff zone",
+        "volume": "5",
+        "author": "Billington",
+        "year": "1977",
+        "journal-title": "Geology"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "497",
+        "DOI": "10.1193/1.3148882",
+        "article-title": "Shake map methodology for intermediate-depth Vrancea (Romania) earthquakes",
+        "volume": "25",
+        "author": "Böse",
+        "year": "2009",
+        "journal-title": "Earthquake Spectra"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1130/SPE281-p1",
+        "article-title": "Geological and geophysical evidence for deep subduction of continental crust beneath the Pamir, Spec. Pap",
+        "volume": "281",
+        "author": "Burrman",
+        "year": "1993",
+        "journal-title": "Geological Society of America"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "1365",
+        "DOI": "10.1029/JB085iB03p01365",
+        "article-title": "Microearthquake seismicity and fault plane solutions in Hindu Kush region and their tectonic implications",
+        "volume": "85",
+        "author": "Chatelain",
+        "year": "1980",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "57",
+        "DOI": "10.1016/j.epsl.2009.04.008",
+        "article-title": "Dehydration kinetics of talc and 10Å phase: consequences for subduction zone seismicity",
+        "volume": "284",
+        "author": "Chollet",
+        "year": "2009",
+        "journal-title": "Earth and Planetary Science Letters"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "124",
+        "DOI": "10.1007/BF00876175",
+        "article-title": "Global variation of b in the Gutenberg Richter's relation log N=a−bM with depth",
+        "author": "Chouiian",
+        "year": "1970",
+        "journal-title": "Pure and Applied Geophysics"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "B08104",
+        "DOI": "10.1029/2007JB005373",
+        "article-title": "Crustal structure of the Caribbean–northeastern South America arc-continent collision zone",
+        "volume": "113",
+        "author": "Christeson",
+        "year": "2008",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "85",
+        "DOI": "10.1016/0031-9201(76)90073-X",
+        "article-title": "Source process and tectonic implications of the Spanish deep focus earthquake of March 29, 1954",
+        "volume": "13",
+        "author": "Chung",
+        "year": "1976",
+        "journal-title": "Physics of the Earth and Planetary Interiors"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "667",
+        "DOI": "10.1029/JZ069i004p00667",
+        "article-title": "Fault-plane solutions for some Romanian earthquakes and their seismotectonic implication",
+        "volume": "69",
+        "author": "Constantinescu",
+        "year": "1964",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "29",
+        "DOI": "10.1016/j.tecto.2005.03.020",
+        "article-title": "Current states of stress in the northern Andes as indicated by focal mechanisms of earthquakes",
+        "volume": "403",
+        "author": "Cortes",
+        "year": "2005",
+        "journal-title": "Tectonophysics"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.tecto.2012.07.019_bb0075",
+        "first-page": "1",
+        "article-title": "Tertiary tectonic evolution of the Intra-Carpathian area: a review",
+        "volume": "7",
+        "author": "Csontos",
+        "year": "1995",
+        "journal-title": "Acta Vulcanologica"
+      },
+      {
+        "issue": "B4",
+        "key": "10.1016/j.tecto.2012.07.019_bb0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "6335",
+        "DOI": "10.1029/90JB02634",
+        "article-title": "Single-link cluster analysis of earthquake aftershocks: decay laws and regional variations",
+        "volume": "96",
+        "author": "Davis",
+        "year": "1991",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "425",
+        "DOI": "10.1111/j.1365-246X.1990.tb06579.x",
+        "article-title": "Current plate motions",
+        "volume": "101",
+        "author": "DeMets",
+        "year": "1990",
+        "journal-title": "Geophysical Journal International"
+      },
+      {
+        "issue": "14",
+        "key": "10.1016/j.tecto.2012.07.019_bb0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "2625",
+        "DOI": "10.1029/JB075i014p02625",
+        "article-title": "Mountain belts and new global tectonics",
+        "volume": "75",
+        "author": "Dewey",
+        "year": "1970",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "issue": "1972",
+        "key": "10.1016/j.tecto.2012.07.019_bb0095",
+        "first-page": "593",
+        "article-title": "The dependence of earthquake frequency magnitude relationship and strain energy release upon the focal depth in Hindu Kush region",
+        "volume": "25",
+        "author": "Drakopoulos",
+        "year": "1972",
+        "journal-title": "Annali di Geofisica"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "395",
+        "DOI": "10.1111/j.1365-246X.2007.03664.x",
+        "article-title": "On the recurrence time of earthquakes: insight from Vrancea (Romania) intermediate-depth events",
+        "volume": "172",
+        "author": "Enescu",
+        "year": "2008",
+        "journal-title": "Geophysical Journal International"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "7131",
+        "DOI": "10.1029/93JB02970",
+        "article-title": "Active tectonics of the Pamirs and Karakoram",
+        "volume": "99",
+        "author": "Fan",
+        "year": "1994",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "2705",
+        "DOI": "10.1029/97JB01511",
+        "article-title": "Tomographic imaging of deep velocity structure beneath the eastern and southern Carpathians, Romania: implications for continental collision",
+        "volume": "103",
+        "author": "Fan",
+        "year": "1998",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "227",
+        "DOI": "10.1146/annurev.ea.17.050189.001303",
+        "article-title": "The nature of deep-focus earthquakes",
+        "volume": "17",
+        "author": "Frohlich",
+        "year": "1989",
+        "journal-title": "Annual Review of Earth and Planetary Sciences"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0120",
+        "series-title": "Deep Earthquakes",
+        "author": "Frohlich",
+        "year": "2006"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "631",
+        "DOI": "10.1029/92JB01891",
+        "article-title": "Teleseismic b-values — or, much ado about 1.0",
+        "volume": "98",
+        "author": "Frohlich",
+        "year": "1993",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "365",
+        "DOI": "10.1016/j.pepi.2009.02.004",
+        "article-title": "The physical mechanisms of deep moonquakes and intermediate-depth earthquakes: how similar and how different?",
+        "volume": "173",
+        "author": "Frohlich",
+        "year": "2009",
+        "journal-title": "Physics of the Earth and Planetary Interiors"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.tecto.2012.07.019_bb0135",
+        "first-page": "1622",
+        "article-title": "A reexamination of the Bucaramanga Nest",
+        "volume": "85",
+        "author": "Frohlich",
+        "year": "1995",
+        "journal-title": "Bulletin of the Seismological Society of America"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "225",
+        "DOI": "10.1016/0040-1951(79)90068-4",
+        "article-title": "The Romanian earthquake of March 4, 1977: II. Aftershocks and migration of seismic activity",
+        "volume": "53",
+        "author": "Fuchs",
+        "year": "1979",
+        "journal-title": "Tectonophysics"
+      },
+      {
+        "issue": "831–848",
+        "key": "10.1016/j.tecto.2012.07.019_bb0145",
+        "first-page": "1966",
+        "article-title": "The Indian Ocean and the Himalayas a geological interpretation",
+        "volume": "59",
+        "author": "Gansser",
+        "year": "1966",
+        "journal-title": "Eclogae Geologicae Helvetiae"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0150",
+        "series-title": "Himalaya: Sciences de la Terre",
+        "first-page": "209",
+        "article-title": "The great suture zone between Himalaya and Tibet — a preliminary account",
+        "author": "Gansser",
+        "year": "1977"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0155",
+        "doi-asserted-by": "crossref",
+        "first-page": "2095",
+        "DOI": "10.1029/JB093iB03p02095",
+        "article-title": "Frequency distribution and quantification of deep earthquakes",
+        "volume": "93",
+        "author": "Giardini",
+        "year": "1988",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "169",
+        "DOI": "10.1146/annurev.ea.23.050195.001125",
+        "article-title": "The mechanics of deep earthquakes",
+        "volume": "23",
+        "author": "Green",
+        "year": "1995",
+        "journal-title": "Annual Review of Earth and Planetary Sciences"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0165",
+        "series-title": "Reviews in Mineralogy and Geochemistry",
+        "first-page": "181",
+        "article-title": "Instability of deformation",
+        "volume": "51",
+        "author": "Green",
+        "year": "2002"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0170",
+        "series-title": "Rock Deformation",
+        "first-page": "347",
+        "article-title": "Observations on fracture and a hypothesis of earthquakes",
+        "volume": "79",
+        "author": "Griggs",
+        "year": "1960"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "879",
+        "DOI": "10.1046/j.1365-246X.2002.01816.x",
+        "article-title": "Source scaling of intermediate-depth Vrancea earthquakes",
+        "volume": "151",
+        "author": "Gusev",
+        "year": "2002",
+        "journal-title": "Geophysical Journal International"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0180",
+        "series-title": "Seismicity of the Earth and Associated Phenomena",
+        "author": "Gutenberg",
+        "year": "1949"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0185",
+        "series-title": "Seismicity of the Earth and Associated Phenomena",
+        "author": "Gutenberg",
+        "year": "1954"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0190",
+        "doi-asserted-by": "crossref",
+        "first-page": "24627",
+        "DOI": "10.1029/2001JB001129",
+        "article-title": "Subduction factory 2. Are intermediate-depth earthquakes in subducting slabs linked to metamorphic dehydration reactions?",
+        "volume": "108",
+        "author": "Hacker",
+        "year": "2003",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "issue": "397–408",
+        "key": "10.1016/j.tecto.2012.07.019_bb0195",
+        "first-page": "1992",
+        "article-title": "Structural and seismic evidence for intracontinental subduction in the Peter the First range, central Asia",
+        "volume": "104",
+        "author": "Hamburger",
+        "year": "1992",
+        "journal-title": "Geological Society of America Bulletin"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "613",
+        "DOI": "10.1144/SP328.25",
+        "article-title": "Caribbean-South America oblique collision model revised",
+        "volume": "328",
+        "author": "Higgs",
+        "year": "2009",
+        "journal-title": "Geological Society of London Special Publication"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "10,521",
+        "DOI": "10.1029/JB093iB09p10521",
+        "article-title": "Plastic instabilities: implications for the origin of intermediate and deep focus earthquakes",
+        "volume": "93",
+        "author": "Hobbs",
+        "year": "1988",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0210",
+        "series-title": "Treatise on Geophysics",
+        "doi-asserted-by": "crossref",
+        "first-page": "321",
+        "DOI": "10.1016/B978-044452748-6/00071-7",
+        "article-title": "Deep earthquakes",
+        "author": "Houston",
+        "year": "2007"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0215",
+        "series-title": "Internatl. Seis. Cent",
+        "article-title": "On-line Bulletin",
+        "author": "International Seismological Centre",
+        "year": "2001"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "28,125",
+        "DOI": "10.1029/2000JB900314",
+        "article-title": "Do intermediate- and deep-focus earthquakes occur on preexisting weak zones? An examination of the Tonga subduction zone",
+        "volume": "105",
+        "author": "Jiao",
+        "year": "2000",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0225",
+        "series-title": "Tectonic Profiles Through the West Carpathians",
+        "first-page": "2003",
+        "article-title": "Tectogenetic development of the Carpathian arc in the Oligocene and Neogene",
+        "author": "Jiricek",
+        "year": "1979"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0230",
+        "doi-asserted-by": "crossref",
+        "first-page": "557",
+        "DOI": "10.1130/G22411.1",
+        "article-title": "Interrelations between intermediate-depth earthquakes and fluid flow within subducting oceanic plates: constraints from eclogite-facies pseudotachylytes",
+        "volume": "34",
+        "author": "John",
+        "year": "2006",
+        "journal-title": "Geology"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0235",
+        "doi-asserted-by": "crossref",
+        "first-page": "137",
+        "DOI": "10.1038/ngeo419",
+        "article-title": "Generation of intermediate-depth earthquakes by self localizing thermal runaway",
+        "volume": "2",
+        "author": "John",
+        "year": "2009",
+        "journal-title": "Nature Geoscience"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "545",
+        "DOI": "10.1038/nature02412",
+        "article-title": "Intermediate-depth earthquake faulting by dehydration embrittlement with negative volume change",
+        "volume": "428",
+        "author": "Jung",
+        "year": "2004",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0245",
+        "doi-asserted-by": "crossref",
+        "first-page": "537",
+        "DOI": "10.1007/s000240050277",
+        "article-title": "Universality of the seismic moment–frequency relation",
+        "volume": "155",
+        "author": "Kagan",
+        "year": "1999",
+        "journal-title": "Pure and Applied Geophysics"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "839",
+        "DOI": "10.1126/science.279.5352.839",
+        "article-title": "Frictional melting during the rupture of the 1994 Bolivian earthquake",
+        "volume": "279",
+        "author": "Kanamori",
+        "year": "1998",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.tecto.2012.07.019_bb0255",
+        "doi-asserted-by": "crossref",
+        "first-page": "535",
+        "DOI": "10.1785/0120100166",
+        "article-title": "Quantifying seismic source parameter uncertainties",
+        "volume": "101",
+        "author": "Kane",
+        "year": "2011",
+        "journal-title": "Bulletin of the Seismological Society of America"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb9000",
+        "doi-asserted-by": "crossref",
+        "first-page": "787",
+        "DOI": "10.1038/nature05717",
+        "article-title": "A periodic shear-heating mechanism for intermediate-depth earthquakes in the mantle",
+        "volume": "446",
+        "author": "Keleman",
+        "year": "2007",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "867",
+        "DOI": "10.1016/S1342-937X(05)71031-5",
+        "article-title": "Stress state, seismicity and subduction geometries of the descending lithosphere below the Hindukush and Pamir",
+        "volume": "6",
+        "author": "Khan",
+        "year": "2003",
+        "journal-title": "Gondwana Research"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.tecto.2012.07.019_bb0265",
+        "doi-asserted-by": "crossref",
+        "first-page": "261",
+        "DOI": "10.1029/96RG01050",
+        "article-title": "Metastable mantle phase transformations and deep earthquakes in subducting oceanic lithosphere",
+        "volume": "34",
+        "author": "Kirby",
+        "year": "1996",
+        "journal-title": "Reviews of Geophysics"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0270",
+        "first-page": "195",
+        "article-title": "Intraslab earthquakes and arc volcanism: dual physical expressions of crustal and uppermost mantle metamorphism in subducting slabs, in Bebout, G.E., et al., eds., Subduction: top to bottom: American Geophysical Union",
+        "volume": "96",
+        "author": "Kirby",
+        "year": "1996",
+        "journal-title": "Geophysical Monograph"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0275",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1029/2010JB007831",
+        "article-title": "Insights into the mechanism of intermediate-depth earthquakes from source properties as imaged by back-projection of multiple seismic phases",
+        "author": "Kiser",
+        "year": "2011",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0280",
+        "first-page": "160",
+        "article-title": "Nonlinear inversion of local seismic travel times for the simultaneous determination of the 3D-velocity structure and hypocenters—application to the seismic zone Vrancea",
+        "volume": "56",
+        "author": "Koch",
+        "year": "1985",
+        "journal-title": "Journal of Geophysics"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0285",
+        "first-page": "Q03002",
+        "article-title": "Delamination or slab detachment beneath Vrancea? New arguments from local earthquake tomography",
+        "volume": "10",
+        "author": "Koulakov",
+        "year": "2010",
+        "journal-title": "Geochemistry Geophysics Geosystems"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0290",
+        "doi-asserted-by": "crossref",
+        "first-page": "167",
+        "DOI": "10.1130/0091-7613(1996)024<0167:KORSAT>2.3.CO;2",
+        "article-title": "Kinematics of retreating subduction along the Carpathian arc, Romania",
+        "volume": "24",
+        "author": "Linzer",
+        "year": "1996",
+        "journal-title": "Geology"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0295",
+        "doi-asserted-by": "crossref",
+        "first-page": "196",
+        "DOI": "10.1038/ngeo132",
+        "article-title": "Boudinage of a stretching slablet implicated in earthquakes beneath the Hindu Kush",
+        "volume": "1",
+        "author": "Lister",
+        "year": "2008",
+        "journal-title": "Nature Geoscience"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0300",
+        "series-title": "Abstract S21C-2065 presented at 2010 Fall Meeting",
+        "article-title": "Earthquake scaling of intermediate-depth earthquakes in the Bucaramanga Nest",
+        "author": "Lopez",
+        "year": "2010"
+      },
+      {
+        "issue": "46",
+        "key": "10.1016/j.tecto.2012.07.019_bb0305",
+        "article-title": "Teleseismic travel-time tomography of the compressional-wave velocity structure in the Vrancea zone, Romania",
+        "volume": "78",
+        "author": "Lorenz",
+        "year": "1997",
+        "journal-title": "EOS Transactions American Geophysical Union"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0310",
+        "doi-asserted-by": "crossref",
+        "first-page": "659",
+        "DOI": "10.1007/s11589-009-0659-0",
+        "article-title": "Intermediate-depth earthquakes beneath the Pamir-Hindu Kush Region: evidence for collision between two opposite subduction zones",
+        "volume": "22",
+        "author": "Lou",
+        "year": "2009",
+        "journal-title": "Earthquake Science"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0315",
+        "doi-asserted-by": "crossref",
+        "first-page": "371",
+        "DOI": "10.1023/A:1024787621646",
+        "article-title": "A new probabilistic seismic hazard analysis for the Vrancea (Romania) seismogenic zone",
+        "volume": "29",
+        "author": "Mantysniemi",
+        "year": "2003",
+        "journal-title": "Natural Hazards"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0320",
+        "doi-asserted-by": "crossref",
+        "first-page": "3095",
+        "DOI": "10.1029/95GL03076",
+        "article-title": "Fault healing inferred from time dependent variations in source properties of repeating earthquakes",
+        "volume": "22",
+        "author": "Marone",
+        "year": "1995",
+        "journal-title": "Geophysical Research Letters"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0325",
+        "doi-asserted-by": "crossref",
+        "first-page": "579",
+        "DOI": "10.1111/j.1365-246X.2006.02884.x",
+        "article-title": "High-resolution teleseismic body wave tomography beneath SE-Romania—II. Imaging of a slab detachment scenario",
+        "volume": "164",
+        "author": "Martin",
+        "year": "2006",
+        "journal-title": "Geophysical Journal International"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0330",
+        "doi-asserted-by": "crossref",
+        "first-page": "143",
+        "DOI": "10.1007/BF00878892",
+        "article-title": "Estimate of earthquake hazard in the Vrancea (Romania) region",
+        "volume": "136",
+        "author": "Mârza",
+        "year": "1991",
+        "journal-title": "Pure and Applied Geophysics"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0335",
+        "doi-asserted-by": "crossref",
+        "first-page": "68",
+        "DOI": "10.1126/science.252.5002.68",
+        "article-title": "Deep-focus earthquakes and recycling of water into the Earth's mantle",
+        "volume": "252",
+        "author": "Meade",
+        "year": "1991",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "1±4",
+        "key": "10.1016/j.tecto.2012.07.019_bb0340",
+        "first-page": "301",
+        "article-title": "On Late Oligocene to Pliocene depocentre migrations and the evolution of the Carpathian–Pannonian system",
+        "volume": "266",
+        "author": "Meulenkamp",
+        "year": "1997",
+        "journal-title": "Tectonophysics"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0345",
+        "doi-asserted-by": "crossref",
+        "first-page": "2269",
+        "DOI": "10.1029/95GL01600",
+        "article-title": "Implications of spatial and temporal development of the aftershock sequence for the Mw 8.3 June 9, 1994 deep Bolivian earthquake",
+        "volume": "22",
+        "author": "Myers",
+        "year": "1995",
+        "journal-title": "Geophysical Research Letters"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0350",
+        "doi-asserted-by": "crossref",
+        "first-page": "212",
+        "DOI": "10.1016/j.epsl.2007.04.043",
+        "article-title": "Modeling the evolution of continental subduction processes in the Pamir–Hindu Kush region",
+        "volume": "259",
+        "author": "Negredo",
+        "year": "2007",
+        "journal-title": "Earth and Planetary Science Letters"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0355",
+        "first-page": "317",
+        "article-title": "Seismo-tectonics of the Persian Plateau, Eastern Turkey, Caucasus, and Hindu Kush regions",
+        "volume": "61",
+        "author": "Nowroozi",
+        "year": "1971",
+        "journal-title": "Bulletin of the Seismological Society of America"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0360",
+        "doi-asserted-by": "crossref",
+        "first-page": "13801",
+        "DOI": "10.1029/JB092iB13p13801",
+        "article-title": "Shear instability in a viscoelastic material as the cause of deep focus earthquakes",
+        "volume": "92",
+        "author": "Ogawa",
+        "year": "1987",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0370",
+        "doi-asserted-by": "crossref",
+        "first-page": "117",
+        "DOI": "10.1016/0040-1951(82)90256-6",
+        "article-title": "Velocity structure of the Vrancea region, Romania",
+        "volume": "90",
+        "author": "Oncescu",
+        "year": "1982",
+        "journal-title": "Tectonophysics"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.tecto.2012.07.019_bb0375",
+        "first-page": "23",
+        "article-title": "Deep structure of the Vrancea region, Roumania, inferred from simultaneous inversion for hypocenters and 3-D velocity structure",
+        "volume": "2",
+        "author": "Oncescu",
+        "year": "1984",
+        "journal-title": "Annals of Geophysics"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0380",
+        "doi-asserted-by": "crossref",
+        "first-page": "291",
+        "DOI": "10.1016/S0040-1951(96)00263-6",
+        "article-title": "A note on the depth recurrence and strain release of large Vrancea earthquakes",
+        "volume": "272",
+        "author": "Oncescu",
+        "year": "1997",
+        "journal-title": "Tectonophysics"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0385",
+        "first-page": "149",
+        "article-title": "Depth variation of moment tensor principal axes in Vrancea (Romania) seismic region",
+        "volume": "5B",
+        "author": "Oncescu",
+        "year": "1987",
+        "journal-title": "Annals of Geophysics"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0390",
+        "series-title": "Vrancea Earthquakes: Tectonics, Hazard and Risk Mitigation",
+        "first-page": "27",
+        "article-title": "Weak and strong ground motion of intermediate-depth earthquakes from the Vrancea region",
+        "author": "Oncescu",
+        "year": "1999"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0395",
+        "doi-asserted-by": "crossref",
+        "first-page": "33",
+        "DOI": "10.1016/j.tecto.2007.02.016",
+        "article-title": "Source parameters of intermediate-depth Vrancea (Romania) earthquakes from empirical Green's functions modeling",
+        "volume": "438",
+        "author": "Oth",
+        "year": "2007",
+        "journal-title": "Tectonophysics"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.tecto.2012.07.019_bb0400",
+        "doi-asserted-by": "crossref",
+        "first-page": "2482",
+        "DOI": "10.1785/0120080106",
+        "article-title": "S-wave attenuation characteristics beneath the Vrancea region in Romania: new insights from the inversion of ground motion spectra",
+        "volume": "98",
+        "author": "Oth",
+        "year": "2008",
+        "journal-title": "Bulletin of the Seismological Society of America"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.tecto.2012.07.019_bb0405",
+        "doi-asserted-by": "crossref",
+        "first-page": "235",
+        "DOI": "10.1785/0120080059",
+        "article-title": "Source spectra and site response from S waves of intermediate-depth Vrancea, Romania, earthquakes",
+        "volume": "99",
+        "author": "Oth",
+        "year": "2009",
+        "journal-title": "Bulletin of the Seismological Society of America"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0410",
+        "doi-asserted-by": "crossref",
+        "first-page": "103",
+        "DOI": "10.1029/1999TC900062",
+        "article-title": "The Pamir‐Hindu Kush seismic zone as a strain marker for flow in the upper mantle",
+        "volume": "19",
+        "author": "Pavlis",
+        "year": "2000",
+        "journal-title": "Tectonics"
+      },
+      {
+        "issue": "18107–18117",
+        "key": "10.1016/j.tecto.2012.07.019_bb0415",
+        "first-page": "1991",
+        "article-title": "Aftershock sequences of intermediate-depth earthquakes in the Pamir-Hindu Kush seismic zone",
+        "volume": "96",
+        "author": "Pavlis",
+        "year": "1991",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0420",
+        "doi-asserted-by": "crossref",
+        "first-page": "937",
+        "DOI": "10.1126/science.286.5441.937",
+        "article-title": "Seismic consequences of warm versus cool subduction metamorphism: examples from southwest and northeast Japan",
+        "volume": "286",
+        "author": "Peacock",
+        "year": "1999",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.tecto.2012.07.019_bb0425",
+        "first-page": "15",
+        "article-title": "Space and time distribution of Neogene-Quaternary volcanism in the Carpatho-Pannonian region",
+        "volume": "7",
+        "author": "Pècskay",
+        "year": "1995",
+        "journal-title": "Acta Vulcanologica"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0430",
+        "doi-asserted-by": "crossref",
+        "first-page": "573",
+        "DOI": "10.1046/j.1365-246x.1998.00582.x",
+        "article-title": "An enhanced image of the Pamir-Hindu Kush seismic zone from relocated earthquake hypocenters",
+        "volume": "134",
+        "author": "Pegler",
+        "year": "1998",
+        "journal-title": "Geophysical Journal International"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0435",
+        "doi-asserted-by": "crossref",
+        "first-page": "10,579",
+        "DOI": "10.1029/JB086iB11p10753",
+        "article-title": "Subduction of the eastern Panama basin and seismotectonics of northwestern South America",
+        "volume": "86",
+        "author": "Penington",
+        "year": "1981",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0440",
+        "doi-asserted-by": "crossref",
+        "first-page": "1045",
+        "DOI": "10.1126/science.220.4601.1045",
+        "article-title": "The role of shallow phase changes in the subduction of oceanic crust",
+        "volume": "220",
+        "author": "Pennington",
+        "year": "1983",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0445",
+        "doi-asserted-by": "crossref",
+        "first-page": "65",
+        "DOI": "10.1029/GL006i002p00065",
+        "article-title": "Results of a reconnaissance microearthquake survey of Bucaramanga, Colombia",
+        "volume": "6",
+        "author": "Pennington",
+        "year": "1979",
+        "journal-title": "Geophysical Research Letters"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0450",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1144/SP328.1",
+        "article-title": "South America in the mantle reference frame: an update Tectonic evolution of the Gulf of Mexico, Caribbean and northern South America in the mantle reference frame: an update",
+        "volume": "328",
+        "author": "Pindell",
+        "year": "2009",
+        "journal-title": "Geological Society of London Special Publication"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0455",
+        "first-page": "519",
+        "article-title": "Local source tomography using body waves to deduce a minimum 1D velocity model for the Vrancea (Romania) zone",
+        "volume": "53",
+        "author": "Popa",
+        "year": "2001",
+        "journal-title": "Romanian Reports in Physics"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0460",
+        "doi-asserted-by": "crossref",
+        "first-page": "5719",
+        "DOI": "10.1029/JB089iB07p05719",
+        "article-title": "Monitoring velocity variations in the crust using earthquake doublets: an application to the Calaveras Fault, California",
+        "volume": "89",
+        "author": "Poupinet",
+        "year": "1984",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0465",
+        "doi-asserted-by": "crossref",
+        "first-page": "1227",
+        "DOI": "10.1111/j.1365-246X.2006.03257.x",
+        "article-title": "Confidence intervals of earthquake source parameters",
+        "volume": "168",
+        "author": "Prieto",
+        "year": "2007",
+        "journal-title": "Geophysical Journal International"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0470",
+        "series-title": "Abstract T22A-06 Presented at 2011 Fall Meeting",
+        "article-title": "Earthquake source scaling, stress drops and radiated seismic energies of intermediate depth earthquakes",
+        "author": "Prieto",
+        "year": "2011"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0475",
+        "first-page": "791",
+        "article-title": "Geometry of the subducted plate near Kodiak Island and Lower Cook Inlet, Alaska, determined from relocated earthquake hypocenters",
+        "volume": "75",
+        "author": "Pulpan",
+        "year": "1985",
+        "journal-title": "Bulletin of the Seismological Society of America"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0480",
+        "doi-asserted-by": "crossref",
+        "first-page": "67",
+        "DOI": "10.1016/0040-1951(96)00057-1",
+        "article-title": "Scaling of the source parameters for the Vrancea intermediate depth earthquakes",
+        "volume": "261",
+        "author": "Radulian",
+        "year": "1996",
+        "journal-title": "Tectonophysics"
+      },
+      {
+        "issue": "2000",
+        "key": "10.1016/j.tecto.2012.07.019_bb0485",
+        "doi-asserted-by": "crossref",
+        "first-page": "57",
+        "DOI": "10.1007/PL00001100",
+        "article-title": "Characterization of seismogenic zones of Romania",
+        "volume": "157",
+        "author": "Radulian",
+        "year": "2000",
+        "journal-title": "Pure and Applied Geophysics"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0490",
+        "series-title": "Actualización de la historia de los terremotos en Colombia",
+        "author": "Ramirez",
+        "year": "2004"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0495",
+        "doi-asserted-by": "crossref",
+        "first-page": "367",
+        "DOI": "10.1038/nature01961",
+        "article-title": "Bending-related faulting and mantle serpentinization at the Middle America trench",
+        "volume": "425",
+        "author": "Ranero",
+        "year": "2003",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0500",
+        "doi-asserted-by": "crossref",
+        "first-page": "Q12002",
+        "DOI": "10.1029/2005GC000997",
+        "article-title": "Relationship between bend-faulting at trenches and intermediate-depth seismicity",
+        "volume": "6",
+        "author": "Ranero",
+        "year": "2005",
+        "journal-title": "Geochemistry Geophysics Geosystems"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0505",
+        "doi-asserted-by": "crossref",
+        "first-page": "3965",
+        "DOI": "10.1029/JZ070i016p03965",
+        "article-title": "Experimental deformation of serpentinite and its tectonic implications",
+        "volume": "70",
+        "author": "Rayleigh",
+        "year": "1965",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0510",
+        "doi-asserted-by": "crossref",
+        "first-page": "L24309",
+        "DOI": "10.1029/2010GL045494",
+        "article-title": "Earthquakes and plastic deformation of anhydrous slab mantle in double Wadati‐Benioff zones",
+        "volume": "37",
+        "author": "Reynard",
+        "year": "2010",
+        "journal-title": "Geophysical Research Letters"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0515",
+        "series-title": "Elementary Seismology",
+        "first-page": "342",
+        "author": "Richter",
+        "year": "1958"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0520",
+        "doi-asserted-by": "crossref",
+        "first-page": "1358",
+        "DOI": "10.1029/JB085iB03p01358",
+        "article-title": "Seismicity and fault plane solutions of intermediate depth earthquakes in the Pamir-Hindu Kush region",
+        "volume": "85",
+        "author": "Roecker",
+        "year": "1980",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0525",
+        "series-title": "Annual Report of the Director",
+        "first-page": "43",
+        "article-title": "A tentative value of Poisson's coefficient from the seismic “nest of Socampa”",
+        "author": "Sacks",
+        "year": "1967"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0530",
+        "first-page": "635",
+        "article-title": "Characteristics of seismicity in South America",
+        "volume": "47",
+        "author": "Santo",
+        "year": "1969",
+        "journal-title": "Bulletin of the Earthquake Research Institute University of Tokyo"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0535",
+        "first-page": "1035",
+        "article-title": "Regional study on the characteristic seismicity of the world, I, Hindu Kush region",
+        "volume": "47",
+        "author": "Santo",
+        "year": "1969",
+        "journal-title": "Bulletin of the Earthquake Research Institute University of Tokyo"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0540",
+        "doi-asserted-by": "crossref",
+        "first-page": "B10302",
+        "DOI": "10.1029/2004JB003011",
+        "article-title": "Coseismic and postseismic velocity changes measured by repeating earthquakes",
+        "volume": "109",
+        "author": "Schaff",
+        "year": "2004",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0545",
+        "doi-asserted-by": "crossref",
+        "first-page": "1176",
+        "DOI": "10.1126/science.1093422",
+        "article-title": "Repeating seismic events in China",
+        "volume": "303",
+        "author": "Schaff",
+        "year": "2004",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0550",
+        "doi-asserted-by": "crossref",
+        "first-page": "4549",
+        "DOI": "10.1029/1998GL900192",
+        "article-title": "Postseismic response of repeating aftershocks",
+        "volume": "25",
+        "author": "Schaff",
+        "year": "1998",
+        "journal-title": "Geophysical Research Letters"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0555",
+        "doi-asserted-by": "crossref",
+        "first-page": "13913",
+        "DOI": "10.1029/JB092iB13p13913",
+        "article-title": "Microseismicity and focal mechanisms of the intermediate-depth Bucaramanga Nest, Colombia",
+        "volume": "92",
+        "author": "Schneider",
+        "year": "1987",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0560",
+        "doi-asserted-by": "crossref",
+        "first-page": "399",
+        "DOI": "10.1785/BSSA0580010399",
+        "article-title": "The frequency–magnitude relation of microfracturing in rock and its relation to earthquakes",
+        "volume": "58",
+        "author": "Scholz",
+        "year": "1968",
+        "journal-title": "Bulletin of the Seismological Society of America"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0570",
+        "doi-asserted-by": "crossref",
+        "first-page": "225",
+        "DOI": "10.1007/s10950-006-9012-4",
+        "article-title": "Empirical global relations converting M S and m b to moment magnitude",
+        "volume": "10",
+        "author": "Scordilis",
+        "year": "2006",
+        "journal-title": "Journal of Seismology"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0575",
+        "series-title": "Subduction: Top to Bottom",
+        "first-page": "347",
+        "article-title": "Double seismic zones, compressional deep trench-outer rise events, and superplumes",
+        "volume": "96",
+        "author": "Seno",
+        "year": "1996"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0755",
+        "doi-asserted-by": "crossref",
+        "first-page": "539",
+        "DOI": "10.1038/nature04094",
+        "article-title": "Variations in earthquake-size distribution across different stress regimes",
+        "volume": "437",
+        "author": "Schorlemmer",
+        "year": "2005",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0580",
+        "doi-asserted-by": "crossref",
+        "first-page": "8269",
+        "DOI": "10.1029/96JB03228",
+        "article-title": "Improving local earthquake locations using the L1 norm and waveform cross correlation: application to the Whittier Narrows, California, aftershock sequence",
+        "volume": "102",
+        "author": "Shearer",
+        "year": "1997",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0585",
+        "doi-asserted-by": "crossref",
+        "first-page": "B06303",
+        "DOI": "10.1029/2005JB003979",
+        "article-title": "Comprehensive analysis of earthquake source spectra in southern California",
+        "volume": "111",
+        "author": "Shearer",
+        "year": "2006",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0590",
+        "doi-asserted-by": "crossref",
+        "first-page": "807",
+        "DOI": "10.1130/0091-7613(1991)019<0807:SAAASP>2.3.CO;2",
+        "article-title": "Seismic anisotropy above a subducting plate",
+        "volume": "19",
+        "author": "Shih",
+        "year": "1991",
+        "journal-title": "Geology"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0595",
+        "doi-asserted-by": "crossref",
+        "first-page": "12069",
+        "DOI": "10.1029/91JB01201",
+        "article-title": "Polarities of P and S waves, and shear wave splitting observed from the Bucaramanga Nest, Colombia",
+        "volume": "96",
+        "author": "Shih",
+        "year": "1991",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0600",
+        "doi-asserted-by": "crossref",
+        "first-page": "172",
+        "DOI": "10.1046/j.1365-3121.2001.00335.x",
+        "article-title": "Slab breakoff— abrupt cut or gradual detachment? New insights from Vrancea Region (SE Carpathians, Romania)",
+        "volume": "13",
+        "author": "Sperner",
+        "year": "2001",
+        "journal-title": "Terra Nova"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.tecto.2012.07.019_bb0605",
+        "doi-asserted-by": "crossref",
+        "first-page": "1051",
+        "DOI": "10.1029/2001TC901028",
+        "article-title": "Interplay between subduction retreat and lateral extrusion: tectonics of the Western Carpathians",
+        "volume": "21",
+        "author": "Sperner",
+        "year": "2002",
+        "journal-title": "Tectonics"
+      },
+      {
+        "issue": "1–2",
+        "key": "10.1016/j.tecto.2012.07.019_bb0610",
+        "doi-asserted-by": "crossref",
+        "first-page": "17",
+        "DOI": "10.1016/S0012-821X(01)00588-X",
+        "article-title": "A plate tectonic model for the Paleozoic and Mesozoic constrained by dynamic plate boundaries and restored synthetic oceanic isochrons",
+        "volume": "196",
+        "author": "Stampfli",
+        "year": "2002",
+        "journal-title": "Earth and Planetary Science Letters"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0615",
+        "doi-asserted-by": "crossref",
+        "first-page": "134",
+        "DOI": "10.1016/j.tecto.2008.07.015",
+        "article-title": "Structural imprints at the front of the Choco-Panama indenter",
+        "volume": "460",
+        "author": "Suter",
+        "year": "2008",
+        "journal-title": "Tectonophysics"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.tecto.2012.07.019_bb0620",
+        "first-page": "24",
+        "article-title": "Time-space evolution of Neogene-Quarternary volcanism in the Calimani-Gurghiu-Harghita volcanic chain",
+        "volume": "76",
+        "author": "Szakacs",
+        "year": "1995",
+        "journal-title": "Romanian Journal of Strategy"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.tecto.2012.07.019_bb0625",
+        "doi-asserted-by": "crossref",
+        "first-page": "787",
+        "DOI": "10.1029/2000TC900004",
+        "article-title": "Geodynamics of the northern Andes: subductions and intracontinental deformation (Colombia)",
+        "volume": "19",
+        "author": "Taboada",
+        "year": "2000",
+        "journal-title": "Tectonics"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0630",
+        "doi-asserted-by": "crossref",
+        "first-page": "2817",
+        "DOI": "10.5194/nhess-11-2817-2011",
+        "article-title": "The stress field of Vrancea region from fault plane solution (FPS)",
+        "volume": "11",
+        "author": "Telesca",
+        "year": "2011",
+        "journal-title": "Natural Hazards and Earth System Sciences"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0635",
+        "first-page": "457",
+        "article-title": "The study of Vrancea earthquake mechanisms by a composite technique",
+        "volume": "36",
+        "author": "Trifu",
+        "year": "1991",
+        "journal-title": "Revue Roumaine de Physique"
+      },
+      {
+        "issue": "B3",
+        "key": "10.1016/j.tecto.2012.07.019_bb0640",
+        "doi-asserted-by": "crossref",
+        "first-page": "4301",
+        "DOI": "10.1029/90JB02221",
+        "article-title": "Frequency–magnitude distribution of earthquakes in Vracea: Relevance for a discrete model",
+        "volume": "96",
+        "author": "Trifu",
+        "year": "1991",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0645",
+        "doi-asserted-by": "crossref",
+        "first-page": "269",
+        "DOI": "10.1785/BSSA0600010269",
+        "article-title": "The intermediate earthquake source near Bucaramanga, Colombia",
+        "volume": "60",
+        "author": "Trygvasson",
+        "year": "1970",
+        "journal-title": "Bulletin of the Seismological Society of America"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0650",
+        "doi-asserted-by": "crossref",
+        "first-page": "L20313",
+        "DOI": "10.1029/2007GL031263",
+        "article-title": "Source parameters of aM4.8 and its accompanying repeating earthquakes off Kamaishi, NE Japan: implications for the hierarchical structure of asperities and earthquake cycle",
+        "volume": "34",
+        "author": "Uchida",
+        "year": "2007",
+        "journal-title": "Geophysical Research Letters"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0655",
+        "doi-asserted-by": "crossref",
+        "first-page": "B07311",
+        "DOI": "10.1029/2009JB006681",
+        "article-title": "Connecting near-field and far-field earthquake triggering to dynamic strain",
+        "volume": "115",
+        "author": "Van Der Elst",
+        "year": "2010",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0660",
+        "doi-asserted-by": "crossref",
+        "first-page": "451",
+        "DOI": "10.1130/0091-7613(1994)022<0451:TIOTIO>2.3.CO;2",
+        "article-title": "Tectonic implications of tomographic images of subducted lithosphere beneath northwestern South America",
+        "volume": "22",
+        "author": "van der Hilst",
+        "year": "1994",
+        "journal-title": "Geology"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0665",
+        "doi-asserted-by": "crossref",
+        "first-page": "B05302",
+        "DOI": "10.1029/2003JB002549",
+        "article-title": "Observational constraints on the fracture energy of subduction zone earthquakes",
+        "volume": "109",
+        "author": "Venkataraman",
+        "year": "2004",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0670",
+        "first-page": "1",
+        "article-title": "Shallow and deep earthquakes (2nd paper)",
+        "volume": "2",
+        "author": "Wadati",
+        "year": "1929",
+        "journal-title": "Geophysical Magazine"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0675",
+        "doi-asserted-by": "crossref",
+        "first-page": "1353",
+        "DOI": "10.1785/0120000006",
+        "article-title": "A double-difference earthquake location algorithm: method and application to the Northern Hayward Fault, California",
+        "volume": "90",
+        "author": "Waldhauser",
+        "year": "2000",
+        "journal-title": "Bulletin of the Seismological Society of America"
+      },
+      {
+        "issue": "B05314",
+        "key": "10.1016/j.tecto.2012.07.019_bb0680",
+        "article-title": "Earthquake mechanics and deformation in the Tonga-Kermadec subduction zones from fault-plane orientations of intermediate- and deep-focus earthquakes",
+        "volume": "112",
+        "author": "Warren",
+        "year": "2007",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "issue": "B01304",
+        "key": "10.1016/j.tecto.2012.07.019_bb0685",
+        "article-title": "Fault-plane orientations of intermediate-depth earthquakes in the middle America trench",
+        "volume": "113",
+        "author": "Warren",
+        "year": "2008",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0690",
+        "series-title": "Geodynamics, tomographic images and seismicity of the Vrancea region (SE-Carpathians, Romania)",
+        "first-page": "95",
+        "volume": "3",
+        "author": "Wenzel",
+        "year": "2002"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0695",
+        "doi-asserted-by": "crossref",
+        "first-page": "259",
+        "DOI": "10.1016/S0065-2687(02)80007-3",
+        "article-title": "Mapping spatial variability of the frequency–magnitude distribution of earthquakes",
+        "volume": "45",
+        "author": "Wiemer",
+        "year": "2002",
+        "journal-title": "Advances in Geophysics"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0700",
+        "doi-asserted-by": "crossref",
+        "first-page": "145",
+        "DOI": "10.1016/S0031-9201(01)00225-4",
+        "article-title": "Seismological constraints on the mechanisms of deep earthquakes: temperature dependence of deep earthquake source properties",
+        "volume": "127",
+        "author": "Wiens",
+        "year": "2001",
+        "journal-title": "Physics of the Earth and Planetary Interiors"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0705",
+        "doi-asserted-by": "crossref",
+        "first-page": "153",
+        "DOI": "10.1038/384153a0",
+        "article-title": "Effect of slab temperature on deep-earthquakes aftershock productivity and magnitude–frequency relations",
+        "volume": "384",
+        "author": "Wiens",
+        "year": "1996",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0710",
+        "doi-asserted-by": "crossref",
+        "first-page": "1463",
+        "DOI": "10.1126/science.1063042",
+        "article-title": "Repeating deep earthquakes: evidence for fault reactivation at great depth",
+        "volume": "293",
+        "author": "Wiens",
+        "year": "2001",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0715",
+        "doi-asserted-by": "crossref",
+        "first-page": "2059",
+        "DOI": "10.1029/97GL01957",
+        "article-title": "Aftershock sequences of moderate-sized intermediate and deep earthquakes in the Tonga subduction zone",
+        "volume": "24",
+        "author": "Wiens",
+        "year": "1997",
+        "journal-title": "Geophysical Research Letters"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0720",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1098/rsta.1988.0078",
+        "article-title": "Tectonic framework of the Himalaya, Karakoram and Tibet, and the problem of their evolution",
+        "volume": "A326",
+        "author": "Windley",
+        "year": "1988",
+        "journal-title": "Philosophical Transactions of the Royal Society of London"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0725",
+        "first-page": "325",
+        "article-title": "Structure and dynamics of subducted lithosphere in the Mediterranean region",
+        "volume": "95",
+        "author": "Wortel",
+        "year": "1992",
+        "journal-title": "Proceedings of the Koninklijke Nederlandse Akademie van Wetenschappen"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0730",
+        "doi-asserted-by": "crossref",
+        "first-page": "341",
+        "DOI": "10.1111/j.1365-246X.1973.tb06506.x",
+        "article-title": "Towards a physical understanding of the earthquake frequency distribution",
+        "volume": "31",
+        "author": "Wyss",
+        "year": "1973",
+        "journal-title": "Geophysical Journal of the Royal Astronomical Society"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0735",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1029/2002JB001918",
+        "article-title": "Double seismic zone and dehydration embrittlement of the subducting slab",
+        "volume": "108",
+        "author": "Yamasaki",
+        "year": "2003",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0740",
+        "doi-asserted-by": "crossref",
+        "first-page": "237",
+        "DOI": "10.1016/S0065-2687(03)46004-4",
+        "article-title": "Characteristics of dense nests of deep and intermediate-depth seismicity",
+        "volume": "46",
+        "author": "Zarifi",
+        "year": "2003",
+        "journal-title": "Advances in Geophysics"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0745",
+        "doi-asserted-by": "crossref",
+        "first-page": "93",
+        "DOI": "10.1016/j.tecto.2007.06.004",
+        "article-title": "An insight into the Bucaramanga nest",
+        "volume": "443",
+        "author": "Zarifi",
+        "year": "2007",
+        "journal-title": "Tectonophysics"
+      },
+      {
+        "key": "10.1016/j.tecto.2012.07.019_bb0750",
+        "doi-asserted-by": "crossref",
+        "first-page": "993",
+        "DOI": "10.1111/j.1365-246X.2008.03856.x",
+        "article-title": "Wide scale detection of earthquake waveform doublets and further evidence for inner core super-rotation",
+        "volume": "174",
+        "author": "Zhang",
+        "year": "2008",
+        "journal-title": "Geophysical Journal International"
+      }
+    ],
+    "container-title": [
+      "Tectonophysics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0040195112004374?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0040195112004374?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          1,
+          25
+        ]
+      ],
+      "date-time": "2022-01-25T00:10:39Z",
+      "timestamp": 1643069439000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0040195112004374"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          10
+        ]
+      ]
+    },
+    "references-count": 150,
+    "alternative-id": [
+      "S0040195112004374"
+    ],
+    "URL": "https://doi.org/10.1016/j.tecto.2012.07.019",
+    "relation": {},
+    "ISSN": [
+      "0040-1951"
+    ],
+    "issn-type": [
+      {
+        "value": "0040-1951",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2012,
+          10
+        ]
+      ]
+    }
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "source": "training catalog-continuous 1D residuals minus fitted station correction, median centered; effective errors, not independent picker errors",
+  "training_samples": 25714,
+  "sample_rms_s": 1.414889156267294,
+  "sample_median_abs_s": 0.7749925771744635,
+  "synthetic_rms_s": 1.3972917937634866,
+  "seed": 20261011,
+  "explicit_origin_static_noise_injection": false
+}

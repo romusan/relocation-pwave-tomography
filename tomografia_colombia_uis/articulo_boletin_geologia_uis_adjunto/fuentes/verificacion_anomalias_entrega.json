@@ -1,0 +1,43 @@
+{
+  "status": "verified",
+  "pages": 26,
+  "figures": 5,
+  "tables": 5,
+  "references": 23,
+  "new_render_pages_visually_inspected": [
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+  ],
+  "identical_to_previously_inspected_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "previous_paragraphs_and_tables_preserved": true,
+  "figure": 5,
+  "section": "4.4",
+  "figure_page": 19,
+  "output_sha256": "5575435ed79e592ba88275ccc433533d1d36124af0003ab2e08726423f229d92",
+  "validation_script_sha256": "0c49e3a6f9e9e666942bf52b47179ec1d6cb6b808f63aa66097c83acb722eb59"
+}

@@ -1,0 +1,173 @@
+[
+  {
+    "round": 1,
+    "train_rms_before_update_s": 0.8782738692488641,
+    "train_rms_after_update_s": 0.8464788954071566,
+    "holdout_rms_fixed_catalog_origin_s": 2.0835289309040093,
+    "active_cells": 8319,
+    "train_equations": 23311,
+    "update_accepted": true,
+    "line_search": [
+      {
+        "alpha": 1.0,
+        "train_rms_s": 0.8464788954071566,
+        "cache": {
+          "model_key": "2e6c534dd42b7529f5137846b3738e08b29d96cc7fe2d620f81a629b1f7f76c4",
+          "fields_calculated": 266,
+          "fields_loaded": 246,
+          "field_seconds": 1330.8452086017933,
+          "resident_field_limit": 90,
+          "operator": "factored FM; physical receiver elevation"
+        }
+      }
+    ],
+    "lsmr": {
+      "istop": 2,
+      "iterations": 695,
+      "normr": 102.62212954403972,
+      "normar": 1.6543972162032556,
+      "acond": 21.278367338639736,
+      "converged": true,
+      "shape": [
+        40194,
+        8564
+      ],
+      "nnz": 7232566
+    },
+    "ray_diagnostic": {
+      "operator": "discrete factored FM reverse differentiation including source-cell interpolation",
+      "failed_rows": [],
+      "matrix_nnz": 8277469,
+      "kernel_time_minus_field_median_s": null,
+      "kernel_time_minus_field_p95_abs_s": null,
+      "kernel_time_minus_field_max_abs_s": null,
+      "limitation": "Signed second-order sensitivities; coverage uses absolute values only, inversion retains signed Jacobian"
+    },
+    "cache_before_update": {
+      "model_key": "fde42029ace2a0d84736eb1ffa127dc4f31b800e3f6b743ee612023c26397efd",
+      "fields_calculated": 266,
+      "fields_loaded": 1352,
+      "field_seconds": 1214.2509820049163,
+      "resident_field_limit": 90,
+      "operator": "factored FM; physical receiver elevation"
+    },
+    "ray_seconds": 695.0114526001271,
+    "solve_seconds": 34.37216549995355,
+    "round_seconds": 1140.4245469998568,
+    "max_abs_station_static_s": 0.5
+  },
+  {
+    "round": 2,
+    "train_rms_before_update_s": 0.7833901756268179,
+    "train_rms_after_update_s": 0.7560000428036576,
+    "holdout_rms_fixed_catalog_origin_s": 2.0860387165342784,
+    "active_cells": 8453,
+    "train_equations": 23311,
+    "update_accepted": true,
+    "line_search": [
+      {
+        "alpha": 1.0,
+        "train_rms_s": 0.7560000428036576,
+        "cache": {
+          "model_key": "d37e30b308f9487fb177929594c60745def33290992e081d80e63d4858d9ab82",
+          "fields_calculated": 266,
+          "fields_loaded": 246,
+          "field_seconds": 860.2531335009262,
+          "resident_field_limit": 90,
+          "operator": "factored FM; physical receiver elevation"
+        }
+      }
+    ],
+    "lsmr": {
+      "istop": 2,
+      "iterations": 676,
+      "normr": 95.22147358713394,
+      "normar": 1.5391759152306066,
+      "acond": 26.249955659870132,
+      "converged": true,
+      "shape": [
+        40462,
+        8698
+      ],
+      "nnz": 8589723
+    },
+    "ray_diagnostic": {
+      "operator": "discrete factored FM reverse differentiation including source-cell interpolation",
+      "failed_rows": [],
+      "matrix_nnz": 9881058,
+      "kernel_time_minus_field_median_s": null,
+      "kernel_time_minus_field_p95_abs_s": null,
+      "kernel_time_minus_field_max_abs_s": null,
+      "limitation": "Signed second-order sensitivities; coverage uses absolute values only, inversion retains signed Jacobian"
+    },
+    "cache_before_update": {
+      "model_key": "2e6c534dd42b7529f5137846b3738e08b29d96cc7fe2d620f81a629b1f7f76c4",
+      "fields_calculated": 266,
+      "fields_loaded": 1598,
+      "field_seconds": 1362.3934057999868,
+      "resident_field_limit": 90,
+      "operator": "factored FM; physical receiver elevation"
+    },
+    "ray_seconds": 709.2178362000268,
+    "solve_seconds": 46.60947209992446,
+    "round_seconds": 1042.490060799988,
+    "max_abs_station_static_s": 1.0
+  },
+  {
+    "round": 3,
+    "train_rms_before_update_s": 0.733765701733856,
+    "train_rms_after_update_s": 0.7272682698356437,
+    "holdout_rms_fixed_catalog_origin_s": 2.033979646512809,
+    "active_cells": 8542,
+    "train_equations": 23311,
+    "update_accepted": true,
+    "line_search": [
+      {
+        "alpha": 1.0,
+        "train_rms_s": 0.7272682698356437,
+        "cache": {
+          "model_key": "355af8b16e07c52a1ee56e8d58191abe16810f34c52b5b763990063fdfe42cb4",
+          "fields_calculated": 266,
+          "fields_loaded": 246,
+          "field_seconds": 627.420029096771,
+          "resident_field_limit": 90,
+          "operator": "factored FM; physical receiver elevation"
+        }
+      }
+    ],
+    "lsmr": {
+      "istop": 2,
+      "iterations": 657,
+      "normr": 91.66610637196894,
+      "normar": 1.466767676549548,
+      "acond": 26.12082147255052,
+      "converged": true,
+      "shape": [
+        40640,
+        8787
+      ],
+      "nnz": 8896708
+    },
+    "ray_diagnostic": {
+      "operator": "discrete factored FM reverse differentiation including source-cell interpolation",
+      "failed_rows": [],
+      "matrix_nnz": 10275365,
+      "kernel_time_minus_field_median_s": null,
+      "kernel_time_minus_field_p95_abs_s": null,
+      "kernel_time_minus_field_max_abs_s": null,
+      "limitation": "Signed second-order sensitivities; coverage uses absolute values only, inversion retains signed Jacobian"
+    },
+    "cache_before_update": {
+      "model_key": "d37e30b308f9487fb177929594c60745def33290992e081d80e63d4858d9ab82",
+      "fields_calculated": 266,
+      "fields_loaded": 1598,
+      "field_seconds": 876.4547927950043,
+      "resident_field_limit": 90,
+      "operator": "factored FM; physical receiver elevation"
+    },
+    "ray_seconds": 430.0617009999696,
+    "solve_seconds": 28.148634700104594,
+    "round_seconds": 650.7799955999944,
+    "max_abs_station_static_s": 1.3110693911226252
+  }
+]

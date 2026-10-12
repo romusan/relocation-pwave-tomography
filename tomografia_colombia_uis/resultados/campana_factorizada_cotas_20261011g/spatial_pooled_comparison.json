@@ -1,0 +1,26 @@
+{
+  "control_1d": {
+    "rms_s": 1.9284390020080768,
+    "median_abs_s": 1.1336857764435373,
+    "p90_abs_s": 3.0032851020684816,
+    "trimmed95_rms_s": 1.5559193938448763
+  },
+  "model_3d": {
+    "rms_s": 2.0939782212890323,
+    "median_abs_s": 1.327174357893871,
+    "p90_abs_s": 3.2800685234570692,
+    "trimmed95_rms_s": 1.734069333635912
+  },
+  "paired_bootstrap": {
+    "delta_rms_3d_minus_1d_s": 0.1655392192809555,
+    "ci95_s": [
+      0.15124651182057483,
+      0.18037218470777966
+    ],
+    "replicates": 3000,
+    "unit": "event"
+  },
+  "events": 3621,
+  "picks": 32304,
+  "definition": "pooled predictions from disjoint spatial holdouts, not a single fitted model"
+}

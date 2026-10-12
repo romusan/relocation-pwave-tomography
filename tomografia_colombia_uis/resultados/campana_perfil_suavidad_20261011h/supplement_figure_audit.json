@@ -1,0 +1,8 @@
+{
+  "checkerboard_depth_km": 80,
+  "truth_color_range_percent": 3,
+  "recovery_color_range_percent": 19.0,
+  "grey": "outside fixed active parameter support, not resolution",
+  "profile": "median direct-grid nodes within common active support, not whole-domain median",
+  "statics_partial": "subtract fitted latitude and longitude contributions; intercept retained"
+}

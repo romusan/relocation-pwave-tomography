@@ -1,0 +1,18 @@
+{
+  "compiler": "g++.exe (Rev5, Built by MSYS2 project) 16.1.0",
+  "command": [
+    "C:\\msys64\\ucrt64\\bin\\g++.exe",
+    "-O3",
+    "-std=c++17",
+    "-shared",
+    "-static",
+    "-static-libgcc",
+    "-static-libstdc++",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\native\\relocation.cpp",
+    "-o",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\native\\relocation.dll"
+  ],
+  "platform": "Windows-11-10.0.22631-SP0",
+  "python": "3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]",
+  "source_sha256": "06c15ec711e31ea8cb7d6c3725d6f6f4448734a56d9142bcc8e7233597431982"
+}

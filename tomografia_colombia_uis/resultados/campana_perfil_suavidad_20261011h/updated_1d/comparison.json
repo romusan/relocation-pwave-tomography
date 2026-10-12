@@ -1,0 +1,21 @@
+{
+  "kind": "1d",
+  "laplace_weight": 20.0,
+  "train": {
+    "rms_s": 0.682152385737588,
+    "median_abs_s": 0.2844424757937112,
+    "p90_abs_s": 0.9992196730881358,
+    "trimmed95_rms_s": 0.4693774888631516
+  },
+  "holdout": {
+    "rms_s": 1.7632920234812088,
+    "median_abs_s": 1.1809884043877923,
+    "p90_abs_s": 2.6979714122594203,
+    "trimmed95_rms_s": 1.4685283498674104
+  },
+  "rounds": 12,
+  "converged": false,
+  "stop": "predefined_maximum_rounds",
+  "parameters": 19,
+  "reference_station": "CM.ACH1"
+}

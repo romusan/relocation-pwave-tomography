@@ -1,0 +1,108 @@
+{
+  "operator": "second-order factored fast marching; source-aligned translated mesh",
+  "station_geometry": "continuous X,Y, depth=-elevation; no pairwise additive correction",
+  "model_start": "same frozen 1D",
+  "excluded_station_ids": [
+    "CM.APAC",
+    "CM.BOG",
+    "CM.CSAGU@5e9bad1af7b6",
+    "CM.CUFI@168bb47744ab",
+    "CM.FLO2@4163e9af44fd",
+    "CM.FLO2@87b27f38b9ad",
+    "CM.FOM@eabbd249a9a2",
+    "CM.FOM@f569b2e73463",
+    "CM.MOCC@0e4e283e7b4a",
+    "CM.PAS2@fcb4658650bc",
+    "CM.PMCC@f406e051bfc7",
+    "CM.TUM@4cb4322ecd86",
+    "EC.SNLR@f800c5b819e1"
+  ],
+  "events": 3621,
+  "train_events": 2897,
+  "holdout_events": 724,
+  "picks": 32304,
+  "stations": 267,
+  "config": {
+    "solver_spacing_km": 10.0,
+    "inversion_spacing_km": 20.0,
+    "relocation_radius_km": 10.0,
+    "rounds": 3,
+    "vp_min_km_s": 4.0,
+    "vp_max_km_s": 8.8,
+    "max_velocity_fraction_per_round": 0.05,
+    "min_ray_hits": 20,
+    "laplace_weight": 2.0,
+    "cell_damping": 3.0,
+    "station_damping": 2.0,
+    "station_statics": true,
+    "max_static_step_s": 0.5,
+    "lsmr_maxiter": 1000,
+    "lsmr_atol": 1e-06,
+    "lsmr_btol": 1e-06,
+    "min_p_stations": 4,
+    "min_probability_p": 0.3,
+    "min_probability_s": 0.3,
+    "association_window_p_s": 8.0,
+    "association_window_s_s": 12.0,
+    "ambiguity_margin_s": 0.5,
+    "max_origin_shift_s": 8.0,
+    "vp_vs_association": 1.73,
+    "sigma_p_s": 1.0,
+    "holdout_fraction": 0.2,
+    "seed": 20261009,
+    "scoring_backend": "cpp",
+    "fsm_sweeps": 8,
+    "time_field_memory_limit_mb": 384,
+    "q_initial": 60.0,
+    "q_min": 10.0,
+    "q_max": 1000.0,
+    "q_cell_damping": 20.0,
+    "q_site_damping": 2.0,
+    "q_laplace_weight": 10.0,
+    "notes": "Experimental parameters, not calibrated regionally. P-only velocity inversion; S retained for QC. First-order FSM and 26-neighbour backtrace. Q requires measured delta_tstar with uncertainty.",
+    "ray_backend": "factored_cpp",
+    "cache_directory": "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\campana_factorizada_cotas_20261011g\\cache",
+    "kernel_coverage_min_equivalent_length_km": 0.1,
+    "factored_order": 2,
+    "station_elevation": true
+  },
+  "mesh_spacing_km": [
+    10,
+    5,
+    2.5
+  ],
+  "mesh_gates": {
+    "rms_last_refinement_s": 0.1,
+    "p95_last_refinement_s": 0.25
+  },
+  "synthetics": {
+    "amplitudes": [
+      0.03,
+      0.08
+    ],
+    "generator_spacing_km": 5,
+    "seed": 20261011,
+    "block_km": 40
+  },
+  "spatial": {
+    "bands": [
+      4.5,
+      8.0
+    ],
+    "buffer_km": 20
+  },
+  "sha256": {
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\campana_factorizada_cotas_20261011g.py": "4c147843eb8dc5778d8192a605f344ebfbf9808779e26884ec7c22322176c918",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\regional\\factored.py": "7619893c4c0089d499b216ab28a663f8a54630682111e5203f2f5d73d1ffd9e2",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\native\\factored_eikonal.cpp": "b7b046e90670705a76fca08ec2e34e8ac8a667b1ae050ae00771b9d994f37418",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\native\\factored_eikonal.dll": "1e4b72e13f52e0e65c797d494f7b34aebb8c4ec524fbcd89ac4689d10d05bd50",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\tomografia_1d_adjunto_consistente_2026-10-10\\predictions.csv": "dd5f5594c92fe9b7a26c6eaa7022dc8e45b4f898cd6b6566b0b85ac935b18c56",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\tomografia_1d_adjunto_consistente_2026-10-10\\vp_final.npz": "4cc151157ac6a9b922a19f630dec32f12dd15c5b5feba6bed5d77c84cb52fd69",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\revision_independiente_20261011f\\estaticas_y_elevacion.csv": "c57f08bc156d00143a3eb449a5acd17a8c282dac48fb97bc7fec323867d2958f",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\regional\\pipeline_consistent.py": "a6d0b188d9de39bcb8706b420c18a0f2f3c468b7582ec9b08288f3f0664dc46f"
+  },
+  "amendments": [
+    "Before any inversion: depth mapping now uses physical coordinates because station grid adds z=-10; mesh tests do not use inversion mapping. No thresholds or parameter choices changed.",
+    "Before any inversion: adapter updated for externally changed elevation-enabled legacy pipeline; physical station geometry unchanged; no tuning."
+  ]
+}

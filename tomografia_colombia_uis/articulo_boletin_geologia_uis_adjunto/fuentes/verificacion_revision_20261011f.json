@@ -1,0 +1,44 @@
+{
+  "docx_sha256": "afcf4a5565db3fafe62d2409d7668e0b297fc0a73fe8e6ba3c40f993cb08fc91",
+  "pages": 38,
+  "figures": 7,
+  "tables": 10,
+  "local_links": [
+    "suplementos/figura_1_fragmentos_sgc.html",
+    "suplementos/figura_2_nurbs_nazca_caribe_sgc.html",
+    "suplementos/clasificacion_kmeans_sgc.html",
+    "suplementos/diagnosticos_revision_d/Figura_S1_ablacion.png",
+    "suplementos/diagnosticos_revision_d/S2_verificacion_numerica.md",
+    "suplementos/robustez_20261011/Informe_robustez_20261011.md",
+    "suplementos/robustez_20261011/figures/Figura_S3_convergencia.png",
+    "suplementos/robustez_20261011/figures/Figura_S4_sinteticos.png",
+    "suplementos/robustez_20261011/figures/Figura_S5_validacion_espacial.png",
+    "suplementos/revision_independiente_20261011f/Revision_independiente.md",
+    "suplementos/revision_independiente_20261011f/Figura_S6_estaticas_elevacion.png",
+    "suplementos/revision_independiente_20261011f/Figura_S7_mapa_estaticas.png"
+  ],
+  "verified_hashes": 38,
+  "old_e_unchanged": true,
+  "changed_figure": [
+    "word/media/image7.png"
+  ],
+  "analysis_reproduced_in_delivery_tree": true,
+  "visual_qa": "All 38 first-render pages inspected; all 23 changed final-render pages reinspected; 15 identical pages carried forward by SHA256",
+  "identical_final_pages": [
+    "page-1.png",
+    "page-26.png",
+    "page-29.png",
+    "page-3.png",
+    "page-30.png",
+    "page-31.png",
+    "page-32.png",
+    "page-33.png",
+    "page-34.png",
+    "page-35.png",
+    "page-36.png",
+    "page-37.png",
+    "page-38.png",
+    "page-4.png",
+    "page-5.png"
+  ]
+}

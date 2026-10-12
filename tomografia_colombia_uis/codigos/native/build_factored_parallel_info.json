@@ -1,0 +1,19 @@
+{
+  "command": [
+    "C:/msys64/ucrt64/bin/g++.exe",
+    "-O3",
+    "-std=c++17",
+    "-shared",
+    "-fopenmp",
+    "-static",
+    "-static-libgcc",
+    "-static-libstdc++",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\native\\factored_eikonal_parallel.cpp",
+    "-o",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\native\\factored_eikonal_parallel.dll"
+  ],
+  "source_sha256": "784380a58699d7157a9a93046a9c3f2787be9e47f3eb08c4169f9b95511c1692",
+  "binary_sha256": "59e5a6945957c93f52a5a641a1b5a46b0d3b2d9a686b8a99d606a730419bdbe5",
+  "equivalence": "Parallel independent observation rows, identical stencil and reverse summation per row",
+  "threads": 4
+}

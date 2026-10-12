@@ -1,0 +1,16 @@
+{
+  "command": [
+    "C:/msys64/ucrt64/bin/g++.exe",
+    "-O3",
+    "-std=c++17",
+    "-shared",
+    "-static",
+    "-static-libgcc",
+    "-static-libstdc++",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\native\\factored_eikonal.cpp",
+    "-o",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\native\\factored_eikonal.dll"
+  ],
+  "source_sha256": "b7b046e90670705a76fca08ec2e34e8ac8a667b1ae050ae00771b9d994f37418",
+  "binary_sha256": "1e4b72e13f52e0e65c797d494f7b34aebb8c4ec524fbcd89ac4689d10d05bd50"
+}

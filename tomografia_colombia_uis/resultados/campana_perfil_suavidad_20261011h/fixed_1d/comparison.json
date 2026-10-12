@@ -1,0 +1,21 @@
+{
+  "kind": "fixed",
+  "laplace_weight": 0.0,
+  "train": {
+    "rms_s": 0.7603118743563914,
+    "median_abs_s": 0.296621730702626,
+    "p90_abs_s": 1.0856237377236049,
+    "trimmed95_rms_s": 0.5080115357845684
+  },
+  "holdout": {
+    "rms_s": 1.8814875081730191,
+    "median_abs_s": 1.0871021545615933,
+    "p90_abs_s": 2.879793429452585,
+    "trimmed95_rms_s": 1.4966891579995882
+  },
+  "rounds": 11,
+  "converged": true,
+  "stop": "training_objective_plateau",
+  "parameters": 0,
+  "reference_station": "CM.ACH1"
+}

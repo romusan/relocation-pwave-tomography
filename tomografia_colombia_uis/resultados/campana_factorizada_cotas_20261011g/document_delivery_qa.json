@@ -1,0 +1,105 @@
+{
+  "docx_sha256": "6f9fdd0a06a3608510431cb7409ec66870dc857ef07469dea48aa9074b08ea42",
+  "tables": 6,
+  "main_figures": 2,
+  "relative_links": [
+    "suplementos_20261011g/figura_1_fragmentos_sgc.html",
+    "suplementos_20261011g/figura_2_nurbs_nazca_caribe_sgc.html",
+    "suplementos_20261011g/clasificacion_kmeans_sgc.html",
+    "figuras/Figura_g_sinteticos_suplemento.png",
+    "Cierre_campana_20261011g.md"
+  ],
+  "pages": [
+    {
+      "page": "page-1.png",
+      "sha256": "14e3b02fad16a5d6181ce7ec7d379e9951c369ac5ebff9a99dae7817048c4c5d",
+      "identical_to_already_reviewed": "page-1.png"
+    },
+    {
+      "page": "page-2.png",
+      "sha256": "df1d02dd4b43a71d3fb1136ab63009c5e980f41374a98ddd151011c530b56c1e",
+      "identical_to_already_reviewed": "page-2.png"
+    },
+    {
+      "page": "page-3.png",
+      "sha256": "3c39ca23c37e76ab2ecd51ed8b82a364b17b5cb831f7b5efdbcdad9d7eca3c52",
+      "identical_to_already_reviewed": "page-3.png"
+    },
+    {
+      "page": "page-4.png",
+      "sha256": "938964bc4c83d2b72843cf7b772f24330423f94d04f0b9f0ca1b373a061bac05",
+      "identical_to_already_reviewed": "page-4.png"
+    },
+    {
+      "page": "page-5.png",
+      "sha256": "8639de77789f3c0a275e909674d6f8de1607cc01416e5bb725ce81bbd7e9b181",
+      "identical_to_already_reviewed": "page-5.png"
+    },
+    {
+      "page": "page-6.png",
+      "sha256": "2d787bdd7a0b451a12af1d5cec26c779e3f1fe57a6e99855f6eb135e1eb74c8f",
+      "identical_to_already_reviewed": "page-6.png"
+    },
+    {
+      "page": "page-7.png",
+      "sha256": "864207c80dfd2b2d3be68ad5cc7ac0c9e8f24677b82a9ef356cb6c935d29fc6a",
+      "identical_to_already_reviewed": "page-7.png"
+    },
+    {
+      "page": "page-8.png",
+      "sha256": "abcf55384eac9c095ae0e449fef73530b8cca7d4c48fb5cadcd0df3373cd9951",
+      "identical_to_already_reviewed": "page-8.png"
+    },
+    {
+      "page": "page-9.png",
+      "sha256": "76bc5aa21ee5518479f067aa8378d74f3a570f45e1a54c768aa6a8e809dfc9fe",
+      "identical_to_already_reviewed": null
+    },
+    {
+      "page": "page-10.png",
+      "sha256": "bdcb22e3ff338510b0a06b5ad8d95dd288df3f8b3f00b090691a0a3ecd556f0b",
+      "identical_to_already_reviewed": "page-11.png"
+    },
+    {
+      "page": "page-11.png",
+      "sha256": "8d218d4e371a7719001b2e941cf063230d4a658e84cf41ad6f2302b133656582",
+      "identical_to_already_reviewed": "page-12.png"
+    },
+    {
+      "page": "page-12.png",
+      "sha256": "1a9396228a085258daf33d82c8a2e1a0f4c7a30583d076a9c610742657960887",
+      "identical_to_already_reviewed": null
+    },
+    {
+      "page": "page-13.png",
+      "sha256": "2c13bb4c3ce8c92817acfaea90bb288d46e7b2bbf72c57f51695d47753bc0f20",
+      "identical_to_already_reviewed": null
+    },
+    {
+      "page": "page-14.png",
+      "sha256": "db13b8948f491a86e5a78544095a4118e8f64a59978544a88a505d66d7cd3c52",
+      "identical_to_already_reviewed": null
+    },
+    {
+      "page": "page-15.png",
+      "sha256": "4fdf41ceeb450660578ad586c3a62d9ab724aa07280e0e9159bd97e965d3b4b2",
+      "identical_to_already_reviewed": null
+    },
+    {
+      "page": "page-16.png",
+      "sha256": "4652ba44f7a0c90ba57f6a923dee7211f88c747e1f274a84cbb4d425e3d0fb7e",
+      "identical_to_already_reviewed": null
+    },
+    {
+      "page": "page-17.png",
+      "sha256": "7fe66b370e669f5745cb749b4a1246cf8ff27fb9755782b6aef3b536666095cb",
+      "identical_to_already_reviewed": null
+    },
+    {
+      "page": "page-18.png",
+      "sha256": "3a383c0189b42818c38ab53f02307bf17b687c7ae30ac9a577eb8a78d93ea20f",
+      "identical_to_already_reviewed": null
+    }
+  ],
+  "review_status": "Identical pages previously viewed; changed pages reviewed separately before delivery"
+}

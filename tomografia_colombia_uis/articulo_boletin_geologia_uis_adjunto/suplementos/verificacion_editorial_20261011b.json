@@ -1,0 +1,27 @@
+{
+  "checked_at": "2026-10-11T11:11:56.003567+00:00",
+  "operation": "editorial revision; not historical acquisition",
+  "input_sha256": {
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\articulo_boletin_geologia_uis_adjunto\\Manuscrito_tomografia_Vp_Colombia_UIS_revision_20261011.docx": "a26dbbb1438832e74607c618b18a64cc51ef2c831a5b09c4d8039d7959ad1477",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\placas_adjunto_consistente_2026-10-10\\asignacion_sismos.csv": "eeac710a2a41044444243a64ff13ce559170cb5500ee1987f831e762d6a11a1e",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\placas_nazca_caribe_diagonal_20261010.py": "a1fc0da6dd02a5e074819f45c9032ba90640b9796bc12e456ae9dbe132f76ace",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\suplementos_revision_20261011.py": "f8ce0aca457d2bd2669a37f2c660ddc571184346d87cc6a918f7866c14dfaee6",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\articulo_boletin_geologia_uis_adjunto\\fuentes\\metricas_articulo_revision_20261011.json": "f9b76ce3d7846e7c748cae56645b2b94fe3570ddcf27ba32b12ad82c7ca9baea"
+  },
+  "output": "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\articulo_boletin_geologia_uis_adjunto\\Manuscrito_tomografia_Vp_Colombia_UIS_revision_20261011b.docx",
+  "output_sha256": "66ce93b4eb0e9bcd1856efb0c8e2b9962ba09f8c51aec0e6cdc61338075872fb",
+  "figure_count": 7,
+  "table_count": 6,
+  "relative_html_links": [
+    "suplementos/figura_1_fragmentos_sgc.html",
+    "suplementos/figura_2_nurbs_nazca_caribe_sgc.html",
+    "suplementos/clasificacion_kmeans_sgc.html"
+  ],
+  "eligible_events": 1180,
+  "nazca_candidates": 795,
+  "nazca_used": 570,
+  "caribe_used": 385,
+  "nazca_excluded": 225,
+  "saturated_cells": 2857,
+  "saturated_percent": 28.538607531715115
+}

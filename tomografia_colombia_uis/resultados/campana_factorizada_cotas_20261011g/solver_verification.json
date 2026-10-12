@@ -1,0 +1,46 @@
+{
+  "analytical": [
+    {
+      "h_km": 10.0,
+      "homogeneous_max_abs_s": 7.105427357601002e-14,
+      "manufactured_rms_s": 0.0015416873246808193,
+      "manufactured_p95_s": 0.00405080919674008
+    },
+    {
+      "h_km": 5.0,
+      "homogeneous_max_abs_s": 2.8954616482224083e-13,
+      "manufactured_rms_s": 0.0006684493162239585,
+      "manufactured_p95_s": 0.0017869046257962492
+    },
+    {
+      "h_km": 2.5,
+      "homogeneous_max_abs_s": 8.917311333789257e-13,
+      "manufactured_rms_s": 0.00023447870367056711,
+      "manufactured_p95_s": 0.0007385391256302665
+    }
+  ],
+  "adjoint": {
+    "homogeneity_max_abs_s": 6.039613253960852e-14,
+    "directional_fd": [
+      {
+        "epsilon": 1e-05,
+        "relative_error": 9.65196413015588e-09
+      },
+      {
+        "epsilon": 1e-06,
+        "relative_error": 5.56923780192855e-08
+      },
+      {
+        "epsilon": 1e-07,
+        "relative_error": 2.3697812558793896e-07
+      }
+    ]
+  },
+  "physical_elevation": {
+    "homogeneous_exact_xyz_max_abs_s": 1.9539925233402755e-14,
+    "projected_adjoint_fd_relative_error": 1.4926204205098437e-08,
+    "station_elevation_km": 1.8
+  },
+  "pass": true,
+  "seconds": 0.8588293001521379
+}

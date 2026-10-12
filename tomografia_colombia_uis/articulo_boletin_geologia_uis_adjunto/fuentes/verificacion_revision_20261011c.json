@@ -1,0 +1,70 @@
+{
+  "checked_at": "2026-10-11T11:18:42.914705+00:00",
+  "source_sha256": "66ce93b4eb0e9bcd1856efb0c8e2b9962ba09f8c51aec0e6cdc61338075872fb",
+  "output_sha256": "54c711d7130da94c1d83ab7d1dbe9a9d2722d7e882a4b7d3327e0231840d7a30",
+  "zip_sha256": "7efabc43fe13c48657524150ba5a66a35fdd71fca2450cf7d01e0ce5c2594526",
+  "changed_paragraphs": [
+    [
+      5,
+      "La distribución de la sismicidad y las heterogeneidades de velocidad aportan restricciones complementarias sobre la subducción bajo Colombia, aunque su continuidad espacial depende de la cobertura y del método de reconstrucción. Evaluamos un experimento de tomografía local de ondas P iniciado con un perfil de velocidad unidimensional, seguido de una interpretación geométrica de superficies candidatas de Nazca y Caribe. Seleccionamos 3734 eventos con identificadores del Servicio Geológico Colombiano y 33476 tiempos de llegada P asociados a 280 identificadores de estación. Reservamos 747 eventos completos para evaluar la predicción sin ajustar sus hipocentros ni tiempos de origen. La inversión alternó relocalización, correcciones de estación y actualización de velocidad en tres rondas, con una malla directa de 10 km y parametrización de 20 km. El RMS de entrenamiento disminuyó de 1,6352 a 0,7931 s; en reserva pasó de 1,6497 a 1,6023 s, con un intervalo de confianza del 95 % de −⁠0,0676 a −⁠0,0263 s para la diferencia final menos inicial. La cobertura final activó 10011 celdas. El ensayo lineal obtuvo correlación de 0,557 y recuperación parcial. Las sensibilidades concordaron con diferencias finitas recalculadas independientemente. Construimos fragmentos locales y superficies cúbicas NURBS apoyadas en sismicidad relocalizada; la candidata Nazca incorporó anclajes de Slab2. Los desajustes geométricos fueron de 18,79 y 28,32 km para Nazca y Caribe, respectivamente. La continuidad representada contiene amplias regiones interpoladas. Además, la consistencia entre sensibilidades y campos se verifica a precisión numérica, mientras que la resolución espacial permanece condicionada por la malla. Los resultados permiten formular hipótesis espaciales y evaluar el desempeño predictivo, pero no confirmar un límite de placas ni una geometría resuelta de la subducción.",
+      "La distribución de la sismicidad y las heterogeneidades de velocidad aportan restricciones complementarias sobre la subducción bajo Colombia, aunque su continuidad espacial depende de la cobertura y del método de reconstrucción. Evaluamos un experimento de tomografía local de ondas P iniciado con un perfil de velocidad unidimensional, seguido de una interpretación geométrica de superficies candidatas de Nazca y Caribe. Seleccionamos 3734 eventos con identificadores del Servicio Geológico Colombiano y 33476 tiempos de llegada P asociados a 280 identificadores de estación. Reservamos 747 eventos completos para evaluar la predicción sin ajustar sus hipocentros ni tiempos de origen. La inversión alternó relocalización, correcciones de estación y actualización de velocidad en tres rondas, con una malla directa de 10 km y parametrización de 20 km. El RMS de entrenamiento disminuyó de 1,6352 a 0,7931 s; en reserva pasó de 1,6497 a 1,6023 s, con un intervalo de confianza del 95 % de −⁠0,0676 a −⁠0,0263 s para la diferencia final menos inicial. La cobertura final activó 10011 celdas; las amplitudes quedan condicionadas por los límites impuestos en el 28,5 % de ellas. El ensayo lineal obtuvo correlación de 0,557 y recuperación parcial. Las sensibilidades concordaron con diferencias finitas recalculadas independientemente. Construimos fragmentos locales y superficies cúbicas NURBS apoyadas en sismicidad relocalizada; la candidata Nazca incorporó anclajes de Slab2. Los desajustes geométricos fueron de 18,79 y 28,32 km para Nazca y Caribe, respectivamente. La continuidad representada contiene amplias regiones interpoladas. Además, la consistencia entre sensibilidades y campos se verifica a precisión numérica, mientras que la resolución espacial permanece condicionada por la malla. Los resultados permiten formular hipótesis espaciales y evaluar el desempeño predictivo, pero no confirmar un límite de placas ni una geometría resuelta de la subducción."
+    ],
+    [
+      9,
+      "Seismicity and velocity heterogeneity provide complementary constraints on subduction beneath Colombia, although spatial continuity depends on data coverage and reconstruction assumptions. We evaluate a local P wave tomography experiment initialized with a one dimensional velocity profile, followed by a geometric interpretation of candidate Nazca and Caribbean surfaces. We selected 3734 events with Colombian Geological Survey identifiers and 33476 P arrival times associated with 280 station identifiers. We withheld 747 complete events to evaluate prediction without adjusting their hypocentres or origin times. Three inversion rounds alternated relocation, station corrections, and velocity updates, using a 10 km forward grid and a 20 km inversion parametrization. Training RMS decreased from 1.6352 to 0.7931 s, whereas held out RMS changed from 1.6497 to 1.6023 s. The 95% confidence interval for final minus initial held out RMS was −⁠0.0676 to −⁠0.0263 s. Final discrete sensitivity coverage activated 10011 cells. The linear checkerboard correlation was 0.557, indicating partial recovery. Local fragments and cubic NURBS surfaces were constructed from relocated seismicity; the candidate Nazca surface also used Slab2 anchors. Geometric fitting RMS was 18.79 km for Nazca and 28.32 km for the Caribbean candidate. Continuous surfaces contain extensive interpolated areas. Discrete sensitivities reproduce field travel times to numerical precision and agree with independently recomputed finite differences; spatial accuracy remains limited by the first order grid. These results support spatial hypotheses and predictive assessment, but do not establish a resolved plate boundary or a validated subduction geometry.",
+      "Seismicity and velocity heterogeneity provide complementary constraints on subduction beneath Colombia, although spatial continuity depends on data coverage and reconstruction assumptions. We evaluate a local P wave tomography experiment initialized with a one dimensional velocity profile, followed by a geometric interpretation of candidate Nazca and Caribbean surfaces. We selected 3734 events with Colombian Geological Survey identifiers and 33476 P arrival times associated with 280 station identifiers. We withheld 747 complete events to evaluate prediction without adjusting their hypocentres or origin times. Three inversion rounds alternated relocation, station corrections, and velocity updates, using a 10 km forward grid and a 20 km inversion parametrization. Training RMS decreased from 1.6352 to 0.7931 s, whereas held out RMS changed from 1.6497 to 1.6023 s. The 95% confidence interval for final minus initial held out RMS was −⁠0.0676 to −⁠0.0263 s. Final discrete sensitivity coverage activated 10011 cells; recovered amplitudes are constrained by the imposed bounds in 28.5% of them. The linear checkerboard correlation was 0.557, indicating partial recovery. Local fragments and cubic NURBS surfaces were constructed from relocated seismicity; the candidate Nazca surface also used Slab2 anchors. Geometric fitting RMS was 18.79 km for Nazca and 28.32 km for the Caribbean candidate. Continuous surfaces contain extensive interpolated areas. Discrete sensitivities reproduce field travel times to numerical precision and agree with independently recomputed finite differences; spatial accuracy remains limited by the first order grid. These results support spatial hypotheses and predictive assessment, but do not establish a resolved plate boundary or a validated subduction geometry."
+    ],
+    [
+      104,
+      "El uso de 10 km para el cálculo directo, la ausencia de elevaciones y curvatura, el divisor uniforme de residuos de 1 s y los límites de Vp pueden introducir sesgos que no quedan capturados por el remuestreo. La referencia del Valle Medio del Magdalena tampoco representa necesariamente la heterogeneidad crustal del Pacífico, el Cauca o la región caribeña. Se requiere evaluar un modelo mínimo 1D apropiado al dominio (Kissling et al., 1994), convergencia del cálculo directo al refinar la malla y sensibilidad a los pesos de regularización. En 2857 de las 10011 celdas activas (28,54 %), casi tres de cada diez, la solución alcanza una de las dos cotas: 1300 llegan al límite acumulado de descenso por ronda y 1557 al máximo de 8,8 km/s. Sus amplitudes quedan condicionadas por las cotas y no pueden interpretarse como estimaciones libres del contraste de velocidad; los datos no permiten cuantificar cuánto continuarían fuera de ellas. Esto limita directamente la lectura de las anomalías de la Figura 5. Las derivadas ya verificadas permiten realizar esos contrastes sin mezclar la sensibilidad de un trazado geométrico con la de un campo discretizado. Tales contrastes de precisión espacial todavía no forman parte de los resultados presentados.",
+      "El uso de 10 km para el cálculo directo, la ausencia de elevaciones y curvatura, el divisor uniforme de residuos de 1 s y los límites de Vp pueden introducir sesgos que no quedan capturados por el remuestreo. La referencia del Valle Medio del Magdalena tampoco representa necesariamente la heterogeneidad crustal del Pacífico, el Cauca o la región caribeña. Se requiere evaluar un modelo mínimo 1D apropiado al dominio (Kissling et al., 1994), convergencia del cálculo directo al refinar la malla y sensibilidad a los pesos de regularización. En 2857 de las 10011 celdas activas (28,54 %; casi tres de cada diez) la solución alcanza una de las dos cotas: 1300 llegan al límite acumulado de descenso por ronda y 1557 al máximo de 8,8 km/s. Sus amplitudes quedan condicionadas por las cotas y no pueden interpretarse como estimaciones libres del contraste de velocidad; los datos no permiten cuantificar cuánto continuarían fuera de ellas. Esto limita directamente la lectura de las anomalías de la Figura 5. Las derivadas ya verificadas permiten realizar esos contrastes sin mezclar la sensibilidad de un trazado geométrico con la de un campo discretizado. Tales contrastes de precisión espacial todavía no forman parte de los resultados presentados."
+    ]
+  ],
+  "figures": 7,
+  "tables": 6,
+  "tables_and_images_unchanged": true,
+  "html_links": [
+    "suplementos/figura_1_fragmentos_sgc.html",
+    "suplementos/figura_2_nurbs_nazca_caribe_sgc.html",
+    "suplementos/clasificacion_kmeans_sgc.html"
+  ],
+  "resumen_words": 283,
+  "abstract_words": 251,
+  "rendered_pages": 33,
+  "visually_inspected_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33
+  ],
+  "visual_qa": "PASS"
+}

@@ -1,0 +1,63 @@
+{
+  "station_ids": 267,
+  "unique_positions_1m": 264,
+  "collocated_groups": [
+    [
+      "CM.COBO",
+      "CM.CONO"
+    ],
+    [
+      "CM.YOT",
+      "IR.YOTC"
+    ],
+    [
+      "CM.VIL",
+      "IR.VILC"
+    ]
+  ],
+  "columns": [
+    "raw_row",
+    "event_id",
+    "origin_time",
+    "ev_lat",
+    "ev_lon",
+    "ev_prof_km",
+    "net",
+    "sta",
+    "st_lat",
+    "st_lon",
+    "dist_epi_km",
+    "fase",
+    "pick_time",
+    "prob",
+    "t_viaje_s",
+    "reason",
+    "selected",
+    "station",
+    "observed_s",
+    "st_x_km",
+    "st_y_km",
+    "st_lat_current",
+    "st_lon_current",
+    "source_x_km",
+    "source_y_km",
+    "association_prediction_s",
+    "association_residual_s",
+    "campaign_group",
+    "published_phase",
+    "reporting_agency",
+    "pick_id",
+    "origin_agency",
+    "isc_event_id",
+    "original_net",
+    "split",
+    "predicted_s",
+    "origin_shift_s",
+    "station_static_s",
+    "residual_s",
+    "elevation_m",
+    "metadata_source",
+    "coordinate_difference_deg",
+    "st_elev_km"
+  ]
+}

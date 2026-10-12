@@ -1,0 +1,25 @@
+[
+  {
+    "model": "new_3d",
+    "picks": 4597,
+    "station_ids": [
+      "CM.JAMC",
+      "CM.ORTC",
+      "CM.CBOC",
+      "CM.HEL",
+      "CM.ARGC",
+      "CM.CRJC"
+    ],
+    "differences": [
+      {
+        "rms_s": 0.2685590523640719,
+        "p95_s": 0.574366835590726
+      },
+      {
+        "rms_s": 0.1710314728399264,
+        "p95_s": 0.37961525334152085
+      }
+    ],
+    "pass_gate": false
+  }
+]

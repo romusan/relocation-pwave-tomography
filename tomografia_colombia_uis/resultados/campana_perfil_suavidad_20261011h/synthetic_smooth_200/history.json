@@ -1,0 +1,42 @@
+[
+  {
+    "round": 1,
+    "train_rms_s": 1.1897401386963888,
+    "holdout_rms_s": 1.455759244087034,
+    "objective": 36601.02090186209,
+    "accepted": true,
+    "max_vp_fraction": 0.050000000000000044,
+    "seconds": 460.0307872998528,
+    "lsmr_istop": 2
+  },
+  {
+    "round": 2,
+    "train_rms_s": 1.1416418005705764,
+    "holdout_rms_s": 1.4599301417718515,
+    "objective": 33759.54851916963,
+    "accepted": true,
+    "max_vp_fraction": 0.050000000000000155,
+    "seconds": 449.4624870000407,
+    "lsmr_istop": 2
+  },
+  {
+    "round": 3,
+    "train_rms_s": 1.1254865159788854,
+    "holdout_rms_s": 1.4648358014334462,
+    "objective": 32839.28492298021,
+    "accepted": true,
+    "max_vp_fraction": 0.050000000000000155,
+    "seconds": 444.0452091000043,
+    "lsmr_istop": 2
+  },
+  {
+    "round": 4,
+    "train_rms_s": 1.1177190781333848,
+    "holdout_rms_s": 1.470110416844745,
+    "objective": 32404.351638190125,
+    "accepted": true,
+    "max_vp_fraction": 0.050000000000000155,
+    "seconds": 444.9175145998597,
+    "lsmr_istop": 2
+  }
+]

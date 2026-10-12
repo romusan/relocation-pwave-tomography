@@ -1,0 +1,28 @@
+{
+  "1d": {
+    "stations": 262,
+    "excluded_gauge": "CM.ACH1",
+    "coordinates": "inverse AEQD of the actual station XY used in the solver",
+    "pearson": 0.11137915845194293,
+    "slope_adjusted_lat_lon_s_per_km": 0.04271436097088308,
+    "ci95_station_bootstrap_s_per_km": [
+      -0.012088313724859698,
+      0.09860051317814464
+    ],
+    "bootstrap_replicates": 3000,
+    "interpretation": "exploratory association; station bootstrap does not account for spatial dependence or prove causality"
+  },
+  "3d": {
+    "stations": 262,
+    "excluded_gauge": "CM.ACH1",
+    "coordinates": "inverse AEQD of the actual station XY used in the solver",
+    "pearson": -0.008419967134408261,
+    "slope_adjusted_lat_lon_s_per_km": -0.032833739323895286,
+    "ci95_station_bootstrap_s_per_km": [
+      -0.0838180311104962,
+      0.015739676128007113
+    ],
+    "bootstrap_replicates": 3000,
+    "interpretation": "exploratory association; station bootstrap does not account for spatial dependence or prove causality"
+  }
+}

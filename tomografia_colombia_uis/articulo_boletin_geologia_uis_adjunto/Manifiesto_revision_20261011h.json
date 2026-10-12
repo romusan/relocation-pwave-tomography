@@ -1,0 +1,2977 @@
+[
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/cerrar_revision_h.ps1",
+    "bytes": 3496,
+    "sha256": "9d8c2847210233cd58cd54c000c6be67cc758a1dcd2c40beb34b183d7106226b"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/crear_manuscrito_revision_20261011f.py",
+    "bytes": 68388,
+    "sha256": "6b8d27b47482b2518c3aacac621b99ea6477dd2b7fb6eafc2f227f341133917d"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/crear_manuscrito_revision_20261011h.py",
+    "bytes": 36882,
+    "sha256": "d0e5fd44b6f2d127c3dc2fddbe5d2e4e2287dfab31cf36a889d5c7fed34471f9"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/empaquetar_revision_h.py",
+    "bytes": 3939,
+    "sha256": "53ac1cf1296f0b05785d521209900c8d09c14ad1c3a78f0f2bd3c723a92b5ae2"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/figuras_revision_h/Anomalias_activas.png",
+    "bytes": 334027,
+    "sha256": "a406274617caaed999814e6207d8111e7430f09bdf7e1e60ef2cc27e67c76bec"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/figuras_revision_h/Damero_efectivo.png",
+    "bytes": 407304,
+    "sha256": "4b05df7563448037d4371866c8aa72f4cfdaf6e3ca02cbc2f71c631f39a7331b"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/figuras_revision_h/Datos_estaciones_magnitudes_profundidades.png",
+    "bytes": 475403,
+    "sha256": "acdbed0e51a8f2db3dee8e5d180e7c20a49704195586736614ce02567c96d160"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/figuras_revision_h/Estaticas_elevacion.png",
+    "bytes": 239841,
+    "sha256": "8f7ba7615ced5ac861e938afbe6883f77674617bae13e842466957bdf008551f"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/figuras_revision_h/Modelos_inicial_final.png",
+    "bytes": 483848,
+    "sha256": "5d06cc101c98cdd1d5503c7174fed413e8e42369ab2a56c93a5faa86200dbf09"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/figuras_revision_h/Perfiles_velocidad.png",
+    "bytes": 136995,
+    "sha256": "f832772aaee43c65b4b9e42fbc2188e15ab203870ff64b67fdaa0e8d94caf00e"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/figuras_revision_h/RMS_por_ronda.png",
+    "bytes": 177472,
+    "sha256": "741e0a5e6ae23b8451ec09b8090e24d5517847382c595ec82c52989a6b988910"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/figuras_revision_h.py",
+    "bytes": 5005,
+    "sha256": "9bd6f77f550e4e9f01f366b8002738f0d953f768569fba5f5a0de65b03bf3535"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/auditoria_cortes_anomalias.json",
+    "bytes": 2474,
+    "sha256": "d4014612b797e85a3e39145d682acb46571b7cd50104e4dbcce33302975a451f"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/auditoria_manuscrito.json",
+    "bytes": 6464,
+    "sha256": "b9023d5c78cb1212d13dee72d8dfe4c10f9e8b41639d216637b4b07f812783dd"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/auditoria_manuscrito_anomalias.json",
+    "bytes": 10256,
+    "sha256": "6f7f6da98011be388e236b927e37646f8ca35f154df2b4bd01b3d5805bfc9a1c"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/auditoria_manuscrito_modelos.json",
+    "bytes": 8586,
+    "sha256": "cd663996d9962b4c6c8d7d43b93b2e8eddcf77e1535d3a8a0ec93333bc63a045"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/auditoria_manuscrito_revision_20261011.json",
+    "bytes": 13500,
+    "sha256": "d7f532469ec013fb7444e3ed4ca322c6928dc13cb19be3ac519c585da3a3e6af"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/auditoria_manuscrito_revision_20261011b.json",
+    "bytes": 13501,
+    "sha256": "2d9695460b02cf9b6423fdd4d16eef42b8335966ff8f43bc8bcb86a4dcfc193f"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/auditoria_manuscrito_revision_20261011c.json",
+    "bytes": 13501,
+    "sha256": "d834f486a8e48b8840113245764c66580ad4aff907b3b9255d002c5319f0aae3"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/auditoria_manuscrito_revision_20261011d.json",
+    "bytes": 13501,
+    "sha256": "5a7d10b11af0e7a19e860b65a311ea5345c932fb647518405348a96e4ed36432"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/auditoria_manuscrito_revision_20261011e.json",
+    "bytes": 13501,
+    "sha256": "5049e845d239bb15ce2a47317a158b856e5574f780c9f0dee7381f8d4b9238ab"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/auditoria_manuscrito_revision_20261011f.json",
+    "bytes": 13501,
+    "sha256": "c7f605faf4efc3aace016b61595bfbefeefd2a1f4784994bb9e5ed7c54059fcc"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/auditoria_manuscrito_verificado.json",
+    "bytes": 6908,
+    "sha256": "c0c7bf3ce65da6a6b5b4409dc3b99aa57eb92fe044ea7218e6619e46da6a1894"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/auditoria_modelos_velocidad.json",
+    "bytes": 4765,
+    "sha256": "9b91ace3955cd91ebc46666e1e660a0ecb6e31175582d9a5e62b153ac449339a"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/bibliografia_verificada.json",
+    "bytes": 708947,
+    "sha256": "b99f10f62e73f202826dfee224c435a83f0f35dae4062ae0be468e460efd7746"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/correcciones_autoria_revision_d.json",
+    "bytes": 588,
+    "sha256": "1a6f31f49467dce039659e5a1c305fad4e18da477e3f3e99f8d79e39e7dfac80"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/fomel_2009_verificada.json",
+    "bytes": 618,
+    "sha256": "824d8d44a863bd7ca4ff08ddd59e3eb87d8d5dd7c6083b23ec68477ac75f7df1"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/fong_saunders_crossref.json",
+    "bytes": 9180,
+    "sha256": "e5c3aeb321a2aa3b506f2049a62abd96fc768a0e0995a7f7c0e8a12107274371"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/metricas_articulo.json",
+    "bytes": 8844,
+    "sha256": "bbb0f9a43880e857d3b10b78af7658b5f23c7e6d559a33ae351d17c5d2858be9"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/metricas_articulo_anomalias.json",
+    "bytes": 15736,
+    "sha256": "5c583aef7891042f18b13be6693b64121b5237d325a6b63e7a42152f514bc784"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/metricas_articulo_auditadas.json",
+    "bytes": 11938,
+    "sha256": "b925f35fe175c8220f7465a01b2994e1f8838f678c7b90ffae18081f545b6925"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/metricas_articulo_modelos.json",
+    "bytes": 14058,
+    "sha256": "e705f9c3cae89cc06f3dcab59487bc9812e09ceb3e65dc0836dafe57dee80f4a"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/metricas_articulo_revision_20261011.json",
+    "bytes": 18975,
+    "sha256": "f9b76ce3d7846e7c748cae56645b2b94fe3570ddcf27ba32b12ad82c7ca9baea"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/metricas_articulo_verificado.json",
+    "bytes": 12392,
+    "sha256": "728ad5724cc0246ed647d453387e9d659f1b909fa2374affdfec8202b8d87982"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/plantilla_uis.docx",
+    "bytes": 298817,
+    "sha256": "3cfad1274216acbccd336fb97bc20514a66d81876b57ab840a4d32b8aef70241"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/referencias_base_revision_h.json",
+    "bytes": 7679,
+    "sha256": "8341716f6377d6e1500408dd362550f710e7b4855051cb89cef82ac188f03f25"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/referencias_revision_20261011d.json",
+    "bytes": 73397,
+    "sha256": "186f7c1659bb3713151649e5c5c51a696dcb27fd2b3599e6aca8d1dc5396c287"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/verificacion_anomalias_entrega.json",
+    "bytes": 724,
+    "sha256": "d86144dc3bbd41ce517a3619a83c7269dc9dd126c48355ce272066c5a8a8c892"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/verificacion_entrega.json",
+    "bytes": 1547,
+    "sha256": "e6a7b554ec4a8c990b3bbfc4647cd53ea88eeac941fd6de3486455522eb5c98a"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/verificacion_modelos_entrega.json",
+    "bytes": 946,
+    "sha256": "fe3bf156167ea9dfa5b65415467c5beecd000f23074eb067cf9407fd32500ae9"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/verificacion_revision_20261011.json",
+    "bytes": 1246,
+    "sha256": "d8222a3a5bb043d93d45e29f9bc25b0287958feaf0a419a03573771c5189b1c9"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/verificacion_revision_20261011b.json",
+    "bytes": 2723,
+    "sha256": "eeb9f64eb90e2965ad1e3642a8eaf4ee597fe3251f2b657a034fa639a56e9b8e"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/verificacion_revision_20261011c.json",
+    "bytes": 11186,
+    "sha256": "8695ddca84e8a286dc4e3303b0a7cd6c8c76e6e46a023c31927202a1e447321f"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/verificacion_revision_20261011d.json",
+    "bytes": 1867,
+    "sha256": "5ff5ea25738d8c9aeb19fd44a0a282ae896a9e91ce14f34f811f004436839d45"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/verificacion_revision_20261011e.json",
+    "bytes": 1148,
+    "sha256": "c995866a9671770d23c6a1fc874300af902933dad8cedc235d8cfccb8233b82f"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/verificacion_revision_20261011f.json",
+    "bytes": 1638,
+    "sha256": "e493df4e7da69acea2e2f1dbc42e1208224a5808c1365e4dd553f66ea54f3903"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/fuentes/zunino_2025_crossref.json",
+    "bytes": 42065,
+    "sha256": "4f1b4f7b8019a8827bc8afe41f3dec1bdb4aa08102d2ff7256afd21a44e787e3"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/Manuscrito_tomografia_Vp_Colombia_UIS_revision_20261011h.docx",
+    "bytes": 1107435,
+    "sha256": "e023e3170c81c1942dfb65bb0cbae530fbd934cfb9d7c6fa49f057ca9c54f168"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/preparar_rama_publicacion_h.py",
+    "bytes": 2514,
+    "sha256": "4f36029e609e306328914bc11a022d90cf0393c2d5f68808271122b88cc780ad"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/README_reproduccion_h.md",
+    "bytes": 4478,
+    "sha256": "589d856861a7ec8a722f66b38e81cd9999c4d83ea5eb366faedc17bd4e9cb083"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/Anomalias_activas.png",
+    "bytes": 334027,
+    "sha256": "a406274617caaed999814e6207d8111e7430f09bdf7e1e60ef2cc27e67c76bec"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/clasificacion_kmeans_sgc.html",
+    "bytes": 6200749,
+    "sha256": "1cc91b0d06ef6d69a8c253c8d96747f1fc5c8602f6ed31d1a4647b9a5fad4680"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/clasificacion_kmeans_sismos.csv",
+    "bytes": 238388,
+    "sha256": "614513dfc46896acc424b1292af84ec223a7fe7b787f357f172ebde5e8cf8506"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/Damero_efectivo.png",
+    "bytes": 407304,
+    "sha256": "4b05df7563448037d4371866c8aa72f4cfdaf6e3ca02cbc2f71c631f39a7331b"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/Datos_estaciones_magnitudes_profundidades.png",
+    "bytes": 475403,
+    "sha256": "acdbed0e51a8f2db3dee8e5d180e7c20a49704195586736614ce02567c96d160"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/Estaticas_elevacion.png",
+    "bytes": 239841,
+    "sha256": "8f7ba7615ced5ac861e938afbe6883f77674617bae13e842466957bdf008551f"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/figura_1_fragmentos_sgc.html",
+    "bytes": 6066263,
+    "sha256": "4bf5d6ec523ed863c086611e368fddc3c6c878cee869c4b208134087c17a5a29"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/figura_2_nurbs_nazca_caribe_sgc.html",
+    "bytes": 7874601,
+    "sha256": "51ee5a8ecae69df8f693ea147cdcc1b17f81c7ece4c78845d64cda03cbb9ae57"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/metricas_kmeans.csv",
+    "bytes": 677,
+    "sha256": "6d1f29c0602fad562baeaed07c961f86c1f1defa3dcea7cd32cde356085e56eb"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/Modelos_inicial_final.png",
+    "bytes": 483848,
+    "sha256": "5d06cc101c98cdd1d5503c7174fed413e8e42369ab2a56c93a5faa86200dbf09"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/Perfiles_velocidad.png",
+    "bytes": 136995,
+    "sha256": "f832772aaee43c65b4b9e42fbc2188e15ab203870ff64b67fdaa0e8d94caf00e"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/pulido_revision_20261011c.md",
+    "bytes": 667,
+    "sha256": "86b7aaaaccd989d79de6ea7c45ee08c50a596692b295dbd85d28d6b9cf335a71"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/respuesta_revision.md",
+    "bytes": 994,
+    "sha256": "b9f5f9c807b927551c7e719d923d23e379b926de82cf857d8c89901f6db5bda1"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/respuesta_revision_20261011b.md",
+    "bytes": 2540,
+    "sha256": "8454470843cf28b5bedb462d3666f3d7b1b67053a71d4d0f6d7b3d76286859be"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/revision_diagnosticos.json",
+    "bytes": 7683,
+    "sha256": "8cabce4e5b4913275d890aa5a7492c85503d7847381d088d913781c087e38346"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/rms_por_ronda.csv",
+    "bytes": 6909,
+    "sha256": "749849f06308cc7a1e7508970ed13f948aafcfd3754ff3cac86eb8f3491d0b22"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/RMS_por_ronda.png",
+    "bytes": 177472,
+    "sha256": "741e0a5e6ae23b8451ec09b8090e24d5517847382c595ec82c52989a6b988910"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/rms_reserva_por_profundidad.csv",
+    "bytes": 281,
+    "sha256": "de975b4d47a30bc65e4dd9236e224fdcbee1768d8c259f372bfbb48028412ac3"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/saturacion_por_profundidad.csv",
+    "bytes": 229,
+    "sha256": "2216f8188b7608750e0a7b06f41e83fbaf5d7cc4836616072ff55c1359e812d0"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/verificacion_editorial_20261011b.json",
+    "bytes": 2070,
+    "sha256": "c698011c5b30376be16123b3e98fd5306da3da46c9c6db79da404056bc74634a"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos_revision_h.py",
+    "bytes": 4616,
+    "sha256": "d78ee3ee1cc09316267e4e97c4d7826d3f05564f07364afc9db5475a929d4554"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/verificar_manuscrito_h.py",
+    "bytes": 2391,
+    "sha256": "15554d6fc176b84807594342279d7f2f40aef38f98e29f1ed6ace37665cdbd0f"
+  },
+  {
+    "path": "campana_carma_caribe.py",
+    "bytes": 5799,
+    "sha256": "25e91b9ac0c5ad982a897aa016c2413b10a62d304fcd0f2788a7a2cfff2af067"
+  },
+  {
+    "path": "campana_choco_caribe.py",
+    "bytes": 6228,
+    "sha256": "b459167037339043db1aec9cb5501ba3c9cb9724e0b27f3f159b07fa87ccc6ab"
+  },
+  {
+    "path": "campana_choco_caribe_senales_fuertes.py",
+    "bytes": 6601,
+    "sha256": "c8b7b10091f9b06250f588425bbd1e4835feeb0052355ef2becb24830882df82"
+  },
+  {
+    "path": "campana_picks.py",
+    "bytes": 8052,
+    "sha256": "f69d3dac9e8540bd8c528b569a2461861c12b007a26ace22e43fce90da419aff"
+  },
+  {
+    "path": "campana_picks_v2.py",
+    "bytes": 8869,
+    "sha256": "4259bc215efc0be124c23409c826ed779df18d5aea2ec1d3e13da96dbc50fdcd"
+  },
+  {
+    "path": "codigos/ablacion_1d_relocalizada_20261011.py",
+    "bytes": 3840,
+    "sha256": "2e71d6079b6ad53bd706d71d7cd4d31ca49099685ce8c2a90850c337e7ab31ec"
+  },
+  {
+    "path": "codigos/ablacion_revision_20261011.py",
+    "bytes": 6410,
+    "sha256": "d0b823bc91f39d549d2753c83cd2a5d4a058c8ed033b1c69cccbeea7c57948b5"
+  },
+  {
+    "path": "codigos/agregar_mapa_superficie.py",
+    "bytes": 11849,
+    "sha256": "26d3646d447521be4109d64da4822221005999a91663e5f24cc64e98b5a6031a"
+  },
+  {
+    "path": "codigos/agregar_mapa_superficie_norte.py",
+    "bytes": 12742,
+    "sha256": "94082d8265c3200afbcfecfa09acc59a4da2634f87b4841e40ff81e4dfd83303"
+  },
+  {
+    "path": "codigos/ajustar_tipografia_adjunto_20261010.py",
+    "bytes": 1725,
+    "sha256": "19d2402436124b2d2802a5e7b403b6928d0e19318dad6ac2037adda47c56c221"
+  },
+  {
+    "path": "codigos/ampliacion_caribe_1d_datos.py",
+    "bytes": 4685,
+    "sha256": "2edde8efa365bb66a7b7923e018a3db8ca12ec038256ac9bc50dd2f3083ddd5a"
+  },
+  {
+    "path": "codigos/audita_datos.py",
+    "bytes": 4960,
+    "sha256": "6fcdb3522bac2f6c1469ca4d702fd2c0a5dc67ab008fc97cc2e5f0c7e7889ecd"
+  },
+  {
+    "path": "codigos/auditar_articulo_uis_20261010.py",
+    "bytes": 3258,
+    "sha256": "29e2852239db49e07b111a93ada85b72973d3822fceb0af4c5ab313cc568f83a"
+  },
+  {
+    "path": "codigos/auditar_datos_revision_h.py",
+    "bytes": 2500,
+    "sha256": "3bea8db065b72fe62a68f3c21f564901b3c0ed8c3fc8fd6a6b0ca99a107645d7"
+  },
+  {
+    "path": "codigos/auditar_modelo_adjunto_final_20261010.py",
+    "bytes": 502,
+    "sha256": "3cc326dd10510cc7be0fbe5c80e13e5981fe137b9c22acf27a2a461f76b94082"
+  },
+  {
+    "path": "codigos/auditar_poblacion_factorizada_g.py",
+    "bytes": 1749,
+    "sha256": "0fafa1250d30dc20bd8e653a54ba871fd542472de2f28e52d725bbd13b267fca"
+  },
+  {
+    "path": "codigos/auditar_revision_20261011f.py",
+    "bytes": 9429,
+    "sha256": "e74de9a81cb8361e09414cd7434093054d46db81814e59127b09e1652243a7a0"
+  },
+  {
+    "path": "codigos/auditar_sensibilidad_real_20261010.py",
+    "bytes": 2636,
+    "sha256": "5bc9ee83c8c29dd7ade01ee6fd59fe681822dff3b0af300405846dfb047a1c83"
+  },
+  {
+    "path": "codigos/baseline_hipocentros_factorizado_g.py",
+    "bytes": 1010,
+    "sha256": "07a68a87e3f6f65e961a9988c79a91ec691aebca7e79ceb9f67ac8f5c51a8ebb"
+  },
+  {
+    "path": "codigos/bench_rays.py",
+    "bytes": 1972,
+    "sha256": "c8697ec8c7a0ad05d934c274f494aed7806fd5cb107436015c48ec27255b0541"
+  },
+  {
+    "path": "codigos/bench_relocation.py",
+    "bytes": 3902,
+    "sha256": "3c9fb406f85b36bc5458c10c79e7b4260785f9c92833e09531f71febbc9cd24f"
+  },
+  {
+    "path": "codigos/cache_memoria_h.py",
+    "bytes": 2669,
+    "sha256": "290039a707f93dba1848f793c4df2acd14e4980184f9256f1220b7047de21d24"
+  },
+  {
+    "path": "codigos/campana_elevaciones_20261011.py",
+    "bytes": 6434,
+    "sha256": "ad4b3a497431c9305be1a5d1267a59380176d44e47153362cd9a7c474945758d"
+  },
+  {
+    "path": "codigos/campana_factorizada_cotas_20261011g.py",
+    "bytes": 11967,
+    "sha256": "4c147843eb8dc5778d8192a605f344ebfbf9808779e26884ec7c22322176c918"
+  },
+  {
+    "path": "codigos/campana_perfil_suavidad_20261011h.py",
+    "bytes": 16686,
+    "sha256": "1a835930158b24e240789a8037ee6a23928bd230752946f6098e3c8996c729dd"
+  },
+  {
+    "path": "codigos/cerrar_metricas_factorizadas_g.py",
+    "bytes": 1462,
+    "sha256": "207f78db9146b78d879a6d6fd892593253863947dd78cd991a007aff0be89ff8"
+  },
+  {
+    "path": "codigos/cierre_documental_factorizado_g.py",
+    "bytes": 6856,
+    "sha256": "19bffc615fd74c23e79b5e4a8d37c1a7b4264323cbcd3af3dce5d81ef54a6d6b"
+  },
+  {
+    "path": "codigos/comparar_elev_20261011.py",
+    "bytes": 10634,
+    "sha256": "9bf0159fc446cc372a2fa468f56bd7838aff11264addf86b8b04f5979e404939"
+  },
+  {
+    "path": "codigos/comparar_inicios_1d_3d.py",
+    "bytes": 9284,
+    "sha256": "337a27def97c1078d48c78c042684c207994b72b45217be39fb6d8981f9bbb07"
+  },
+  {
+    "path": "codigos/comparar_tomografia_diagonal_20261010.py",
+    "bytes": 13912,
+    "sha256": "129041c14b7daeecc5a5ccb3f03c527a03e2cb7e0b121e324f1a99954d4ea138"
+  },
+  {
+    "path": "codigos/compare_rounds.py",
+    "bytes": 2114,
+    "sha256": "46cf68dc86e2154b97f292819ffb718d5bc6383fed7a598f782f8f2ca4dce693"
+  },
+  {
+    "path": "codigos/contraste_cotas_20261011h.py",
+    "bytes": 3248,
+    "sha256": "ede4a40689acd3a26b0796abd905e92cc8c53baf1d494b17d6a1f30818052af1"
+  },
+  {
+    "path": "codigos/controles_factorizados_20261011g.py",
+    "bytes": 5968,
+    "sha256": "549b183ac93948c3748d64e431a2bfd58a955b2ce1be61a017dea8b5360f9b98"
+  },
+  {
+    "path": "codigos/convergencia_malla_20261011.py",
+    "bytes": 4118,
+    "sha256": "eeb3b66c046dcd871a702d36204b53475da725819430fcdbc153bdc99cff3bd6"
+  },
+  {
+    "path": "codigos/cortes_anomalias_articulo_20261010.py",
+    "bytes": 3599,
+    "sha256": "8d239b040b79511267b30a19ecd3e777e35c89b1257edfc3bc7d8f92ff39aa87"
+  },
+  {
+    "path": "codigos/cortes_articulo_uis_tipografia_20261010.py",
+    "bytes": 2279,
+    "sha256": "56666ac45974875662cc37f2292b9a5d0ad0005d5f51e59e7ac68c6ee60ba8ab"
+  },
+  {
+    "path": "codigos/datos_eje_caribe_1d_20261010.py",
+    "bytes": 5413,
+    "sha256": "a53c555786ed08aa8e6233b0df7741e2ecc33adde154cc8b6ec7c5facbe21d87"
+  },
+  {
+    "path": "codigos/datos_nazca_cauca_valle_eje_20261010.py",
+    "bytes": 7653,
+    "sha256": "0e63111a92fd66fd5d4f10db1d7f3e3bc3e13b11a4dfced154399181764dfaf3"
+  },
+  {
+    "path": "codigos/diagnostico_1900.py",
+    "bytes": 6070,
+    "sha256": "d3ecb4be66480685d9eb3a390181b5e2722e96716f2e4f5c6917462b8ef8f7f4"
+  },
+  {
+    "path": "codigos/diagnostico_caribe.py",
+    "bytes": 5452,
+    "sha256": "ae4d62b323bb58d2bc508d7f87fefefbe155046790aaa987432a7220b399b1b6"
+  },
+  {
+    "path": "codigos/diagnostico_caribe_1d_carma.py",
+    "bytes": 17131,
+    "sha256": "9cd60c6f8ba3a1027231b68660a65b9ba0dec30b8f0bbad2b8ef0287747a6c26"
+  },
+  {
+    "path": "codigos/diagnostico_caribe_1d_completo.py",
+    "bytes": 11835,
+    "sha256": "c87f46c6004d349966d850e40e3f75b9fcadafba6938604832d4dd7df1ed97a5"
+  },
+  {
+    "path": "codigos/diagnostico_cauca_valle.py",
+    "bytes": 6287,
+    "sha256": "9e5f72a4f032363ad59870a67d41cce2132adda63893fc3f9dddd5261b3ef5fa"
+  },
+  {
+    "path": "codigos/diagnostico_choco_caribe.py",
+    "bytes": 3831,
+    "sha256": "a6879721365d7b5a50e9f036e81b8a3d7fe4788495fffe1c63b213d7eece0810"
+  },
+  {
+    "path": "codigos/diagnostico_eje_caribe_1d_20261010.py",
+    "bytes": 8684,
+    "sha256": "365a796603ce4083f2305386f90199bc3a6ab8437159459a4b36d68955105eee"
+  },
+  {
+    "path": "codigos/diagnostico_nazca_sur_20261010.py",
+    "bytes": 7559,
+    "sha256": "3407d9bd835b805de4072d84f6191779427b8d1e215008e0725c56b48754e184"
+  },
+  {
+    "path": "codigos/diagnostico_nazca_sur_v2_20261010.py",
+    "bytes": 7550,
+    "sha256": "9df446ac48faf69d67a43ab6c369359325e2f59e9ee80b64ae31c16b175c4c72"
+  },
+  {
+    "path": "codigos/diagnostico_norte_1500.py",
+    "bytes": 5867,
+    "sha256": "4044680245c0000aa78dd20f58d9e4e3b913abdd4ec9c8851a36d299746966f8"
+  },
+  {
+    "path": "codigos/diagnostico_quibdo_2200.py",
+    "bytes": 6180,
+    "sha256": "39005bf4ed6ded8e70ff8d244cd3e9494ffd35361408b5b78aaecba71f2f4e01"
+  },
+  {
+    "path": "codigos/diagnosticos_figuras_revision_20261011.py",
+    "bytes": 4776,
+    "sha256": "8e1884ea712890675a81e94c7db9bc52184c76c08d8a8f6f632c435aa78dffba"
+  },
+  {
+    "path": "codigos/elevaciones_20261011.py",
+    "bytes": 902,
+    "sha256": "0b203897532c3bc65fc8659dbd7769a3d2d35cf26c95ca2abd85fc4365c08889"
+  },
+  {
+    "path": "codigos/estaticas_elevacion_factorizado_g.py",
+    "bytes": 2024,
+    "sha256": "69c8407269f49c064d5cdde083f1f2f400ba95c76a22dbf5d90f55d08e9ae2af"
+  },
+  {
+    "path": "codigos/evaluar_hueco_central.py",
+    "bytes": 3986,
+    "sha256": "09c9652b65edadb8b52880172501f98b18aa2648848abf82d00eeb989a17712e"
+  },
+  {
+    "path": "codigos/evaluar_hueco_quibdo.py",
+    "bytes": 4063,
+    "sha256": "959cad6386739da7c68cfcd5f2f11365d93e43e0614d9eff9d6d672ff56cde3e"
+  },
+  {
+    "path": "codigos/exportar_benioff_3d.py",
+    "bytes": 3099,
+    "sha256": "740590a0cb941091e7b7ac5ccc99053b3545823f69471ff81867ec9d343d9957"
+  },
+  {
+    "path": "codigos/exportar_solidos_nurbs.py",
+    "bytes": 4220,
+    "sha256": "03bbfcd6015f0d500ddb71f5c53b8bbfb711edc7c63f4c05946cc17a52115b34"
+  },
+  {
+    "path": "codigos/factorizado_paralelo_20261011g.py",
+    "bytes": 5145,
+    "sha256": "e48a326c387bca05e6c36c204389103d4ac5de93b8ac381e7ece66e1b879f513"
+  },
+  {
+    "path": "codigos/figuras_articulo_uis_20261010.py",
+    "bytes": 9565,
+    "sha256": "7a6b912f5e27cd78881035873878f5c047ec38336e536c5ff190dfefde7ae481"
+  },
+  {
+    "path": "codigos/fsm_equivalente_20261011.py",
+    "bytes": 3245,
+    "sha256": "f9bf2aa02ac19378ad3ce6ea96096b0967f2cba87c918368aaec05c1f835f963"
+  },
+  {
+    "path": "codigos/geometria_revision_20261011.py",
+    "bytes": 4896,
+    "sha256": "d9a5fd2bb9732483a93d98494da8d0eb2625c9332f4086ca8908cec58ccfc5a6"
+  },
+  {
+    "path": "codigos/informe_comparacion_inicios.py",
+    "bytes": 9316,
+    "sha256": "229f6ba93c54da431467deecae14b1decaabd32c872787a76f02369177b77ed2"
+  },
+  {
+    "path": "codigos/informe_correccion_adjunto_20261010.py",
+    "bytes": 6366,
+    "sha256": "93eff24ea5cc8d45db58eae2793d4ec795a3598a9ec430c71fd01250ad9f332f"
+  },
+  {
+    "path": "codigos/informe_eje_caribe_20261010.py",
+    "bytes": 8436,
+    "sha256": "d10d67275887a7983eefe6ee94ee69dbc512ad07c682b57606e8c480b762fcf0"
+  },
+  {
+    "path": "codigos/informe_nazca_sur_20261010.py",
+    "bytes": 10085,
+    "sha256": "f3f164fa798da2fcf221f01fa500017522d38e4b2e66804af8ccc28082d88e51"
+  },
+  {
+    "path": "codigos/inspeccionar_caribe_nurbs_20261010.py",
+    "bytes": 526,
+    "sha256": "797d921152b5fa1613b2d71a649fde9451675b39cce5f0e4dc855fcd31130660"
+  },
+  {
+    "path": "codigos/inspeccionar_nazca_nurbs_20261010.py",
+    "bytes": 1001,
+    "sha256": "68330eb7259e413d40bec042482a8d6fbbc145f1c0b052b00e49117240f3ba6c"
+  },
+  {
+    "path": "codigos/malla_factorizada_memoria_20261011g.py",
+    "bytes": 3977,
+    "sha256": "3f9e928dc2730557e37442d796cd69e7b1a7d2505adde95f6e3b7335802902bc"
+  },
+  {
+    "path": "codigos/malla_modelo_final_factorizado_20261011g.py",
+    "bytes": 4085,
+    "sha256": "5b63e6d3463949d872271a997236b35b4fd6ec399e771bf64298f7d4ed90314e"
+  },
+  {
+    "path": "codigos/mapa_kmeans_revision_20261011.py",
+    "bytes": 1740,
+    "sha256": "05f377ec5d700bf0c67762de6cf5ffc455d61d7bfabbd832458370ebfafc9d83"
+  },
+  {
+    "path": "codigos/mapa_kmeans_revision_20261011b.py",
+    "bytes": 1884,
+    "sha256": "6038c48700c6b778e01207e0f52509c71edcf54d411ec77f124b0138ac596224"
+  },
+  {
+    "path": "codigos/modelo_3d_continuo.py",
+    "bytes": 12743,
+    "sha256": "5b43e7cf038296c281ddef00d38634d3da4196cd6325c6887e3f37d63d85b93e"
+  },
+  {
+    "path": "codigos/modelos_velocidad_articulo_20261010.py",
+    "bytes": 3879,
+    "sha256": "f3fc6b77c0cf8893635830d6ec3efb5fceca037ab22e50c7fc04e5862cb9f54b"
+  },
+  {
+    "path": "codigos/native/build.py",
+    "bytes": 1736,
+    "sha256": "68aed5172dda344263d3f01984871a88aeda7f73e5c190cc01052eabfc187d7d"
+  },
+  {
+    "path": "codigos/native/build_adjoint.py",
+    "bytes": 817,
+    "sha256": "da0da5e28cd50a98ae5c65ab51e42e06e246f748ac2df5a2ff001a5cb6e3bf13"
+  },
+  {
+    "path": "codigos/native/build_adjoint_info.json",
+    "bytes": 634,
+    "sha256": "d031571acf5448b3bd627f95643e3c3af58d333ccbd68c3fbdcb35f231c94d91"
+  },
+  {
+    "path": "codigos/native/build_factored.py",
+    "bytes": 789,
+    "sha256": "38ecf68b1e9af5cdc6ca1d6252cc02fa006616287e71d0b8638d1973130851e7"
+  },
+  {
+    "path": "codigos/native/build_factored_info.json",
+    "bytes": 636,
+    "sha256": "b10d75604811f7bb45f464300a4f12979d2f1f8b668c7f4c8f28cb5b0b3ec57b"
+  },
+  {
+    "path": "codigos/native/build_factored_parallel_info.json",
+    "bytes": 796,
+    "sha256": "fb456e4fa2811d02887829fac60349342d7dbadcddaa1249641faceeec6145ea"
+  },
+  {
+    "path": "codigos/native/build_info.json",
+    "bytes": 745,
+    "sha256": "427139f73434ce03149efc99bb0f295029a1c1eb91d2148f25d917e2a961f25c"
+  },
+  {
+    "path": "codigos/native/eikonal_adjoint.cpp",
+    "bytes": 3597,
+    "sha256": "42c6ce6e7fe3f5ec12375fc01ec060e359d6bca968c938a4960adfdcd922b556"
+  },
+  {
+    "path": "codigos/native/eikonal_adjoint.dll",
+    "bytes": 650975,
+    "sha256": "88018e5d1db76918d026cd73c7f69f955dd78ca25ec1af719766b1832fb8cdf9"
+  },
+  {
+    "path": "codigos/native/factored_eikonal.cpp",
+    "bytes": 6372,
+    "sha256": "b7b046e90670705a76fca08ec2e34e8ac8a667b1ae050ae00771b9d994f37418"
+  },
+  {
+    "path": "codigos/native/factored_eikonal.dll",
+    "bytes": 663341,
+    "sha256": "1e4b72e13f52e0e65c797d494f7b34aebb8c4ec524fbcd89ac4689d10d05bd50"
+  },
+  {
+    "path": "codigos/native/factored_eikonal_parallel.cpp",
+    "bytes": 6589,
+    "sha256": "784380a58699d7157a9a93046a9c3f2787be9e47f3eb08c4169f9b95511c1692"
+  },
+  {
+    "path": "codigos/native/factored_eikonal_parallel.dll",
+    "bytes": 968295,
+    "sha256": "59e5a6945957c93f52a5a641a1b5a46b0d3b2d9a686b8a99d606a730419bdbe5"
+  },
+  {
+    "path": "codigos/native/relocation.cpp",
+    "bytes": 4197,
+    "sha256": "06c15ec711e31ea8cb7d6c3725d6f6f4448734a56d9142bcc8e7233597431982"
+  },
+  {
+    "path": "codigos/native/relocation.dll",
+    "bytes": 648955,
+    "sha256": "48865b364289c7f14cb6347054ada8435eff29f028f6b5ad241f41d0c8183498"
+  },
+  {
+    "path": "codigos/nazca_campana_20261010.py",
+    "bytes": 1055,
+    "sha256": "da3882371c0d0caa785d7e6d39d06df85dcfc1bc76ed2f791b4e0a4d6acecda2"
+  },
+  {
+    "path": "codigos/nazca_nurbs_morada_20261010.py",
+    "bytes": 16051,
+    "sha256": "88aa3838281c2b5707e2ac95e96ee96b403da69f88d0b4e21934962c39989e39"
+  },
+  {
+    "path": "codigos/nurbs_placas.py",
+    "bytes": 12728,
+    "sha256": "e86c18e4cce0459e9ba2d66db28593264b2be6b329b31344ab0b2a5a4c9c2ae3"
+  },
+  {
+    "path": "codigos/paralelizar_jacobiano_h.py",
+    "bytes": 3896,
+    "sha256": "ef078127318956b4116f8d68629952723c82422511f8f3fa7c970c27060ef437"
+  },
+  {
+    "path": "codigos/perfiles_nazca_sur_20261010.py",
+    "bytes": 2400,
+    "sha256": "bcdd442a27c6c81278ce80fce368fef3831c1ae686035ed1701026be5d27de89"
+  },
+  {
+    "path": "codigos/perfiles_transicion_eje_caribe_20261010.py",
+    "bytes": 2305,
+    "sha256": "26aaf9771db02de69dfb0ce34beb9f1501d91ea4e10cb51f83a278fbe1b6a494"
+  },
+  {
+    "path": "codigos/placas_nazca_caribe_diagonal_20261010.py",
+    "bytes": 15141,
+    "sha256": "a1fc0da6dd02a5e074819f45c9032ba90640b9796bc12e456ae9dbe132f76ace"
+  },
+  {
+    "path": "codigos/plan_cache_intermedio_h.py",
+    "bytes": 2237,
+    "sha256": "5c5ff06dafc4013d537cbb2d1b94d40e5d151d91249cf513296d653fe5275b9b"
+  },
+  {
+    "path": "codigos/plot_migration.py",
+    "bytes": 2364,
+    "sha256": "0677e071fd9a076d2fd76cb8d9401e47910e113da17cec0ecd84de27ffcba126"
+  },
+  {
+    "path": "codigos/postprocesar_adjunto_uis_20261010.py",
+    "bytes": 2936,
+    "sha256": "d6fcd75c676cd5b69f886c1c6861764a58abe3508434f6ca3ef3de74c541a7af"
+  },
+  {
+    "path": "codigos/precalcular_campos_factorizados_20261011g.py",
+    "bytes": 1076,
+    "sha256": "50baa4aba5c9a32ed1088b84b630a2119d7a4a8496486a13095e22662127bac1"
+  },
+  {
+    "path": "codigos/precalcular_sintetico_08_20261011.py",
+    "bytes": 1468,
+    "sha256": "664262a850d1ad144ed04aa8db3dc923258f41b54aa3107aae0890d6dd4b3971"
+  },
+  {
+    "path": "codigos/prediccion_reservada_refinamiento_g.py",
+    "bytes": 1620,
+    "sha256": "8359885f91a180b56f73f2995f2b309f5ecae7c074f0b3fb920e79ca1ef0fb3f"
+  },
+  {
+    "path": "codigos/preparar_articulo_anomalias_20261010.py",
+    "bytes": 3695,
+    "sha256": "911a8e96c02cde15e2847b8dbe657afdb4572ba1dde0ec973c7eef9dc7be37e6"
+  },
+  {
+    "path": "codigos/preparar_articulo_modelos_vp_20261010.py",
+    "bytes": 4625,
+    "sha256": "b11a3bcb86768015e886d0d4026ee13bc2e39223f232f556b1fa4e1d79600fe9"
+  },
+  {
+    "path": "codigos/preparar_fuentes_articulo_uis_20261010.py",
+    "bytes": 1543,
+    "sha256": "2d38d9ee4cdcc8dbec005c9a6a0d18d00ee08afd6bef085a344ac88e5f5e1590"
+  },
+  {
+    "path": "codigos/preparar_manuscrito_adjunto_20261010.py",
+    "bytes": 14376,
+    "sha256": "44064508aba729760f35df7b6470c1e18aaae639130879f5f82b37b4263686c1"
+  },
+  {
+    "path": "codigos/preparar_manuscrito_robustez_20261011e.py",
+    "bytes": 14758,
+    "sha256": "aa7457f5af55bfcb30c2de91a8ae89161097c176f6b699dd5505aae2bef7454e"
+  },
+  {
+    "path": "codigos/preparar_paper_revision_20261011.py",
+    "bytes": 15830,
+    "sha256": "155533a38d5fd8bd5808f6900751b0d3938cef7682290e853154b37bb6218465"
+  },
+  {
+    "path": "codigos/preparar_pipeline_consistente.py",
+    "bytes": 1180,
+    "sha256": "06f16d4795e3aad85696748bb16d19d598a1ed53529febf1cb4450c0d594c2ee"
+  },
+  {
+    "path": "codigos/preparar_revision_20261011b.py",
+    "bytes": 5449,
+    "sha256": "1074f10ff1205f6bc1c3bd6ca8a9dc8e2e98964a3595c8b6960aed3e39aaed8c"
+  },
+  {
+    "path": "codigos/preparar_revision_20261011c.py",
+    "bytes": 1354,
+    "sha256": "88745a820e01391b5f3fa8d9e2c8b79e7b9499ece4af436046e69431327de223"
+  },
+  {
+    "path": "codigos/preparar_revision_20261011d.py",
+    "bytes": 26113,
+    "sha256": "709b2f9767ea39068d1eb7dbe8a36cf41d982258efc4c598fd38bd22e7a5a41d"
+  },
+  {
+    "path": "codigos/preparar_revision_independiente_20261011f.py",
+    "bytes": 21703,
+    "sha256": "45663abc31e69d0cf45fc3c75ec834033638f1430753219a6b6ac053392e8e8b"
+  },
+  {
+    "path": "codigos/preparar_vistas_nazca_20261010.py",
+    "bytes": 1804,
+    "sha256": "87e03b3b547110b0be857d72e25f408205277c0e9533122c004d8deda8fc4f31"
+  },
+  {
+    "path": "codigos/regional/__init__.py",
+    "bytes": 76,
+    "sha256": "d18a5d03c4082a785417c949ff5f9aa5334ba35dd3ba959c24f7b801da95355e"
+  },
+  {
+    "path": "codigos/regional/downloads.py",
+    "bytes": 2698,
+    "sha256": "4e0f24d33823035763c2634533808e60c715e24ba76bfc073c458db84c491b92"
+  },
+  {
+    "path": "codigos/regional/factored.py",
+    "bytes": 11123,
+    "sha256": "7619893c4c0089d499b216ab28a663f8a54630682111e5203f2f5d73d1ffd9e2"
+  },
+  {
+    "path": "codigos/regional/forward.py",
+    "bytes": 7127,
+    "sha256": "51242cb7238af9e04bd047d3a37ee4cc58d813b9bc41baf6c89d9fe1405d2785"
+  },
+  {
+    "path": "codigos/regional/fsm_reference.py",
+    "bytes": 4103,
+    "sha256": "75a4395ac2167a03779d341376b682848f1095e236ab7f1dbb0f362305ef48e0"
+  },
+  {
+    "path": "codigos/regional/geometry.py",
+    "bytes": 5257,
+    "sha256": "0b7ec25cc1ed499ca4cd809d63973757ad0d0feabe1323234cf1f6275a43ad27"
+  },
+  {
+    "path": "codigos/regional/initial_model.py",
+    "bytes": 667,
+    "sha256": "cb172b0682e769db6c3d9d4c1c3fb109f0b67fd9040631f28287482dbaabd4f8"
+  },
+  {
+    "path": "codigos/regional/inputs.py",
+    "bytes": 11878,
+    "sha256": "a3c57052f64ac6807cc51aa990924eaffd678fbc1edcbcfa42d3a131905d9710"
+  },
+  {
+    "path": "codigos/regional/inversion.py",
+    "bytes": 7306,
+    "sha256": "795d7a92d03a3537f2677fa2a246879e292c6e52fdfd5b1f998c4624165791ec"
+  },
+  {
+    "path": "codigos/regional/pipeline.py",
+    "bytes": 12857,
+    "sha256": "af407bf04ddf65837185740bfcd6cefaf5d31af7d0a15e11bb1e4814dd1411f8"
+  },
+  {
+    "path": "codigos/regional/pipeline_consistent.py",
+    "bytes": 14517,
+    "sha256": "a6d0b188d9de39bcb8706b420c18a0f2f3c468b7582ec9b08288f3f0664dc46f"
+  },
+  {
+    "path": "codigos/regional/pipeline_nurbs.py",
+    "bytes": 14368,
+    "sha256": "44070dda742e6c4ead4ecef498e9d9ef0a04bd9173cf9f18f78d43234e90e16b"
+  },
+  {
+    "path": "codigos/regional/q_inversion.py",
+    "bytes": 8581,
+    "sha256": "33702cfe7e5da57255052fcc7f7bb9064d12243b7a7995b34db16f1ebd9a59aa"
+  },
+  {
+    "path": "codigos/regional/rays.py",
+    "bytes": 4140,
+    "sha256": "873974aca6b4f514f657a7daaa18398393f1a2b18dd0dd8ec609f0716654d653"
+  },
+  {
+    "path": "codigos/regional/rays_consistent.py",
+    "bytes": 4303,
+    "sha256": "6c4001d57f0dafa7c19d752c2aa84bf6bb20765923fa214e06e254f0331e516a"
+  },
+  {
+    "path": "codigos/reinvertir_1d_adjunto_20261010.py",
+    "bytes": 3370,
+    "sha256": "3163d8c6baf5144b61eab85f56ce4ee13bf4c00e580d5ec529272c9e84a77e13"
+  },
+  {
+    "path": "codigos/relocation.py",
+    "bytes": 3283,
+    "sha256": "7a24d957ac91ea5d3bfba1c1fc57cb22814ebde827ba0497650db53f5f95da3a"
+  },
+  {
+    "path": "codigos/reproducir_campana_h.py",
+    "bytes": 738,
+    "sha256": "8dcc3593e0c9a512ba74b156a4a8b19638062961c2b780789fc920017d2c7467"
+  },
+  {
+    "path": "codigos/reproducir_controles_20261011.py",
+    "bytes": 599,
+    "sha256": "c9a55592af8d06d5d1c684097d029262aadfe4bce94a2eda5b8bd60b07fc1aee"
+  },
+  {
+    "path": "codigos/reserva_factorizada_individual_g.py",
+    "bytes": 583,
+    "sha256": "946ccb7e11b6e0b46ee7edb9fcb05e3635e63e1adc7b10b1e03f59c2daf10387"
+  },
+  {
+    "path": "codigos/resumir_experimentos_revision_h.py",
+    "bytes": 5673,
+    "sha256": "21632541ee3f9050c36c5932182631df76fd9ac71f17f958026544e5a1f2c6a4"
+  },
+  {
+    "path": "codigos/resumir_robustez_20261011.py",
+    "bytes": 15025,
+    "sha256": "886d5c1c55f4582d3a21170091f537b8bf026364652d723339937f4b76ec2294"
+  },
+  {
+    "path": "codigos/retomar_lsmr_h.py",
+    "bytes": 2217,
+    "sha256": "9db9397ac1cdc50f81077a3e10961d2c237614afd45c646b09a14b6fb81af546"
+  },
+  {
+    "path": "codigos/retomar_lsmr_memoria_h.py",
+    "bytes": 615,
+    "sha256": "3e23865db2eb9c9b508f1527aa99de1a5571804ca30e657d066926a32eca3eb2"
+  },
+  {
+    "path": "codigos/reutilizar_cache_identica_20261011.py",
+    "bytes": 1292,
+    "sha256": "9d7dfc7e10de1b2bc453f7ebd130727274a418db6a0722567a628bfa82374c94"
+  },
+  {
+    "path": "codigos/robustez_20261011.py",
+    "bytes": 9384,
+    "sha256": "2c3713e1b564df07477154d39f9d9b80815f1a67aa5d47934a89f15b7d352c12"
+  },
+  {
+    "path": "codigos/saturacion_modelo_factorizado_g.py",
+    "bytes": 1237,
+    "sha256": "469012d0db6b93fa3aa67975c4acaf65cf47e0f3df8ef5b2e049371f0fac90d9"
+  },
+  {
+    "path": "codigos/seleccion_caribe.py",
+    "bytes": 1927,
+    "sha256": "181265d8e50bc7561d9344fbed5d9c3f060bb7f2d779fb2bac4e05666ec5a584"
+  },
+  {
+    "path": "codigos/seleccion_centro_norte.py",
+    "bytes": 2867,
+    "sha256": "1447910c294bd4e65178875a353a3ffb65ee783864fc58f866ebbd20179b1a36"
+  },
+  {
+    "path": "codigos/seleccion_quibdo_antioquia.py",
+    "bytes": 2513,
+    "sha256": "0a71f8de41c3e47e276153b04a6291b0979556da51e0ce23983bcda3195bae89"
+  },
+  {
+    "path": "codigos/seleccion_zona.py",
+    "bytes": 2687,
+    "sha256": "f6b24f657693330ded30e665098185310bc1dd59240394677cf912ba6dbf18d4"
+  },
+  {
+    "path": "codigos/sintetico_por_escenario_20261011.py",
+    "bytes": 1183,
+    "sha256": "affaeecb1717eab7df78adaa50121795f4fec9aca6a80c9a901145cf3e87e6dd"
+  },
+  {
+    "path": "codigos/sinteticos_elev_20261011.py",
+    "bytes": 14848,
+    "sha256": "fae81397b59ae1db43c348371fcee7d7c69f15c573d8d77bb862a15a531c528a"
+  },
+  {
+    "path": "codigos/sinteticos_no_lineales_20261011.py",
+    "bytes": 5836,
+    "sha256": "8f90c341ef840e819c0858d44e2ade18fcc2e25cd5807144f46e9020b717b0f5"
+  },
+  {
+    "path": "codigos/suplementos_revision_20261011.py",
+    "bytes": 12519,
+    "sha256": "f8ce0aca457d2bd2669a37f2c660ddc571184346d87cc6a918f7866c14dfaee6"
+  },
+  {
+    "path": "codigos/test_adjoint_consistent.py",
+    "bytes": 2433,
+    "sha256": "4989719dcfcbcea3ac6d1be7dd9d9696173ae4d28f97011414251f74121293ac"
+  },
+  {
+    "path": "codigos/test_benioff_3d.py",
+    "bytes": 1650,
+    "sha256": "65723d2923dd932386e929d2ab1d428cc3eef910afaafaf441a881ee96a53e31"
+  },
+  {
+    "path": "codigos/test_elevacion_20261011.py",
+    "bytes": 3562,
+    "sha256": "3490a678fab96619151145a7f5614675b5b9f1e5f62f33c5a4a55a14bd29ef5e"
+  },
+  {
+    "path": "codigos/test_modelo_continuo.py",
+    "bytes": 1854,
+    "sha256": "06775ff1dc3e0db1a4a8af831da72ead7b16f8c043abf01f5a65f541046ef7be"
+  },
+  {
+    "path": "codigos/test_nurbs_placas.py",
+    "bytes": 1481,
+    "sha256": "cd075e7d26bc4573b639db3cf7bedc357f24866caa686b98ec5d762ed0a74650"
+  },
+  {
+    "path": "codigos/test_regional.py",
+    "bytes": 11493,
+    "sha256": "6a472de9c6df570b438ef53dc365bdc6e324f3908adf552e6ad4ffb5d5b933c0"
+  },
+  {
+    "path": "codigos/test_relocation.py",
+    "bytes": 2406,
+    "sha256": "0dbdef822855dee80616dd1f039b182577af6e2ccc33a3c428f0a4e59c8fd75c"
+  },
+  {
+    "path": "codigos/test_seleccion_zona.py",
+    "bytes": 1527,
+    "sha256": "be33fc7e70f8f9f2481ed7b61956cbd3f5899e735a44bd601249b21ccd21f29e"
+  },
+  {
+    "path": "codigos/trazar_pickers_revision_h.py",
+    "bytes": 2313,
+    "sha256": "bf5344d6262902db811943b0a048c192638eaf5e6e2f43771bd2a72c6e4cc3ba"
+  },
+  {
+    "path": "codigos/validar_conexion_geometrica.py",
+    "bytes": 3776,
+    "sha256": "54fc284216a4ccb0448f7eb4da1fe917a654543b5baa898f97e20009d8d339d0"
+  },
+  {
+    "path": "codigos/validar_conexion_geometrica_ampliada.py",
+    "bytes": 3826,
+    "sha256": "4c9322bde4a31c0947ce7f485dcfd223be8673959abe97b54bc5cccc09604ba2"
+  },
+  {
+    "path": "codigos/verificar_anomalias_articulo_20261010.py",
+    "bytes": 2697,
+    "sha256": "0c49e3a6f9e9e666942bf52b47179ec1d6cb6b808f63aa66097c83acb722eb59"
+  },
+  {
+    "path": "codigos/verificar_empaquetar_revision_d.py",
+    "bytes": 6235,
+    "sha256": "5a54ee2700ecda7662208632b6d4d631dda902ac6928b72833a0d56921a2acae"
+  },
+  {
+    "path": "codigos/verificar_empaquetar_robustez_20261011e.py",
+    "bytes": 7609,
+    "sha256": "6b983cbd00b0fea5fca9719d31af4f17c9d0b59df814c9c6c35bb8fc842e2ed8"
+  },
+  {
+    "path": "codigos/verificar_entrega_adjunto_20261010.py",
+    "bytes": 3357,
+    "sha256": "9b4c3d321c23d8e847391cc36e77950c29091aad36c9e849df34ff89bb033bf0"
+  },
+  {
+    "path": "codigos/verificar_factorizado_20261011.py",
+    "bytes": 4902,
+    "sha256": "2a668c2df4437d39efa027fbf88e2c80fc7f0cbeda5ce6f140013650e28e3e85"
+  },
+  {
+    "path": "codigos/verificar_modelos_articulo_20261010.py",
+    "bytes": 2624,
+    "sha256": "e849bcc2aae70b6565d1bb076230341cd1d3d17d8dd2c0a1776457193fcc132c"
+  },
+  {
+    "path": "codigos/verificar_paquete_revision_20261011.py",
+    "bytes": 4635,
+    "sha256": "b0429b1cdcfc7c5d3f731e99415eb749f2d5bc57a963275ee9e85ffb5c7dc3d4"
+  },
+  {
+    "path": "codigos/verificar_revision_20261011b.py",
+    "bytes": 5925,
+    "sha256": "89a1f8673fa5c9722b6766a1a6b7520385c789b54d192aeeba070c524704b2e9"
+  },
+  {
+    "path": "codigos/verificar_revision_20261011c.py",
+    "bytes": 3609,
+    "sha256": "bd80e3f4271d1f16ec9db83ff9806f00b4e4862afff073cc34bd3e7e1c8475d7"
+  },
+  {
+    "path": "codigos/verificar_revision_independiente_20261011f.py",
+    "bytes": 9722,
+    "sha256": "9d93ce32af43ae5a1d3fb37c720767bab28ae24c6486edc3eaf08102072d4549"
+  },
+  {
+    "path": "codigos/verify_run.py",
+    "bytes": 3270,
+    "sha256": "e96292cb09a347d84da8d15ea5c4afc42bb7e52690482cc7f7df35e8b667f5ae"
+  },
+  {
+    "path": "codigos/vista_caribe_1d_carma_final.py",
+    "bytes": 6992,
+    "sha256": "f2346a96209de9a09becbbdc38dee5ab6bce61611eacb28b19f6dd7adf1c4bb3"
+  },
+  {
+    "path": "codigos/vista_caribe_1d_final.py",
+    "bytes": 6905,
+    "sha256": "29443d8f9d6e392b7d8ecfa5e0676d5de573db10f9aa2fc1659d8d6bb1bdebb9"
+  },
+  {
+    "path": "codigos/vista_eje_caribe_1d_20261010.py",
+    "bytes": 7028,
+    "sha256": "7d563d21ad0a73526daf859362171beb1764a1b61cf8ae96243b8b4245b978b2"
+  },
+  {
+    "path": "codigos/vista_geografica_3d.py",
+    "bytes": 8986,
+    "sha256": "44803693b96008b9b15fd8b78066944b98256181a87a62ccdec9e645371c4e03"
+  },
+  {
+    "path": "codigos/vista_geografica_choco_caribe.py",
+    "bytes": 8870,
+    "sha256": "c89bc4929d7f7ac8ca0e8444036ea7021d301cf49d064a87528d97139313660e"
+  },
+  {
+    "path": "codigos/vista_geografica_dos_fronteras.py",
+    "bytes": 8422,
+    "sha256": "05627acb7c9f428be75811fe214a5c35ff73b82f0ef314a7e0bcbe41777af092"
+  },
+  {
+    "path": "codigos/vista_geografica_sgc.py",
+    "bytes": 8371,
+    "sha256": "fe4c198ad8c41184038e94c5d3ec5f9509baa40a4f82ac5618bf239f727c6a54"
+  },
+  {
+    "path": "codigos/vista_inicio_continuo.py",
+    "bytes": 5248,
+    "sha256": "7d80200030b8e91a17515a36bcc88f4b7c3e5cec0de7edc571195be33a5bddd3"
+  },
+  {
+    "path": "codigos/vista_modelo_diagonal_20261010.py",
+    "bytes": 2483,
+    "sha256": "0a318395d0f913892554583c1ae802bc2c919c45d2efd5da0ecc6bbfdb8203d1"
+  },
+  {
+    "path": "codigos/vista_nazca_sur_20261010.py",
+    "bytes": 7121,
+    "sha256": "bc4e2224afdc0c88938de6823e52c410b224719f6b519cdcfefc91f02f6604f0"
+  },
+  {
+    "path": "codigos/vista_placas_vp_final.py",
+    "bytes": 7970,
+    "sha256": "fd57483db7b8b61e9b832d15ad762e1ec95296d85084f5e5cb0a1e5ab837879b"
+  },
+  {
+    "path": "datos/ampliacion_choco_caribe_2026-10-10/campana_manifest.json",
+    "bytes": 1072,
+    "sha256": "424574be7ec79c0e892f86402b50f33b126b07ba06be846b0d5cf2497fbe8f0e"
+  },
+  {
+    "path": "datos/ampliacion_choco_caribe_2026-10-10/picks_nuevos.csv",
+    "bytes": 40600,
+    "sha256": "a535480a601d66ef1a50a21d73a847242730aecb5866599e043cb447604991dc"
+  },
+  {
+    "path": "datos/ampliacion_choco_caribe_senales_fuertes_2026-10-10/campana_manifest.json",
+    "bytes": 1120,
+    "sha256": "deef2a6c52244a72be0fc4537be98b5d3acb653011312b0c9bc7787e104c5c87"
+  },
+  {
+    "path": "datos/ampliacion_choco_caribe_senales_fuertes_2026-10-10/picks_nuevos.csv",
+    "bytes": 110124,
+    "sha256": "5066ca6c350f11a81baf4e7e4c35329e80f607dd70b926108bc48577b754d2bb"
+  },
+  {
+    "path": "datos/caribe_1d_estaciones_completas_2026-10-10/picks_publicados.csv",
+    "bytes": 3886184,
+    "sha256": "ab67b7dd1737c1196f87da398f061a7c4795b7500d5c213f7eb843e1ac77f108"
+  },
+  {
+    "path": "datos/caribe_1d_estaciones_completas_2026-10-10/picks_regionales.csv",
+    "bytes": 3620238,
+    "sha256": "d3181fe28b933a93d1b666073ae6b086c2dad00be485525070cd12bba95fcd28"
+  },
+  {
+    "path": "datos/carma_caribe_2026-10-10/campana_manifest.json",
+    "bytes": 1615,
+    "sha256": "6fe76568fef6708f8361b527fc364edbeb847cc69a0efb6121cfa59b16636ae6"
+  },
+  {
+    "path": "datos/carma_caribe_2026-10-10/picks_nuevos.csv",
+    "bytes": 122415,
+    "sha256": "facd7784b10a2922dd8d0257cecc6c0af86feafec19d9509612b708cefbed398"
+  },
+  {
+    "path": "datos/cartografia/departamentos_dane_2025.geojson",
+    "bytes": 695506,
+    "sha256": "02dbaabbae1d55d9f6d90c624531da56a7591266cffe7fede8ab6c1a4b1eecaa"
+  },
+  {
+    "path": "datos/eje_caribe_1d_2026-10-10/catalogo_sgc.csv",
+    "bytes": 87081251,
+    "sha256": "515edfbfe6a59527902c5463b4ed32c8433d5756a531afc60355edc028848321"
+  },
+  {
+    "path": "datos/eje_caribe_1d_2026-10-10/picks_publicados.csv",
+    "bytes": 21665412,
+    "sha256": "01f52eeacfcd020417649791d0d3afe276efd7b1834cce8c2eac74d6710e1f4b"
+  },
+  {
+    "path": "datos/internacional_choco_2026-10-10/picks_isc_regionales_sgc.csv",
+    "bytes": 292365,
+    "sha256": "41482e6472f3ad0d258f8839d89aab4c735c502e3bf0806885e9ba12cc7e4189"
+  },
+  {
+    "path": "datos/nazca_cauca_valle_eje_2026-10-10/catalogo_sgc.csv",
+    "bytes": 87337346,
+    "sha256": "3bda9316c24056ab645d3743338cba27da6a57e987d213d5a12fb87f07404f57"
+  },
+  {
+    "path": "datos/nazca_cauca_valle_eje_2026-10-10/picks_publicados.csv",
+    "bytes": 13508335,
+    "sha256": "5dd7bc1ec7ac4057dee700facd8be9b03299d7201f2e54c81952f72855d8bf52"
+  },
+  {
+    "path": "datos/picks_phasenet.csv",
+    "bytes": 8183697,
+    "sha256": "9485062d63ca849cb202d001ed80ca4532d231ac6079faf6171c3d866c761f4f"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/codigo_congelado/campana_factorizada_cotas_20261011g.py",
+    "bytes": 11967,
+    "sha256": "4c147843eb8dc5778d8192a605f344ebfbf9808779e26884ec7c22322176c918"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/codigo_congelado/factored.py",
+    "bytes": 11123,
+    "sha256": "7619893c4c0089d499b216ab28a663f8a54630682111e5203f2f5d73d1ffd9e2"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/codigo_congelado/factored_eikonal.cpp",
+    "bytes": 6372,
+    "sha256": "b7b046e90670705a76fca08ec2e34e8ac8a667b1ae050ae00771b9d994f37418"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/codigo_congelado/factored_eikonal.dll",
+    "bytes": 663341,
+    "sha256": "1e4b72e13f52e0e65c797d494f7b34aebb8c4ec524fbcd89ac4689d10d05bd50"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/codigo_congelado/factorizado_paralelo_before_exact_interpolation_optimization.py",
+    "bytes": 2779,
+    "sha256": "9a50f99483c82af99fa7eb7b79fd3dddf25725caf26d8d0283f9e0281512b986"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/codigo_congelado/factorizado_paralelo_before_kernel_deduplication.py",
+    "bytes": 3514,
+    "sha256": "2d3a115194d00e4eda0b9f184c85daba9a194b0b89c1bb1a9bed49a87927e439"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/codigo_congelado/pipeline_consistent.py",
+    "bytes": 14517,
+    "sha256": "a6d0b188d9de39bcb8706b420c18a0f2f3c468b7582ec9b08288f3f0664dc46f"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/dataset_scope_audit.json",
+    "bytes": 1019,
+    "sha256": "dd859e52eda5ce3950b21ba3da7f904635bb5d246ee7ee000d21ec56c1174689"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/document_delivery_qa.json",
+    "bytes": 3778,
+    "sha256": "172affd086599ade85a0b34ffbfc7a8492604d56df684e4a3490c59214de2bd0"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/elevation_approximation_counterexample.json",
+    "bytes": 393,
+    "sha256": "bac8709a37a600eb073e87b948e9712b6589e59d32dbab84c2ac0f987b26ed01"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/execution_final_manifest.json",
+    "bytes": 2528,
+    "sha256": "74b741b1fd8b638c43ebe89bab571045d5bdbd9fe75cec9b28a526856578a972"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/historical_common_reserve.csv",
+    "bytes": 1772054,
+    "sha256": "3601a24ca85dba2c7af72fbad0b139d6bc350c1026e994c7b8fc7f60bc1d9624"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/historical_common_reserve.json",
+    "bytes": 789,
+    "sha256": "a0ceb899fd827fd3e33425a7c5bb28451481f79754313f8fcd62a06e5d890fc1"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/holdout_refinement_comparison.json",
+    "bytes": 982,
+    "sha256": "0a3bea787da3f873d2bc02a42fe5a02210f79685987085e3b8e3e7f5cd6ead03"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/hypocentre_initial_baseline.json",
+    "bytes": 266,
+    "sha256": "d2190ddd1a2692b3de3061e4583344a6b128790ce832467f60594cfe7a839494"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/initial_1d_projected_adjoint_check.json",
+    "bytes": 121,
+    "sha256": "19516f5b4d525207e5f37387b2456e8c7b0e1b33a75c96f4e1e7e234547a9dc3"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/kernel_deduplication_synthetic.json",
+    "bytes": 59,
+    "sha256": "15b14942cb97868344a7bc8c590a3b849b10db279c1f4074a531485258aa9b59"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/mesh_convergence.json",
+    "bytes": 1380,
+    "sha256": "5ec7ceb3a5b8211b8224a5227a38c40315351e649b831b34fe7725edfd40525a"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/mesh_execution.json",
+    "bytes": 258,
+    "sha256": "d7ccc9e90457537172fa46805323bb23bccfa3097af287bc4fc8430b16e24417"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/mesh_homogeneous_10.csv",
+    "bytes": 272139,
+    "sha256": "5b48e7878f585dad96f173dc602fabf2629330a398529b465e3547988b12c6c8"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/mesh_homogeneous_2.5.csv",
+    "bytes": 272102,
+    "sha256": "fd2c477f15680a777b748e2b2d513bd82b86d44c6e79e880656eb4512bf294c5"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/mesh_homogeneous_5.csv",
+    "bytes": 272103,
+    "sha256": "0dfc8361ba06e68a342ce5a7ba1e8f275dc2a9d0ff0e50afbb6057c54c815c76"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/mesh_initial_1d_10.csv",
+    "bytes": 187585,
+    "sha256": "6cfcde06088f330ff59ecf8459278678c6fab817a5449c252bdefd985b78c202"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/mesh_initial_1d_2.5.csv",
+    "bytes": 187687,
+    "sha256": "aeb0f4051051b73621a635c08d8169a5a2720602956a8f87574eb855e7d9a61d"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/mesh_initial_1d_5.csv",
+    "bytes": 187606,
+    "sha256": "d848e9bdd146c34f3cdb9f631a6a3dfda3f10ccaa94fc33cda2b0b426186cd04"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/mesh_new_3d_10.csv",
+    "bytes": 187587,
+    "sha256": "69d8545c8935f5cf33558897a4e36c3535c471a611ebc960b2bf1c6133e66fab"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/mesh_new_3d_2.5.csv",
+    "bytes": 187467,
+    "sha256": "360b7c3ac5b6f2b3cc289a69311508aca6e419eafbac580221db23383e8c61f7"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/mesh_new_3d_5.csv",
+    "bytes": 187584,
+    "sha256": "4b82df944404f592c0acfb062e22e631308e6bd816edbc1575223427167225c5"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/mesh_new_final_convergence.json",
+    "bytes": 435,
+    "sha256": "0d2c60710342c42a807378c74d11e2835155915d17179a60de410e17610d26cc"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/mesh_new_final_execution.json",
+    "bytes": 258,
+    "sha256": "6fed1ef23e4805195240e0275be2b6b64e4187822f498255cd35c277f3f75017"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/mesh_previous_3d_10.csv",
+    "bytes": 187585,
+    "sha256": "c41230842db21f339ee5f2c5908a52a5265cc3b4b8809e364aedab52736b9c3a"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/mesh_previous_3d_2.5.csv",
+    "bytes": 187597,
+    "sha256": "60a5f7b7109e8812b9764918fc7e2bb1f3edc2f25dc9421fbdc323f8604f08f0"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/mesh_previous_3d_5.csv",
+    "bytes": 187564,
+    "sha256": "5ccc098b4988b676665393721da4565f0df8b06ff8306f1aeee73dd314611e5f"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/nonlinear_synthetics.json",
+    "bytes": 894,
+    "sha256": "81a767fa25b8bde5341f787ba91223a19ce0c53476df126e1083ca4a394fb0a1"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/parallel_equivalence.json",
+    "bytes": 148,
+    "sha256": "4f3a311f6cc4865fd6b8c756ff6e9e6dca8fd285916905a636d952420c5bea20"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/parallel_execution_manifest.json",
+    "bytes": 1308,
+    "sha256": "7ae0e67ccd1001dc2437ff08e235c4a70c59455634764d31d0eb26ce58f0f56d"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/partition.csv",
+    "bytes": 75340,
+    "sha256": "6b7bf99272ea3a560a0764623362da1b72d0d56a28b9d3033d50086113122989"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/protocol.json",
+    "bytes": 4842,
+    "sha256": "9b855ea9f15761f2009ab477acc0a9b1ee32d417e97309dbad4c561c877de0f5"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/protocol_before_engine_compatibility_fix.json",
+    "bytes": 4435,
+    "sha256": "917d3bdd29f879dc289c3bc5c26c8be69ac74f49195ef9d4f3584938093d8d85"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/protocol_before_physical_mapping_fix.json",
+    "bytes": 4232,
+    "sha256": "e82409dc93e2ecb984df0033d901c74caa0ba2b38fea3d98fa362e9d8b18800c"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/real_elevation/comparison.json",
+    "bytes": 647,
+    "sha256": "30ace48f2770504ffc4c7ca7a0b95876bb9474ff19fe1ff6f7d550d9c840be42"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/real_elevation/config.json",
+    "bytes": 1492,
+    "sha256": "f6b7c829b4a2a65ffe60ee9bab003d90b23d1b582e81989828891699c3239679"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/real_elevation/control_1d.json",
+    "bytes": 10621,
+    "sha256": "b5e5335b386a77c101e135d1bbdee26aec4f791a5e327b2cdb3eca085adc8dd4"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/real_elevation/control_relocation_1.csv",
+    "bytes": 484572,
+    "sha256": "7cc3e34e076642130a16f0095a91b71a1cb2ca5c25afb781e18936e53f078d16"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/real_elevation/control_relocation_2.csv",
+    "bytes": 472071,
+    "sha256": "1dcc54912c979575b4652c5163b8211cfad29e00756d336d426f91168702478e"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/real_elevation/control_relocation_3.csv",
+    "bytes": 467568,
+    "sha256": "5c6438b8af8b5eaad41f2eda071890e2d27fa743db728538620f00e8ad0d0e26"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/real_elevation/domain.json",
+    "bytes": 399,
+    "sha256": "8061a79fc8be3b4002759b47339c4c1a2a3b95f3b1099352db2fe7164f257607"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/real_elevation/exact_holdout_residuals.csv",
+    "bytes": 530002,
+    "sha256": "692810c1d8436b4ec558ff9eb112751a595ace8bfd9a7ae99f8f113e2a044ba0"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/real_elevation/history.json",
+    "bytes": 5982,
+    "sha256": "671182be2757cf84341743b474e4f9e3ef4df1ca6327539be8df25217b7344e7"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/real_elevation/inversion_engine.py",
+    "bytes": 13424,
+    "sha256": "71e9ec051e8c5c2b132930ccd7ac61ee8ab306d02d5a3b4463c9bc0f54326e26"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/real_elevation/model_round_1.npz",
+    "bytes": 2542234,
+    "sha256": "0bdf8c0a5d17764c377816d5b09d14f7c5355c62ac3587a17838353c3e4bc694"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/real_elevation/model_round_2.npz",
+    "bytes": 2542234,
+    "sha256": "1f80a7ebe62e457100b8f2571b418d33c2ea44410d181746c832119221fe2ef8"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/real_elevation/model_round_3.npz",
+    "bytes": 2542234,
+    "sha256": "95d9ec3910dbeb613f7b759b25af0e7619e74b8f757cb8dafa628cf9ae1250c8"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/real_elevation/partition.csv",
+    "bytes": 75340,
+    "sha256": "6b7bf99272ea3a560a0764623362da1b72d0d56a28b9d3033d50086113122989"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/real_elevation/predictions.csv",
+    "bytes": 14783209,
+    "sha256": "45316a1c655d46fa1280297d6e0f8207262229ae9679f3147eab49785480d466"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/real_elevation/relocated_train_events.csv",
+    "bytes": 468652,
+    "sha256": "7c6791e5d9e48e02173384336e3f9f844ec7f4721b2a64b67db1d8470b0f4bcd"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/real_elevation/relocation_round_1.csv",
+    "bytes": 484572,
+    "sha256": "7cc3e34e076642130a16f0095a91b71a1cb2ca5c25afb781e18936e53f078d16"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/real_elevation/relocation_round_2.csv",
+    "bytes": 472322,
+    "sha256": "e5d4e4733f75f07075f67c34b1e540125c83dc3dd727a65f6625f4eea96c61cd"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/real_elevation/relocation_round_3.csv",
+    "bytes": 468652,
+    "sha256": "7c6791e5d9e48e02173384336e3f9f844ec7f4721b2a64b67db1d8470b0f4bcd"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/real_elevation/station_statics.csv",
+    "bytes": 7796,
+    "sha256": "c4ca45c68c8f6066abcf011144ca1b0a3ae88bb5e64302ba926fe03bb9a0e1ad"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/real_elevation/summary.json",
+    "bytes": 11845,
+    "sha256": "8d6b2da76c4c5bea75b6b124f2bd1fad7ae7b81155d5c0fe8677beaed167b229"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/real_elevation/vp_final.npz",
+    "bytes": 4479358,
+    "sha256": "466f09f4e52303d24313cebfd7bb8a045696ebb027a8991cc88e73667258fb02"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/receiver_position_audit.json",
+    "bytes": 1094,
+    "sha256": "fbe376557104ab39974ae419e1d6d4ef0d7d00c201d2b6ca2c94e4f3695d63c2"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/selected_picks.csv",
+    "bytes": 14751037,
+    "sha256": "351291feeb7cf7e04b7455b271b1c1b5427ec7b8c9ce81b8e46a90fa21bec005"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/solver_verification.json",
+    "bytes": 1246,
+    "sha256": "e1dbbaaca69a62ba1adfb842b6aab4a2445806843b7568a4de5842155d26fda7"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_1/buffer_excluded_events.csv",
+    "bytes": 4407,
+    "sha256": "c425c655dba936ad7497ec3bd85c4a01542485f40c0ae7697f9028541298585e"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_1/comparison.json",
+    "bytes": 694,
+    "sha256": "3044794424fe15e0e83375171b7645b22722bfb3ca8c70bda6b129a023150cbd"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_1/config.json",
+    "bytes": 1499,
+    "sha256": "7fb8424bca3b33ee16582a5ef7983357dc04fa673491d02a7ad2b56f3b4a94fc"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_1/control_1d.json",
+    "bytes": 10306,
+    "sha256": "b40bf9cf4284e3841e3d7fe0d835da6b0aa1ea3990130eab52b1dd47cf671831"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_1/control_relocation_1.csv",
+    "bytes": 438792,
+    "sha256": "602194dadaba1066026662dbee7c4646c28e14a43aa4e0126d7f586eefb5782c"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_1/control_relocation_2.csv",
+    "bytes": 427578,
+    "sha256": "dc5485472e56ca4b43967429421e6786dacdfbac8f8a9db1f033c80e57c0a17a"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_1/control_relocation_3.csv",
+    "bytes": 423122,
+    "sha256": "d070670c912ea5f216c97b365c9a1bfc752cf43fc19202c1b2c0c382b275dfb5"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_1/domain.json",
+    "bytes": 399,
+    "sha256": "8061a79fc8be3b4002759b47339c4c1a2a3b95f3b1099352db2fe7164f257607"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_1/exact_holdout_residuals.csv",
+    "bytes": 646822,
+    "sha256": "5b65a708124e5d6e371a40c820816c9e70f538b2d7687de325afdcca97a69be3"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_1/history.json",
+    "bytes": 5972,
+    "sha256": "a170102a2e1aac2ccdb992327f6f9c0b7e80b01b666caa7db6f3400e25266ab9"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_1/inversion_engine.py",
+    "bytes": 13424,
+    "sha256": "71e9ec051e8c5c2b132930ccd7ac61ee8ab306d02d5a3b4463c9bc0f54326e26"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_1/model_round_1.npz",
+    "bytes": 2542234,
+    "sha256": "142fd3e51f089b8a13c4997ccc3c80f8fcacfd3ac44ea90b9d97f96e0a4311ec"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_1/model_round_2.npz",
+    "bytes": 2542234,
+    "sha256": "cb9ac05cd97304b5038ed3b469d4a31058387fe165e6056076549044bd4da436"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_1/model_round_3.npz",
+    "bytes": 2542234,
+    "sha256": "c86f104721460b02ad9c6f50cb5f376a4712d3b2ead2824fee9ad2cf6f043f00"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_1/partition.csv",
+    "bytes": 74260,
+    "sha256": "9155ac0d2be2bbf921b28cbaa2950de5e0db00ac75c37f8a0fd270d48667bcab"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_1/predictions.csv",
+    "bytes": 14322055,
+    "sha256": "568e7db4dc37dd607eef3d07991ae4af9cfd2c49ac1c025be57ec9bb1a320e8a"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_1/relocated_train_events.csv",
+    "bytes": 425086,
+    "sha256": "6c21f02482bb2df8065a76ba3fb65c055bfa956c25ebd4f7a6dbbce8516c50ab"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_1/relocation_round_1.csv",
+    "bytes": 438792,
+    "sha256": "602194dadaba1066026662dbee7c4646c28e14a43aa4e0126d7f586eefb5782c"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_1/relocation_round_2.csv",
+    "bytes": 427560,
+    "sha256": "653855e31bf8dda2d2c70a0e8244e353272f48ca2b6526aba99315dae0d0e0b3"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_1/relocation_round_3.csv",
+    "bytes": 425086,
+    "sha256": "6c21f02482bb2df8065a76ba3fb65c055bfa956c25ebd4f7a6dbbce8516c50ab"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_1/station_statics.csv",
+    "bytes": 7531,
+    "sha256": "17a7f7854087c8106d91f2d906feec019392e699cbf1be5a516bf36f603eaf81"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_1/summary.json",
+    "bytes": 11841,
+    "sha256": "68814d51e227b756589620d9e12d31c4e1288266a0ff82e8f001dd0ee0753c42"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_1/vp_final.npz",
+    "bytes": 4479358,
+    "sha256": "2252eaa5b9f4fb84970ee12f985ec2b9103a1a82d0bc16d855aee42263fa58d0"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_2/buffer_excluded_events.csv",
+    "bytes": 10309,
+    "sha256": "80dc0a9679a42f4102cc979f95b9ade7cf95e551ea23a1050fb00a8d5da050b2"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_2/comparison.json",
+    "bytes": 696,
+    "sha256": "12d35fc2f06fc3a87846a2ed81678292df80332d4ce2c7aeebe41b4db1328f70"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_2/config.json",
+    "bytes": 1499,
+    "sha256": "9ff3a4d1180f7e71790f245a033a0eac38b17ec91024ce02fb2dd1988aa7cd41"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_2/control_1d.json",
+    "bytes": 10402,
+    "sha256": "15c07f01aec5a7fad04ba46d28360563c74532b458d0e75f3b2cccee6f9ba36e"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_2/control_relocation_1.csv",
+    "bytes": 309023,
+    "sha256": "945f9f5e608477102d7488029cc874fafa8b00be25a6b372fe5fb6a1a2a63378"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_2/control_relocation_2.csv",
+    "bytes": 301183,
+    "sha256": "0d6bf09612fc36a6d7f3b64c053ae9d6281a09c91d362890c3662d4cbfafa4d0"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_2/control_relocation_3.csv",
+    "bytes": 298067,
+    "sha256": "3f0c6d89c869023bfd490b319edc68f66e9531f8e9ff20f910505535bd5ade68"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_2/domain.json",
+    "bytes": 399,
+    "sha256": "8061a79fc8be3b4002759b47339c4c1a2a3b95f3b1099352db2fe7164f257607"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_2/exact_holdout_residuals.csv",
+    "bytes": 1022361,
+    "sha256": "706fc1dd1a9c53dbba86f50ce44de5fa904ade76d6916945e7b45ce552f6914d"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_2/history.json",
+    "bytes": 5973,
+    "sha256": "1ac2c7cfa35a1f05172b640a741350b994702391a6604f3024f4866ae58b7493"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_2/inversion_engine.py",
+    "bytes": 13424,
+    "sha256": "71e9ec051e8c5c2b132930ccd7ac61ee8ab306d02d5a3b4463c9bc0f54326e26"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_2/model_round_1.npz",
+    "bytes": 2542234,
+    "sha256": "00222aacf7606b979c3097c293e07658fcd4f9a09bfcbf7717d50d88602f131e"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_2/model_round_2.npz",
+    "bytes": 2542234,
+    "sha256": "358c8f9496113c0940feb5af44f4feca906d63116eae2a4f5d000c34241a37b9"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_2/model_round_3.npz",
+    "bytes": 2542234,
+    "sha256": "7e11dd7c0544e46c229422645b38345e59390407a00b18692bfba2ab1d70e999"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_2/partition.csv",
+    "bytes": 73642,
+    "sha256": "025d3ca4c64573e5c32474e38dd1eaeacaa5b668db3b3ab1ba7f2b5e26d2f763"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_2/predictions.csv",
+    "bytes": 13867541,
+    "sha256": "81bb3db3f782e07448b15ea7d4a8785c4a06c45397a709db2edcc46b414ab2e0"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_2/relocated_train_events.csv",
+    "bytes": 298767,
+    "sha256": "5eea67243898a4747b7205e16938451d2c28cb91081a7be4cba1a067880e45a2"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_2/relocation_round_1.csv",
+    "bytes": 309023,
+    "sha256": "945f9f5e608477102d7488029cc874fafa8b00be25a6b372fe5fb6a1a2a63378"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_2/relocation_round_2.csv",
+    "bytes": 301197,
+    "sha256": "e6b4723a04484d71194a33cc69d7b619fbcb792f9a04930917a014011cc5b75f"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_2/relocation_round_3.csv",
+    "bytes": 298767,
+    "sha256": "5eea67243898a4747b7205e16938451d2c28cb91081a7be4cba1a067880e45a2"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_2/station_statics.csv",
+    "bytes": 7588,
+    "sha256": "3faf6e2c5cf03df620d13b3b2c0deb1910cbd3e7509107b91949f20ca414ec92"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_2/summary.json",
+    "bytes": 11844,
+    "sha256": "658286b5703c660473738d76ff26615308648b191d981e9d1a82d4b6f88c3cc1"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_2/vp_final.npz",
+    "bytes": 4479358,
+    "sha256": "bd5e3781f184be8565c2a633cefda513027160d7edbe8784d53117b9192968db"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_3/buffer_excluded_events.csv",
+    "bytes": 3814,
+    "sha256": "07e7b3391b698335f71884081a9fadfc6f705c92a4643dd7b57268e07ad24335"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_3/comparison.json",
+    "bytes": 695,
+    "sha256": "e7178bf41bd1d9bb76e7885416dd68e94cbb0f50a7b6f7cbf9c949f7ae0f5ebb"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_3/config.json",
+    "bytes": 1499,
+    "sha256": "f0bd618a9fc783acc3bad5a214ab073bc3003f9c3338a162c2feb9721790b92e"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_3/control_1d.json",
+    "bytes": 9768,
+    "sha256": "3e13d8295c910d62ff359de5f8b5c9a32ebeddb3003269eb052aec3049a0ec62"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_3/control_relocation_1.csv",
+    "bytes": 412761,
+    "sha256": "5313bfb13e7dc8afa13c6b3da0ce55b8fdfe7d3c567367d8743b68ffc7ca0349"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_3/control_relocation_2.csv",
+    "bytes": 402521,
+    "sha256": "fe63dd832ca903ad804b5e4f37411f806488111900833c28ab3f24b2b62a4cce"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_3/control_relocation_3.csv",
+    "bytes": 398961,
+    "sha256": "abe9a21cf4ff459f3052c6f1cd6d413813b3b7acd9d806f76359d23a5f63da92"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_3/domain.json",
+    "bytes": 399,
+    "sha256": "8061a79fc8be3b4002759b47339c4c1a2a3b95f3b1099352db2fe7164f257607"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_3/exact_holdout_residuals.csv",
+    "bytes": 927618,
+    "sha256": "461ce8a2501ca6fbdf4c2485296f930b97888db76b2fb4008d26f77e49a06d0b"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_3/history.json",
+    "bytes": 5989,
+    "sha256": "93429f6a3a1ac4e5fb24c3d80082b29626efcbe570a223a96ebb3116f5088ae9"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_3/inversion_engine.py",
+    "bytes": 13424,
+    "sha256": "71e9ec051e8c5c2b132930ccd7ac61ee8ab306d02d5a3b4463c9bc0f54326e26"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_3/model_round_1.npz",
+    "bytes": 2542234,
+    "sha256": "401ebb414fd25b0382cfedcc35a98571bcffbdf1ad73883bea3b317d7f890ca5"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_3/model_round_2.npz",
+    "bytes": 2542234,
+    "sha256": "c78f431085d838d81beb0a8dcaf0e0e4924429e231c9c26ce988d3ee1be18294"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_3/model_round_3.npz",
+    "bytes": 2542234,
+    "sha256": "2b8f4a484161b776f3b8c0dda76addf167801cb1c279338539a24143cd8397b4"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_3/partition.csv",
+    "bytes": 74770,
+    "sha256": "ead5b50128024b70081b1963f36e74eb8d88d2023f902be1620b90e7f5040d01"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_3/predictions.csv",
+    "bytes": 14530091,
+    "sha256": "d7e9a00c9513e1217f6d952fb4094657f3be8e4975b38df3628f71d4d7718ca2"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_3/relocated_train_events.csv",
+    "bytes": 400363,
+    "sha256": "534dbde6ab83e5641a9284dd9b73606d768e7aa2354865d9bc8a93b2ee939dc7"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_3/relocation_round_1.csv",
+    "bytes": 412761,
+    "sha256": "5313bfb13e7dc8afa13c6b3da0ce55b8fdfe7d3c567367d8743b68ffc7ca0349"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_3/relocation_round_2.csv",
+    "bytes": 402675,
+    "sha256": "f7a4248b870d0f9f7149a2068bfd50399ee9e16c1a5f69e207c60bd2d823387c"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_3/relocation_round_3.csv",
+    "bytes": 400363,
+    "sha256": "534dbde6ab83e5641a9284dd9b73606d768e7aa2354865d9bc8a93b2ee939dc7"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_3/station_statics.csv",
+    "bytes": 6915,
+    "sha256": "6fb82f81da20e294efe7267cd72300a4dc74fc25413d43d126eb97feded9fef6"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_3/summary.json",
+    "bytes": 11860,
+    "sha256": "ab11d91d7c0e424760532677c5799937603486fd04b29a63dfa9bd1533f49e11"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_3/vp_final.npz",
+    "bytes": 4479358,
+    "sha256": "9f6b38dd9dc420fce69dec1cc9ae40e953590f121134a6782586e00938c5fef2"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_report_1.json",
+    "bytes": 756,
+    "sha256": "64089c3f4b80bcb83b1ebb0b80d00faa5d1b429bdb01986ea88f9213554e29b2"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_report_2.json",
+    "bytes": 758,
+    "sha256": "fafd45798fc6d28821ab32027b66066769113617a8b2368676221e48a4bf848e"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_fold_report_3.json",
+    "bytes": 757,
+    "sha256": "8ad37441a132db5e5409ecdedc86820caf12752981f5b902fbaeba8936305a7c"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_pooled_comparison.json",
+    "bytes": 705,
+    "sha256": "8c246da68b60d8d421acd0a46e2a710c2d895b9b1c3cf3543e0ae3e01a2937a6"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_pooled_residuals.csv",
+    "bytes": 2645439,
+    "sha256": "66beaba3a96050fd1cd23f3aa729899cdbc37f3fc3bad6328079bd7bae37dd5a"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/spatial_validation.json",
+    "bytes": 2265,
+    "sha256": "dc6407591228251ab15116767c1cc9b90f9108c324b840330f7ee71f94e4a1bb"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/station_elevation_association.csv",
+    "bytes": 33967,
+    "sha256": "9fad9942cfe233e0988271a3931edbde4a788726fdc954ec1894dddd85b4a473"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/station_elevation_association.json",
+    "bytes": 1046,
+    "sha256": "8f519801cadd79189795b9b3b417cd5ab30b305f93c4847d751fbc2be0729d99"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/comparison.json",
+    "bytes": 653,
+    "sha256": "ec375132588d0e922f30db225bf7b4e146a542ef6d026dbf4436df24c1c0f866"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/config.json",
+    "bytes": 1492,
+    "sha256": "f6b7c829b4a2a65ffe60ee9bab003d90b23d1b582e81989828891699c3239679"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/control_1d.json",
+    "bytes": 10740,
+    "sha256": "6bbd88d0d28a00079619cc0dc822dedd404c59ada81003fac40fc1edd8045d1e"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/control_relocation_1.csv",
+    "bytes": 482717,
+    "sha256": "da77c4d7d9680adfcd7f01d062c71a95eb8785d4da463de9620f1e18f8e63a64"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/control_relocation_2.csv",
+    "bytes": 470174,
+    "sha256": "830ca8934c38fd5142a9413fb0de1c107701cf0ad8855d209e40fe52d2aba15e"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/control_relocation_3.csv",
+    "bytes": 468013,
+    "sha256": "9049c30788ab2dd4c9e21e8787885d0f84bd88cccab754e2f99e338d4d95db82"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/domain.json",
+    "bytes": 399,
+    "sha256": "8061a79fc8be3b4002759b47339c4c1a2a3b95f3b1099352db2fe7164f257607"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/exact_holdout_residuals.csv",
+    "bytes": 773566,
+    "sha256": "9f41183041372d0ef578c9cf09cbcce195c5d1840f4a84565b9ec1fd6fb38ac5"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/generation.json",
+    "bytes": 386,
+    "sha256": "ca0d11b3bef73e58161a0c23e601f51129875369c5d6ea34f9edbc69d4b18b73"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/history.json",
+    "bytes": 6435,
+    "sha256": "59578490f37961c92a2f7dbde33a9115a628c9a3ec4fed2c82144d1df7be7aff"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/inversion_engine.py",
+    "bytes": 13424,
+    "sha256": "71e9ec051e8c5c2b132930ccd7ac61ee8ab306d02d5a3b4463c9bc0f54326e26"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/model_round_1.npz",
+    "bytes": 2542234,
+    "sha256": "1135a41eed42b959901dc9cf1d9de577ac1e7da916339e37f99a6b0a42bd1dae"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/model_round_2.npz",
+    "bytes": 2542234,
+    "sha256": "d28451fb16dd2bffbb8002fa2a1e9fef25460afc54b105da31c11a76ced24533"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/model_round_3.npz",
+    "bytes": 2542234,
+    "sha256": "1a78d0e1513de105b2e226433bfdfb7005a5e69a869cd9cb27365a801a4c4a50"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/nonlinear_recovery.npz",
+    "bytes": 6698980,
+    "sha256": "bb230b8d712de1623d6d6f723d08ed19d86936b50f1c95d19483f8b431a17bf3"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/partition.csv",
+    "bytes": 75340,
+    "sha256": "6b7bf99272ea3a560a0764623362da1b72d0d56a28b9d3033d50086113122989"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/predictions.csv",
+    "bytes": 20256506,
+    "sha256": "70acf1f0d06bd7bd7f265a8d63025e2c54254ca6187cecb38ae647135468e1f3"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/recovery_metrics.json",
+    "bytes": 417,
+    "sha256": "e677c6e4768310c9a42c936fab7a4c876e8c458eafcc4b55363f5b8e06faa111"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/relocated_train_events.csv",
+    "bytes": 468124,
+    "sha256": "61841d84223b672ef884a98057a1ab1d8ae2e71ef9731a73dd9408fc0cda9699"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/relocation_round_1.csv",
+    "bytes": 482717,
+    "sha256": "da77c4d7d9680adfcd7f01d062c71a95eb8785d4da463de9620f1e18f8e63a64"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/relocation_round_2.csv",
+    "bytes": 469937,
+    "sha256": "df2d256b735798dea6b1db3b06411d000c59e5db1c188b9a449871d4bebf4057"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/relocation_round_3.csv",
+    "bytes": 468124,
+    "sha256": "61841d84223b672ef884a98057a1ab1d8ae2e71ef9731a73dd9408fc0cda9699"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/station_statics.csv",
+    "bytes": 7875,
+    "sha256": "01e8b8e18424af92d8aa385b805426aba2bbdbd4eefb6608f138eaa074fd9a8c"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/summary.json",
+    "bytes": 12321,
+    "sha256": "181b1f8205da20721cd60880a62db8bef25b2a90affd03e8952781aa0aadc4a4"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/synthetic_observations.csv",
+    "bytes": 20170168,
+    "sha256": "95cecd479c51d5254e3e5fc65357e907ff086433b99189f0af4209afa456a429"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/synthetic_03pct/vp_final.npz",
+    "bytes": 4479358,
+    "sha256": "c0e25a857e404bf3ef08315cb6e53e2fc8215f17419be2fa1b3173539dfea73a"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/velocity_bound_audit.json",
+    "bytes": 372,
+    "sha256": "8ef8c34b149dc443a5562b14568429eee5e4d45ea3f31c597774b6af9f58dddc"
+  },
+  {
+    "path": "resultados/campana_factorizada_cotas_20261011g/vp_under_station_elevation.csv",
+    "bytes": 48108,
+    "sha256": "c2c851fd7367c35ca43e03b566f07bfafcef982bf890e6e7c0550b0fa1579001"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/arrival_source_audit.json",
+    "bytes": 2316,
+    "sha256": "6e5500ac18de311e5fee790a90ef885938c33d3f51db39ec62f117ee30d77076"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/arrival_source_matches.csv",
+    "bytes": 4654994,
+    "sha256": "6d9c6b5033743f408c32a602f885bfbeccf06419dc44228b9b286024ae0936a2"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/artifact_operation_receipt.json",
+    "bytes": 56,
+    "sha256": "767f5dfeeee5587f400980367ed69809b19f104c59698e13f381615d597bd1b5"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/completed.json",
+    "bytes": 80,
+    "sha256": "9d44f92fa7d13b6c857fbd5e58ce3c00294dd593db833f8f451c3ce3e078f1c8"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/data_description_audit.json",
+    "bytes": 1294,
+    "sha256": "7503e0b1d3850ae1029eff4d4a29311ddeb3212ef9cb5dc06ddf752ec824ac15"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/document_content_qa.json",
+    "bytes": 1010,
+    "sha256": "48aa9a475f3054a2fb89a4cc87e8f52ca17683a5a0549354db68cd832fdfa0d4"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/document_delivery_qa.json",
+    "bytes": 2474,
+    "sha256": "e6cd9bbd5eb096d0f45899e5330846887bbed6e8aaaa443185e984f9d477c82f"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/elevation_contrast.json",
+    "bytes": 1094,
+    "sha256": "a8de3208fef5c0b99cc9da7e8074472907f181fe813335a1ed2be89d8d980d1d"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/elevation_contrast_protocol.json",
+    "bytes": 447,
+    "sha256": "aa1c82630f58843022a7bd0d88d4e61d26eb0af46ebac4289ded2aa4ae5a9d57"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/elevation_contrast_stations.csv",
+    "bytes": 30705,
+    "sha256": "b1af02a581e74f62ee63396a665e3c634ae9796eba01eecbff41c27ff76c6228"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/event_descriptors.csv",
+    "bytes": 355327,
+    "sha256": "d4125efd95ce6c7b6e5277d98207a3e81a7e08d291a627cd1ba3713fd46e3c0f"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/execution_backend.json",
+    "bytes": 767,
+    "sha256": "773058a61861caf2a210e42453717a0d2126921251fed296b0e8e3311b858bfb"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/figure_support.json",
+    "bytes": 399,
+    "sha256": "a5e7f2a93824602e797a77d3f8001643fbea11954acc6c435bca0124a5b1931d"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/fixed_1d/comparison.json",
+    "bytes": 536,
+    "sha256": "f9cd8f9fb60e2e423f49e6a4e4d42fa1ed8a7993d0878da8b59ddb34a461420a"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/fixed_1d/history.json",
+    "bytes": 2822,
+    "sha256": "8d0f74996831c5bff059ef1da1fbf88b2c9f8e6862f29ad2f2f339aef75b6326"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/fixed_1d/holdout_residuals.csv",
+    "bytes": 273676,
+    "sha256": "fbfa441e4de9461c147194da811e3b117822d9625adad81e7308ad07f6dcbbe2"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/fixed_1d/relocated_train_events.csv",
+    "bytes": 462484,
+    "sha256": "78ea8b9cb8b4c3ca7d3ae9c4547d9d68c2bb171b69cdb498e86ae903f8c74563"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/fixed_1d/state.npz",
+    "bytes": 2219618,
+    "sha256": "8c0895ce15df4a9f2fbd05ba0f816d6896bffb5442adcdbc14f1fa3748ae2230"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/fixed_1d/state_events.csv",
+    "bytes": 141182,
+    "sha256": "24250073ac1c31ce846007560d0412573dedea00a542f92d16109d28c16e03d1"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/fixed_1d/state_statics.json",
+    "bytes": 9306,
+    "sha256": "4d1d4feab8a1b978a47ad174e82fa0cd0534a5a8a365f716247cf46977a28007"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/fixed_1d/station_statics.csv",
+    "bytes": 7719,
+    "sha256": "66fb793aa47913d815213f172a99549810560b4ed0eac0b496b8aced8838a019"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/fixed_1d/train_residuals.csv",
+    "bytes": 1091462,
+    "sha256": "7af7ed91a8b4f490f6acedc165e6d89a21168cb2b43de6da4964b3d59d44d76f"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/fixed_1d/vp_final.npz",
+    "bytes": 4479358,
+    "sha256": "96a7edec5d1fe6ebcebc466f2bac54ce4fcb9ddefd0674b290d688a53c631378"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/fixed_1d_zero_elevation/comparison.json",
+    "bytes": 537,
+    "sha256": "79cc0725beb8911f3c6324e853f374c19ab4c9178138de6b54acd56d5118eff3"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/fixed_1d_zero_elevation/history.json",
+    "bytes": 3075,
+    "sha256": "07cae327e7c3ac2eb74c75621063738ba4223c8f01eb4ac14ae2d80217ecafa4"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/fixed_1d_zero_elevation/holdout_residuals.csv",
+    "bytes": 273120,
+    "sha256": "bb6bad261fc7e4271ffffd55dadfcc117058819732e29d21b3b1f98b7c9e67f7"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/fixed_1d_zero_elevation/relocated_train_events.csv",
+    "bytes": 462346,
+    "sha256": "a8bea18eabe0dc83f86b156188a8ee3a7cef650edeb3cc80f4bba871f820d170"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/fixed_1d_zero_elevation/state.npz",
+    "bytes": 2219618,
+    "sha256": "8c0895ce15df4a9f2fbd05ba0f816d6896bffb5442adcdbc14f1fa3748ae2230"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/fixed_1d_zero_elevation/state_events.csv",
+    "bytes": 141080,
+    "sha256": "63a128b20941190c2c9accbd66bd0987fa309f4dcb20e89af77ff82c7cd8a9cf"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/fixed_1d_zero_elevation/state_statics.json",
+    "bytes": 9292,
+    "sha256": "c94dd8b76d94feaae4b03ccd0b10191a22b9a1557bea78a4e76972792d4c435b"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/fixed_1d_zero_elevation/station_statics.csv",
+    "bytes": 7705,
+    "sha256": "98f02e4703771ed9fdfef9095d96e6f32851fd43544d8986522abacac770b275"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/fixed_1d_zero_elevation/train_residuals.csv",
+    "bytes": 1091341,
+    "sha256": "9d561933fc578407eba949b5068be001df8ce6bc215525d8300f165c9e7b0b36"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/fixed_1d_zero_elevation/vp_final.npz",
+    "bytes": 4479358,
+    "sha256": "96a7edec5d1fe6ebcebc466f2bac54ce4fcb9ddefd0674b290d688a53c631378"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/intermediate_cache_cleanup_plan.json",
+    "bytes": 12172,
+    "sha256": "ab0872f8a216f3e8ca8cdb053e825cd0995aa53af517fb3e056fdffe0147def7"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/lsmr_execution_amendment.json",
+    "bytes": 448,
+    "sha256": "02e9b34575e03dfc26c91f086edf7c1ea6addbe78f31568997b417bd7ac28a89"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/lsmr_first_resume_audit.json",
+    "bytes": 390,
+    "sha256": "994f47a4b34576d306feb6dcc4cb4d9834176b80ef21b0e9e76f339ef9b92d34"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/lsmr_resume_audit.json",
+    "bytes": 4073,
+    "sha256": "1b7e0032f2c19a66690cefdea370c356c688d629a382619fab6c41a0197e40c4"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/manuscript_metrics.json",
+    "bytes": 23567,
+    "sha256": "95923fabdb31e569278fe5ac94c976b2433d8fca1bec67b6dcdbc6cdeefb517e"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/memory_cache_execution.json",
+    "bytes": 207,
+    "sha256": "8b884b88720c621a0646ed34d0d7e9f73a2d2a1a808d7c6b39a3e094e71228c8"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/memory_cache_verification.json",
+    "bytes": 198,
+    "sha256": "74c2991a8e25e33e368aca170d0460cc993ececca26d9ef190fa015c4023b015"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/memory_resume_processes.json",
+    "bytes": 129,
+    "sha256": "55acea498056df893297e61be268c77a599db4dd5f7f1f4adfbb9f8134e1f0a3"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/PLAN_EDITORIAL.md",
+    "bytes": 3057,
+    "sha256": "060364e07f9f2ed1531dd2a771f6e5a6b6f1b57ed280923b167ff57082882005"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/protocol.json",
+    "bytes": 1228,
+    "sha256": "863effbb12da794adea573f99b429c23a52d07d930c35ab95ba62d8f2d5516ba"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/publication_branch.json",
+    "bytes": 375,
+    "sha256": "ebc14ad7347dd16104961d2378b6fb42fc527760bcd62f904075c926fbdfbada"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_comparisons.json",
+    "bytes": 2919,
+    "sha256": "128cf66f34276a294ab340bace34e4a4b1c5ed4e7a769b5d1b035e342715e0f5"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_2/comparison.json",
+    "bytes": 540,
+    "sha256": "886556db8a66ae96cfd67a0fe2bd9ebcaff4e357b1f74c9b53729a290103d971"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_2/history.json",
+    "bytes": 3273,
+    "sha256": "229cf54795a6b54e44056c23b1e4138b62b7ad39b118ac4ed96f3955b3cb5281"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_2/holdout_residuals.csv",
+    "bytes": 274421,
+    "sha256": "b5629b7baea15ae78b54aa5633833de0f97585668ea7fb69f12af28f4308d3bb"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_2/mesh_10.csv",
+    "bytes": 335393,
+    "sha256": "d96bfd3cd5728c9a6bba71684e8dc1c714576ff0e06cd8510510cdd763aa7c46"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_2/mesh_2.5.csv",
+    "bytes": 334593,
+    "sha256": "15aa5ce2cf19733459876adb6f4498302766507cbd2c4692d331d73465ddf47e"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_2/mesh_5.csv",
+    "bytes": 334946,
+    "sha256": "16c1308f5792a731ee146d2960a76b6cdfbefe2224be8dc2f7da8fd7d88e5caa"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_2/mesh_convergence.json",
+    "bytes": 774,
+    "sha256": "c1dd6761db806a667b72aecc381381391a7623f70ff39e523aea9b0aed8e8763"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_2/relocated_train_events.csv",
+    "bytes": 463435,
+    "sha256": "a5322dece551272ed4b025e2dfb02c41315c48ea1b789c5c09cb0c0aad535fae"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_2/state.npz",
+    "bytes": 2219618,
+    "sha256": "334ad8ef2dbdf01087b18d832a7172ac6c968aaafe4bf7001889e75300a35a69"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_2/state_events.csv",
+    "bytes": 141446,
+    "sha256": "e1cc22ba2b79d6f8f13bb0cf4cd5e6554bc20e801ceedec2dd37bc9eb85feea5"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_2/state_statics.json",
+    "bytes": 9437,
+    "sha256": "f653ef2dafa9a5e463e2c59eb64bd7decd950267ae786b8c7ff9e569bd9aa104"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_2/station_statics.csv",
+    "bytes": 7850,
+    "sha256": "7559731dff643148872066abea3393e115d9140d6175c5c0f5793238f743124b"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_2/train_residuals.csv",
+    "bytes": 1093628,
+    "sha256": "1256f00ff8862de5c8a4094e03413d1746583cf0d7ecca0ed2690738e8382b70"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_2/vp_final.npz",
+    "bytes": 4479358,
+    "sha256": "155234112dcf8d55013930ae94e193ddfdf689cfc634b46c6a9dd47396d138b8"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_20/comparison.json",
+    "bytes": 541,
+    "sha256": "14ce815969cd3d1e49af02ff61f8e67803e3069dec0d90fc77e1b3636fe856e9"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_20/history.json",
+    "bytes": 3275,
+    "sha256": "9e0268589fa612f13e8de5dfe61a54d1d51dee0cae9c4f16af416457f84a7a48"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_20/holdout_residuals.csv",
+    "bytes": 272725,
+    "sha256": "cf738a871260d5bef385de2005d859ae852d18166876e642403ce2dcdab0b67c"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_20/mesh_10.csv",
+    "bytes": 334374,
+    "sha256": "35882b60326348c34d31598a00f7949a1927bbd16db8ee3631a21ebdbbff2644"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_20/mesh_2.5.csv",
+    "bytes": 334241,
+    "sha256": "3cc303f5db83b1b468a4fc2fcd7c8bafa854f0a0cbbb7712f0442683f8b9fa30"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_20/mesh_5.csv",
+    "bytes": 334279,
+    "sha256": "446aadf70d57239ab0d582e3699a217c2dbaaf5885db41840b6cfabae7950567"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_20/mesh_convergence.json",
+    "bytes": 777,
+    "sha256": "5628b25fea3cf0e4e5ce6898b57158b0256b12b485988f9b431420a0c24fedd0"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_20/relocated_train_events.csv",
+    "bytes": 463277,
+    "sha256": "5fe0693048da5b339092eddd56135acc645f56cf981e33d5e1e9d64032cbffc9"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_20/state.npz",
+    "bytes": 2219618,
+    "sha256": "68ed5821160bdc16359235dd54559df0074684e6ed09bebbdba5159280daf5df"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_20/state_events.csv",
+    "bytes": 140878,
+    "sha256": "3cc02420da65f82c8ff5648cb5cf24bf1164296d4620d012685c640594d82d7d"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_20/state_statics.json",
+    "bytes": 9423,
+    "sha256": "c5985b908776edac7aad393a60da947c007e626fb24ae50df2fc958f789af9ff"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_20/station_statics.csv",
+    "bytes": 7836,
+    "sha256": "b1bee6bc0a92ec006bd543d4ec6cab013763269e7b1a9a754724da908db3c450"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_20/train_residuals.csv",
+    "bytes": 1092576,
+    "sha256": "f467832c926ff28b810b9695fa57e2f219bcfd0c56ded3b811190d0dae29c2cf"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_20/vp_final.npz",
+    "bytes": 4479358,
+    "sha256": "712b7580d152e98a4f478c9118fcb5c01b2013fe7539f564bdb7baafaadf2729"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_200/comparison.json",
+    "bytes": 538,
+    "sha256": "359b1e6f1e9ce4e52463275b5d9256dcd317edccbad0f0125a7eef932f01a9aa"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_200/history.json",
+    "bytes": 3275,
+    "sha256": "23fb9c541f9b02ea28ae5ed6b36265f8b45f4cb1f431c447d6e71c484aa9da92"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_200/holdout_residuals.csv",
+    "bytes": 273704,
+    "sha256": "a237943737e9b45650f11d9d0297872089b1d19c07deacd7b33115a67aabcd58"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_200/mesh_10.csv",
+    "bytes": 335024,
+    "sha256": "fb540de3b6644ed6949367223f4e2fb3a56fbe6fed5552e758724c1ac079b377"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_200/mesh_2.5.csv",
+    "bytes": 334862,
+    "sha256": "3d82c28580c92027fe76ae1690015c8f4110fca92519e43d1213b843a382edd4"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_200/mesh_5.csv",
+    "bytes": 334956,
+    "sha256": "92f2d4f4212b2028b5b365c0d294c898e88b5667c535262c01627e97044ee805"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_200/mesh_convergence.json",
+    "bytes": 777,
+    "sha256": "264acdc9fdaf0cf23be591177abc892473399749529fb7f37a882a79d8a7a31a"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_200/relocated_train_events.csv",
+    "bytes": 463327,
+    "sha256": "868d56ec880bb45a3c0b24e56fe12c78a3d7fa3b48e4222101cf204fea1be828"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_200/state.npz",
+    "bytes": 2219618,
+    "sha256": "50df9570f394924aa741d2609f78c533d027e3230219b7ae7768b8b83e32749d"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_200/state_events.csv",
+    "bytes": 141290,
+    "sha256": "a84daef138a4a09300ba1782eae5022efab0282bef8c5164c187111e43dde297"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_200/state_statics.json",
+    "bytes": 9360,
+    "sha256": "98ed7b96efeda298a5876b57136a3c2a14ba8d9447dad3a049191fe58ec77c40"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_200/station_statics.csv",
+    "bytes": 7773,
+    "sha256": "a16146263d5a3e515c96da6800b95f1f713d36c1bcf054128fc7a242657467f2"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_200/train_residuals.csv",
+    "bytes": 1092408,
+    "sha256": "2421f6340560082b8d2b331a50eaf86547bc74306b921e63d49e5d63c4b9cd09"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/real_smooth_200/vp_final.npz",
+    "bytes": 4479358,
+    "sha256": "a9b74111b8762bcee39d497d413e408eaccd5e2ebc8b61443b05a781136c457b"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/rms_por_ronda.csv",
+    "bytes": 6909,
+    "sha256": "749849f06308cc7a1e7508970ed13f948aafcfd3754ff3cac86eb8f3491d0b22"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/station_parallel_verification.json",
+    "bytes": 793,
+    "sha256": "7a1ecd8fa0054a385ee643cc53c5622b86b3e876ac208d975bdd1e6d1b6bf4ee"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/supplement_figure_audit.json",
+    "bytes": 374,
+    "sha256": "b9d67cbd4eb05ec65bcefdd7f44e88cc351415ca506430a1cf3165e80946d94b"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_comparisons.json",
+    "bytes": 2586,
+    "sha256": "36dbdd17655d0aff0bd2fc30262148ddb349374776d0101eac7ecf527b716650"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_effective_errors.csv",
+    "bytes": 20802010,
+    "sha256": "78a2c23005c86e6f94c8f7b66b233cfec9e7e0e8bd06654c137afa60fb0d08e3"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_error_calibration.json",
+    "bytes": 387,
+    "sha256": "f9c0cb9d269f73a717cf25adacbaf4444481fd2b521dff993a58074a3e360f96"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_2/comparison.json",
+    "bytes": 537,
+    "sha256": "de853251a0064e18f04928b0bf9e84a1b6300ec82335070ec514d3635acbbd4b"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_2/history.json",
+    "bytes": 1092,
+    "sha256": "d7d37fcb53ec206fab2ed206432f97b2c2d87a13591ff0415a4238eee609b59d"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_2/holdout_residuals.csv",
+    "bytes": 276889,
+    "sha256": "b214942c4432acbdbc7f6f6cd47e1a3830ba30ee31d610ac6222134e1797324b"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_2/recovery_metrics.json",
+    "bytes": 620,
+    "sha256": "e6c793c8666a1c676092a0867178b4fd6d1a406012c3b611179301e1d76f1d86"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_2/relocated_train_events.csv",
+    "bytes": 467930,
+    "sha256": "6b890a02e13623728585472348f93b2c49b75eaa1934ae47b6409251af78d156"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_2/state.npz",
+    "bytes": 2219618,
+    "sha256": "bf571857491e50e875a87d622331227f155be949192a37a99e79d7f94a5b2769"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_2/state_events.csv",
+    "bytes": 142192,
+    "sha256": "19a68bc1cf44a92a34e6102437c718339d04d26bd9f42e89ffb43c981279e654"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_2/state_statics.json",
+    "bytes": 9427,
+    "sha256": "5eb965eafa78d8b775f9d7caa236e64caa0ac896552c5f475e0f7d54bca1b37d"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_2/station_statics.csv",
+    "bytes": 7840,
+    "sha256": "45c8e4b50d7c10f0fa8d5d6ad7d17baf1db0bf8a009fe83d03988d0005042550"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_2/train_residuals.csv",
+    "bytes": 1084827,
+    "sha256": "69ae812a1a2dd6f5b3f9323a76336f051f634b97d0c8602de2c10d8bf0e85880"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_2/vp_final.npz",
+    "bytes": 4479358,
+    "sha256": "75e1354d5abfeefc893edecc7c917d077ebaefbf80d4c899a759f757c850dafd"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_20/comparison.json",
+    "bytes": 534,
+    "sha256": "525c6bec2a2287446f7aca5849d4ca7f1fce25ff012deeee56218845eaaa748c"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_20/history.json",
+    "bytes": 1092,
+    "sha256": "2b192a3b3164cf04e6a6d539690333f9408c40429d89595e3a85646d43fafeca"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_20/holdout_residuals.csv",
+    "bytes": 276726,
+    "sha256": "a2ff54ea391df236e8775e2b886f6a63b7b1ad3c6aadf4af5e375d0a5515c87d"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_20/recovery_metrics.json",
+    "bytes": 616,
+    "sha256": "0bddaa23739a6de34349eec6940d3b9b154690897c284d5acce842564c6dd2a5"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_20/relocated_train_events.csv",
+    "bytes": 467055,
+    "sha256": "41d14e24531767dd8288b3576cc39bdd87b4048c9152e220ff5297b8fb41c243"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_20/state.npz",
+    "bytes": 2219618,
+    "sha256": "53a74e589a1459edc30bf778ae9c81d8ba7f8852128307a5841c95f626887dab"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_20/state_events.csv",
+    "bytes": 142223,
+    "sha256": "bca54f3f0c322ba3eda9950dbe00865cbbba2634a74150e58a291b8777ec3a9d"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_20/state_statics.json",
+    "bytes": 9398,
+    "sha256": "f80ea42b57475ac5d98056d86f377fe71fca7649ebc04632a48e78e2b50d5563"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_20/station_statics.csv",
+    "bytes": 7811,
+    "sha256": "351bcb05b6d203a3bf1aed490be1f15b34a641f39fa4ae24694f27eda47f621f"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_20/train_residuals.csv",
+    "bytes": 1084317,
+    "sha256": "30775777a63c37e67bca1b6fe98d34cef257b377d1b5e04acee15610700bd8e8"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_20/vp_final.npz",
+    "bytes": 4479358,
+    "sha256": "fdc5e6f6ac8bc0858db4ddfcc3cdbdfe6ae626f2061d31eb1a363c087b8c487a"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_200/comparison.json",
+    "bytes": 537,
+    "sha256": "2f28ca45f924d2aa1b89eda5d04ca5315475882f714c76badaea6a29f33799b8"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_200/history.json",
+    "bytes": 1090,
+    "sha256": "c78a075aea87abb8d1297e9e34e43f520dbbb1ee9a147d6556832533473a6b09"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_200/holdout_residuals.csv",
+    "bytes": 277069,
+    "sha256": "58e3c311029cbb420034651a4bc084cfb92ce1454371778913eb75b77a306d4b"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_200/recovery_metrics.json",
+    "bytes": 622,
+    "sha256": "a5737acf0f7334f903385ed4b3f19c27be31464116318c8fcab3e0181db67928"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_200/relocated_train_events.csv",
+    "bytes": 466649,
+    "sha256": "126221a1a78b7d8d4895d13e89959d5ba3498be1b0ec143c28ac7b94fec64410"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_200/state.npz",
+    "bytes": 2219618,
+    "sha256": "34ce2e8cfa764f76b5728d7136e0d2cd688d5f11cd366c815a564abe9c207231"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_200/state_events.csv",
+    "bytes": 142338,
+    "sha256": "2a36a1d27690c952993ac11ff6814f18203f63dd2a5fd291077d12c33c3fa2e1"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_200/state_statics.json",
+    "bytes": 9386,
+    "sha256": "6822ad58cbdb75d51d9670db67e5962cb81e911398c72a9c50d5a537686d7135"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_200/station_statics.csv",
+    "bytes": 7799,
+    "sha256": "42f10a83f799dfe51cd287d16bcc6710c832993a447d4ff04275794a7fcb3665"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_200/train_residuals.csv",
+    "bytes": 1084507,
+    "sha256": "5d678914c1c971cf634d817854ee3ca223e6e31c5423bc72ee6fcde2b7de48c0"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_smooth_200/vp_final.npz",
+    "bytes": 4479358,
+    "sha256": "f4a0d9b4d65b767a5e271fdcd16b179896cfa2793404d5643e40fffe96cf0400"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_updated_1d/comparison.json",
+    "bytes": 533,
+    "sha256": "e5efa1d9760e10f7d280c5cbcb3b0fba68dd445361cf3243d43494505c1c25c0"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_updated_1d/history.json",
+    "bytes": 1090,
+    "sha256": "a5d9db8c0baaee90337a1066f2e795729206469f6941269438524c3185c5825d"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_updated_1d/holdout_residuals.csv",
+    "bytes": 276957,
+    "sha256": "efbd904dcb79bb07a2d1287758048db84997cf8e492feee8cb45ad93c04570ef"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_updated_1d/relocated_train_events.csv",
+    "bytes": 466468,
+    "sha256": "c064e575d7ae909673f04d556cd24db5e2b093b87549b55d5925488312998c44"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_updated_1d/state.npz",
+    "bytes": 2219618,
+    "sha256": "d8e53e7d69b965ef40a5f9b2760a9c12bd23c4f1d946c16e34be7a7590e4fdbd"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_updated_1d/state_events.csv",
+    "bytes": 142280,
+    "sha256": "f2f8312ecc8094d274cccb319bd9f4d91b8589cb6f661633a74b7ba704d92a4f"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_updated_1d/state_statics.json",
+    "bytes": 9406,
+    "sha256": "e4aadd869a31ac5abb93e01a61744af8b1c11e8b67988a939974d274621229cb"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_updated_1d/station_statics.csv",
+    "bytes": 7819,
+    "sha256": "61f2516165ea0e2f5cef3e1c6ee404c29d1ccca23fea8eb8b0b320511e4742a9"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_updated_1d/train_residuals.csv",
+    "bytes": 1084323,
+    "sha256": "3bb5796e2a4afe3827bd3880cb12f61f150a9c435f795de3ccad6cab4bbf56b0"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/synthetic_updated_1d/vp_final.npz",
+    "bytes": 4479358,
+    "sha256": "492d3100e3f5b70e63565de5e2f5eee4c634b23d50a583ee5a7694605c52cc72"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/updated_1d/comparison.json",
+    "bytes": 536,
+    "sha256": "9f4328a3916f5f01e6abd6bfccf9b88c8380c389df621d6c2eaf8cef1dde2ae2"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/updated_1d/history.json",
+    "bytes": 3270,
+    "sha256": "5c10841252234ddaf2cff63631a40450e1d26ac5fb31e55fe202580fb4fb48bf"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/updated_1d/holdout_residuals.csv",
+    "bytes": 273454,
+    "sha256": "20f5fa3c589539d76b384c9c9396897658d26b23996b3c6a45460d8114eee113"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/updated_1d/mesh_10.csv",
+    "bytes": 334904,
+    "sha256": "7904b8288ec1d5af4d064284a92f447184c0caaddf8bb4dddb55133a040289f0"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/updated_1d/mesh_2.5.csv",
+    "bytes": 334887,
+    "sha256": "83385584e5f9e4c764ef09f7f5de588ed8d384ebd1ce216619e6cc98081650ac"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/updated_1d/mesh_5.csv",
+    "bytes": 334834,
+    "sha256": "42201724ba4ec2faf8069cf0985ad300f61ac367f4b6787363ae0e602653e92b"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/updated_1d/mesh_convergence.json",
+    "bytes": 777,
+    "sha256": "b67c3d7e29eecea28a0d2a609ddc1e9b68a9badea4212f6af14beb1193b1e772"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/updated_1d/relocated_train_events.csv",
+    "bytes": 462920,
+    "sha256": "e309035668bc312841331cc8d0eb8dbdc32aa8bb5a3b6c358c6f281103f83285"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/updated_1d/state.npz",
+    "bytes": 2219618,
+    "sha256": "d76a0ff38a77c37a1ea6fb0aea5765d26a6253109671d038c2c1724ff743fa34"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/updated_1d/state_events.csv",
+    "bytes": 140959,
+    "sha256": "1a114a6da838f5aa469b763ba33d0ae388f8240db82ecff85d55e6443df3a36a"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/updated_1d/state_statics.json",
+    "bytes": 9379,
+    "sha256": "739cba414c338e645dbb69613509372fad385ddcbcb61758fb6a0a0bc0d24858"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/updated_1d/station_statics.csv",
+    "bytes": 7792,
+    "sha256": "b6733aa83bc3efbd13ad018e14a8fa438a3a5543c51c6ae1cdd9448926932e22"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/updated_1d/train_residuals.csv",
+    "bytes": 1091425,
+    "sha256": "133920e9faa77f8c6f306bca1eb071d4a41b314fcc2533ad7ad86f7bfe4c1385"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/updated_1d/vp_final.npz",
+    "bytes": 4479358,
+    "sha256": "a593633f43879b08d48d245bb99478bf664bbfaaeffa04be783b6839f6710a1a"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/verification.json",
+    "bytes": 134,
+    "sha256": "faac021da2e39a40882332043040f42ff50319df2844dc1c7bdbd91955e2d59d"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/word_cleanup.json",
+    "bytes": 551,
+    "sha256": "4c8e4c5d6ea89f73099bfff62b78a88346404f1d7c9e97ef8afd381bbaa6332b"
+  },
+  {
+    "path": "resultados/revision_independiente_20261011f/estaticas_y_elevacion.csv",
+    "bytes": 33830,
+    "sha256": "c57f08bc156d00143a3eb449a5acd17a8c282dac48fb97bc7fec323867d2958f"
+  },
+  {
+    "path": "resultados/robustez_20261011/synthetic_03pct/synthetic_observations.csv",
+    "bytes": 19112201,
+    "sha256": "104021bc45c4d885665feb9bb5482054537dc56dbf1fa5c66a6ec7f13d46984a"
+  },
+  {
+    "path": "resultados/tomografia_1d_adjunto_consistente_2026-10-10/config.json",
+    "bytes": 1426,
+    "sha256": "64b71bbac553f040a196c5b67b34910059117078d080192ad723392e7d8bcdcd"
+  },
+  {
+    "path": "resultados/tomografia_1d_adjunto_consistente_2026-10-10/domain.json",
+    "bytes": 399,
+    "sha256": "8061a79fc8be3b4002759b47339c4c1a2a3b95f3b1099352db2fe7164f257607"
+  },
+  {
+    "path": "resultados/tomografia_1d_adjunto_consistente_2026-10-10/predictions.csv",
+    "bytes": 13412908,
+    "sha256": "dd5f5594c92fe9b7a26c6eaa7022dc8e45b4f898cd6b6566b0b85ac935b18c56"
+  },
+  {
+    "path": "resultados/tomografia_1d_adjunto_consistente_2026-10-10/vp_final.npz",
+    "bytes": 4257414,
+    "sha256": "4cc151157ac6a9b922a19f630dec32f12dd15c5b5feba6bed5d77c84cb52fd69"
+  }
+]

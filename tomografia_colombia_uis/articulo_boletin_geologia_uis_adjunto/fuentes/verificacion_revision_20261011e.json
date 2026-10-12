@@ -1,0 +1,24 @@
+{
+  "docx_sha256": "7e743427afd91e3fb79723b19631c2e7aa518ccada00bb0ab48d5789e07af8a7",
+  "pages": 39,
+  "figures": 7,
+  "tables": 10,
+  "local_links": [
+    "suplementos/figura_1_fragmentos_sgc.html",
+    "suplementos/figura_2_nurbs_nazca_caribe_sgc.html",
+    "suplementos/clasificacion_kmeans_sgc.html",
+    "suplementos/diagnosticos_revision_d/Figura_S1_ablacion.png",
+    "suplementos/diagnosticos_revision_d/S2_verificacion_numerica.md",
+    "suplementos/robustez_20261011/Informe_robustez_20261011.md",
+    "suplementos/robustez_20261011/figures/Figura_S3_convergencia.png",
+    "suplementos/robustez_20261011/figures/Figura_S4_sinteticos.png",
+    "suplementos/robustez_20261011/figures/Figura_S5_validacion_espacial.png"
+  ],
+  "lsmr_all_converged": true,
+  "failed_jacobian_rows": 0,
+  "original_inputs_unchanged": true,
+  "original_seven_figures_unchanged": true,
+  "protocol_sha256": "5bd6cb504896ed70e7ed5ee9cb886c44236ff218aa046f29770851c312f15761",
+  "scientific_summary_sha256": "6f5451edf4e5024b9d4a1a95b80a0ac7f8025ea93868e1b9e7dcaa0d930482eb",
+  "visual_qa": "All rendered pages inspected before delivery"
+}

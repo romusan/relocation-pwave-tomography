@@ -1,0 +1,73 @@
+{
+  "status": "visual and structural QA passed",
+  "pages": 23,
+  "figures": 3,
+  "tables": 4,
+  "references": 23,
+  "pages_visually_inspected": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "output_sha256": "80eb81e532ca0860cd2a754fc3d0556cadb14281bb54828f7d91f70788d29962",
+  "new_render_pages_inspected": [
+    1,
+    2,
+    9,
+    11,
+    12
+  ],
+  "identical_to_previously_inspected_pages": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    10,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "figure_sha256": {
+    "Figura_1_fragmentos_SGC.png": "e777a5b2be10b1b30a6ebb322749c72f1431f2cf063b2f36e923e311dd9f43d5",
+    "Figura_2_placas_SGC.png": "3b596dbac536dfa815a6554545bd64a43c5a2d363b7542fe0f66822104c3f529",
+    "Figura_3_cortes_inicial_final.png": "3f84e384f3cef071b6c18b938522b325bad900fe0885feecc75308c09def2eab"
+  },
+  "builder_sha256": "ff0ec992e83cdad13be1cc7a765c61e55026f2900c13fa327940a36bee36b78c",
+  "pdf_sha256": "a118adee0c014934eb8318c40653a56b852781829929e841e2c0c62533991530",
+  "original_manuscript_and_science_unchanged": true,
+  "pending_before_submission": [
+    "ORCID and coauthor emails",
+    "Independent nonlinear resolution and grid convergence assessment"
+  ],
+  "discrete_operator_consistency": "resolved and independently checked by finite differences"
+}

@@ -1,0 +1,17 @@
+{
+  "lon_min": -79.0,
+  "lon_max": -71.0,
+  "lat_min": 0.8,
+  "lat_max": 13.0,
+  "prof_min": 0.0,
+  "prof_max": 180.0,
+  "projection_reference_bounds": {
+    "lon_min": -79.0,
+    "lon_max": -71.0,
+    "lat_min": 2.0,
+    "lat_max": 13.0,
+    "prof_min": 0.0,
+    "prof_max": 180.0
+  },
+  "projection_note": "Original AEQD origin preserved; expanded physical domain south to 0.8 N"
+}

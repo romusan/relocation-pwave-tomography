@@ -1,0 +1,72 @@
+[
+  {
+    "model": "homogeneous",
+    "picks": 4597,
+    "station_ids": [
+      "CM.JAMC",
+      "CM.ORTC",
+      "CM.CBOC",
+      "CM.HEL",
+      "CM.ARGC",
+      "CM.CRJC"
+    ],
+    "differences": [
+      {
+        "rms_s": 9.619505780183495e-12,
+        "p95_s": 1.411990524502469e-11
+      },
+      {
+        "rms_s": 2.592028448692973e-11,
+        "p95_s": 3.908553480869157e-11
+      }
+    ],
+    "pass_gate": true,
+    "max_analytic_error_s": 4.4582293412531726e-10
+  },
+  {
+    "model": "initial_1d",
+    "picks": 4597,
+    "station_ids": [
+      "CM.JAMC",
+      "CM.ORTC",
+      "CM.CBOC",
+      "CM.HEL",
+      "CM.ARGC",
+      "CM.CRJC"
+    ],
+    "differences": [
+      {
+        "rms_s": 0.07475217267563963,
+        "p95_s": 0.14016217261243397
+      },
+      {
+        "rms_s": 0.02042041363666399,
+        "p95_s": 0.0437382462577112
+      }
+    ],
+    "pass_gate": true
+  },
+  {
+    "model": "previous_3d",
+    "picks": 4597,
+    "station_ids": [
+      "CM.JAMC",
+      "CM.ORTC",
+      "CM.CBOC",
+      "CM.HEL",
+      "CM.ARGC",
+      "CM.CRJC"
+    ],
+    "differences": [
+      {
+        "rms_s": 0.2995249854077462,
+        "p95_s": 0.5865593459650793
+      },
+      {
+        "rms_s": 0.17193256396573936,
+        "p95_s": 0.3588968918868749
+      }
+    ],
+    "pass_gate": false
+  }
+]

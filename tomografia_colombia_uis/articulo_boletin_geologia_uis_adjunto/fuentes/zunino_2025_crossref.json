@@ -1,0 +1,1208 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          21
+        ]
+      ],
+      "date-time": "2025-08-21T18:36:02Z",
+      "timestamp": 1755801362821,
+      "version": "3.44.0"
+    },
+    "reference-count": 83,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              25
+            ]
+          ],
+          "date-time": "2025-07-25T00:00:00Z",
+          "timestamp": 1753401600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000085",
+        "name": "GEO",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "101058129"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "101058129"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000085",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:title>SUMMARY</jats:title>\n               <jats:p>Seismic traveltime tomography represents a popular and useful tool for unravelling the structure of the subsurface across the scales. In this work we address the case where the forward model is represented by the eikonal equation and derive a formalism to solve the inverse problem where gradients are calculated efficiently using the discrete adjoint state method. Our approach provides gradients with respect to both velocity structure and source locations, allowing us to perform a consistent joint inversion. The forward problem is solved using a second-order fast-marching method, which provides a strategy to efficiently solve the adjoint problem. We allow for arbitrary positions of both sources and receivers and for a refined grid around the source region to reduce errors in computed traveltimes. We show how gradients computed using the discrete adjoint method can be employed to perform either deterministic inversion, that is, solving an optimization problem, or for a probabilistic (Bayesian) approach, that is, obtaining a posterior probability density function. We show applications of our methodology on a set of synthetic examples both in 2-D and 3-D using the L-BFGS algorithm for the deterministic case and the Hamiltonian Monte Carlo algorithm for the probabilistic case.</jats:p>",
+    "DOI": "10.1093/gji/ggaf283",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          25
+        ]
+      ],
+      "date-time": "2025-07-25T14:32:24Z",
+      "timestamp": 1753453944000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "A discrete adjoint method for deterministic and probabilistic eikonal-equation-based inversion of traveltime for velocity and source location"
+    ],
+    "prefix": "10.1093",
+    "volume": "243",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-3415-162X",
+        "authenticated-orcid": false,
+        "given": "Andrea",
+        "family": "Zunino",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "ETH Zurich Department of Earth and Planetary Sciences, , Sonneggstrasse 5, 8092 Zurich ,",
+            "place": [
+              "Switzerland"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Scott",
+        "family": "Keating",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "ETH Zurich Department of Earth and Planetary Sciences, , Sonneggstrasse 5, 8092 Zurich ,",
+            "place": [
+              "Switzerland"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3090-963X",
+        "authenticated-orcid": false,
+        "given": "Andreas",
+        "family": "Fichtner",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "ETH Zurich Department of Earth and Planetary Sciences, , Sonneggstrasse 5, 8092 Zurich ,",
+            "place": [
+              "Switzerland"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          25
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "23",
+        "key": "2025082011065131600_bib1",
+        "doi-asserted-by": "publisher",
+        "first-page": "4381",
+        "DOI": "10.1029/JB081i023p04381",
+        "article-title": "Determination of three-dimensional velocity anomalies under a seismic array using first P arrival times from local earthquakes: 1. A homogeneous initial model",
+        "volume": "81",
+        "author": "Aki",
+        "year": "1976",
+        "journal-title": "J. geophys. Res. (1896-1977)"
+      },
+      {
+        "issue": "3",
+        "key": "2025082011065131600_bib2",
+        "doi-asserted-by": "publisher",
+        "first-page": "R177",
+        "DOI": "10.1190/geo2019-0517.1",
+        "article-title": "Hamiltonian Monte Carlo algorithms for target- and interval-oriented amplitude versus angle inversions",
+        "volume": "85",
+        "author": "Aleardi",
+        "year": "2020",
+        "journal-title": "Geophysics"
+      },
+      {
+        "key": "2025082011065131600_bib3",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.3997/2214-4609.201412568",
+        "article-title": "First Arrival Traveltime Tomography Using the Fast Marching Method and the Adjoint State Technique",
+        "volume-title": "77th EAGE Conference and Exhibition 2015",
+        "author": "Benaichouche",
+        "year": "2015"
+      },
+      {
+        "key": "2025082011065131600_bib4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.48550/arXiv.1701.02434",
+        "article-title": "A Conceptual introduction to Hamiltonian Monte Carlo",
+        "author": "Betancourt",
+        "year": "2018"
+      },
+      {
+        "issue": "1",
+        "key": "2025082011065131600_bib5",
+        "doi-asserted-by": "publisher",
+        "first-page": "65",
+        "DOI": "10.1137/141000671",
+        "article-title": "Julia: a fresh approach to numerical computing",
+        "volume": "59",
+        "author": "Bezanson",
+        "year": "2017",
+        "journal-title": "SIAM Rev."
+      },
+      {
+        "issue": "4",
+        "key": "2025082011065131600_bib6",
+        "doi-asserted-by": "publisher",
+        "first-page": "R147",
+        "DOI": "10.1190/geo2015-0463.1",
+        "article-title": "First-arrival traveltime tomography for anisotropic media using the adjoint-state method",
+        "volume": "81",
+        "author": "bin Waheed",
+        "year": "2016",
+        "journal-title": "Geophysics"
+      },
+      {
+        "issue": "3",
+        "key": "2025082011065131600_bib7",
+        "doi-asserted-by": "publisher",
+        "first-page": "1739",
+        "DOI": "10.1093/gji/ggw356",
+        "article-title": "Global adjoint tomography: first-generation model",
+        "volume": "207",
+        "author": "Bozdağ",
+        "year": "2016",
+        "journal-title": "J. geophys. Int."
+      },
+      {
+        "key": "2025082011065131600_bib8",
+        "doi-asserted-by": "publisher",
+        "first-page": "WCC105",
+        "DOI": "10.1190/1.3215771",
+        "article-title": "Seismic imaging of complex onshore structures by 2D elastic frequency-domain full-waveform inversion",
+        "volume": "74",
+        "author": "Brossier",
+        "year": "2009",
+        "journal-title": "Geophysics"
+      },
+      {
+        "issue": "5",
+        "key": "2025082011065131600_bib9",
+        "doi-asserted-by": "publisher",
+        "first-page": "1457",
+        "DOI": "10.1190/1.1443880",
+        "article-title": "Multiscale seismic waveform inversion",
+        "volume": "60",
+        "author": "Bunks",
+        "year": "1995",
+        "journal-title": "Geophysics"
+      },
+      {
+        "key": "2025082011065131600_bib10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9780511529399",
+        "volume-title": "Seismic Ray Theory",
+        "author": "Cerveny",
+        "year": "2001"
+      },
+      {
+        "issue": "2",
+        "key": "2025082011065131600_bib11",
+        "doi-asserted-by": "publisher",
+        "first-page": "A547",
+        "DOI": "10.1137/10080909X",
+        "article-title": "Fast Two-scale Methods for Eikonal Equations",
+        "volume": "34",
+        "author": "Chacon",
+        "year": "2012",
+        "journal-title": "SIAM J. Sci. Comput."
+      },
+      {
+        "key": "2025082011065131600_bib12",
+        "doi-asserted-by": "publisher",
+        "first-page": "68",
+        "DOI": "10.1007/BFb0010284",
+        "article-title": "Full waveform inversion of seismic data for a viscoelastic medium",
+        "volume-title": "Methods and Applications of Inversion",
+        "author": "Charara",
+        "year": "2000"
+      },
+      {
+        "issue": "65",
+        "key": "2025082011065131600_bib13",
+        "doi-asserted-by": "publisher",
+        "first-page": "3349",
+        "DOI": "10.21105/joss.03349",
+        "article-title": "Makie.jl: Flexible high-performance data visualization for Julia",
+        "volume": "6",
+        "author": "Danisch",
+        "year": "2021",
+        "journal-title": "J. Open Source Softw."
+      },
+      {
+        "issue": "3",
+        "key": "2025082011065131600_bib14",
+        "doi-asserted-by": "publisher",
+        "first-page": "1384",
+        "DOI": "10.1093/gji/ggae112",
+        "article-title": "Hamiltonian Monte Carlo based elastic full-waveform inversion of wide-angle seismic data",
+        "volume": "237",
+        "author": "Dhabaria",
+        "year": "2024",
+        "journal-title": "J. geophys. Int."
+      },
+      {
+        "issue": "2",
+        "key": "2025082011065131600_bib15",
+        "doi-asserted-by": "publisher",
+        "first-page": "216",
+        "DOI": "10.1016/0370-2693(87)91197-X",
+        "article-title": "Hybrid Monte Carlo",
+        "volume": "195",
+        "author": "Duane",
+        "year": "1987",
+        "journal-title": "Phys. Lett. B"
+      },
+      {
+        "volume-title": "Full Seismic Waveform Modelling and Inversion, Advances in Geophysical and Environmental Mechanics and Mathematics",
+        "year": "2011",
+        "author": "Fichtner",
+        "key": "2025082011065131600_bib16"
+      },
+      {
+        "issue": "2",
+        "key": "2025082011065131600_bib17",
+        "doi-asserted-by": "publisher",
+        "first-page": "1344",
+        "DOI": "10.1093/gji/ggy496",
+        "article-title": "Hamiltonian Monte Carlo solution of tomographic inverse problems",
+        "volume": "216",
+        "author": "Fichtner",
+        "year": "2019",
+        "journal-title": "J. geophys. Int."
+      },
+      {
+        "issue": "17",
+        "key": "2025082011065131600_bib18",
+        "doi-asserted-by": "publisher",
+        "first-page": "6440",
+        "DOI": "10.1016/j.jcp.2009.05.029",
+        "article-title": "Fast sweeping method for the factored eikonal equation",
+        "volume": "228",
+        "author": "Fomel",
+        "year": "2009",
+        "journal-title": "J. Comput. Phys."
+      },
+      {
+        "issue": "3",
+        "key": "2025082011065131600_bib19",
+        "doi-asserted-by": "publisher",
+        "first-page": "e2019JB018428",
+        "DOI": "10.1029/2019JB018428",
+        "article-title": "Bayesian Elastic Full-Waveform Inversion Using Hamiltonian Monte Carlo",
+        "volume": "125",
+        "author": "Gebraad",
+        "year": "2020",
+        "journal-title": "J. geophys. Res.: Solid Earth"
+      },
+      {
+        "issue": "2",
+        "key": "2025082011065131600_bib20",
+        "doi-asserted-by": "publisher",
+        "first-page": "341",
+        "DOI": "10.1046/j.1365-246X.1998.00498.x",
+        "article-title": "Gauss-Newton and full Newton methods in frequency-space seismic waveform inversion",
+        "volume": "133",
+        "author": "Pratt",
+        "year": "1998",
+        "journal-title": "J. geophys. Int."
+      },
+      {
+        "issue": "2",
+        "key": "2025082011065131600_bib21",
+        "doi-asserted-by": "publisher",
+        "first-page": "123",
+        "DOI": "10.1111/j.1467-9868.2010.00765.x",
+        "article-title": "Riemann manifold Langevin and Hamiltonian Monte Carlo methods: Riemann Manifold Langevin and Hamiltonian Monte Carlo Methods",
+        "volume": "73",
+        "author": "Girolami",
+        "year": "2011",
+        "journal-title": "J. R. Stat. Soc.: Series B (Statistical Methodology)"
+      },
+      {
+        "issue": "1",
+        "key": "2025082011065131600_bib22",
+        "doi-asserted-by": "publisher",
+        "first-page": "97",
+        "DOI": "10.1093/biomet/57.1.97",
+        "article-title": "Monte Carlo sampling methods using Markov chains and their applications",
+        "volume": "57",
+        "author": "Hastings",
+        "year": "1970",
+        "journal-title": "Biometrika"
+      },
+      {
+        "volume-title": "Optimization with PDE Constraints",
+        "year": "2008",
+        "author": "Hinze",
+        "key": "2025082011065131600_bib23"
+      },
+      {
+        "issue": "1",
+        "key": "2025082011065131600_bib24",
+        "first-page": "1593",
+        "article-title": "The No-U-turn sampler: Adaptively setting path lengths in Hamiltonian Monte Carlo",
+        "volume": "15",
+        "author": "Hoffman",
+        "year": "2014",
+        "journal-title": "J. Mach. Learn. Res."
+      },
+      {
+        "issue": "2",
+        "key": "2025082011065131600_bib25",
+        "doi-asserted-by": "publisher",
+        "first-page": "570",
+        "DOI": "10.1111/j.1365-246X.2011.05273.x",
+        "article-title": "Joint transmission and reflection traveltime tomography using the fast sweeping method and the adjoint-state technique: Joint traveltime tomography",
+        "volume": "188",
+        "author": "Huang",
+        "year": "2012",
+        "journal-title": "J. geophys. Int."
+      },
+      {
+        "issue": "2",
+        "key": "2025082011065131600_bib26",
+        "doi-asserted-by": "publisher",
+        "first-page": "127",
+        "DOI": "10.1016/S0031-9201(00)00206-5",
+        "article-title": "Local earthquake tomography between rays and waves: fat ray tomography",
+        "volume": "123",
+        "author": "Husen",
+        "year": "2001",
+        "journal-title": "Phys. Earth planet. Inter."
+      },
+      {
+        "issue": "B10",
+        "key": "2025082011065131600_bib27",
+        "doi-asserted-by": "publisher",
+        "first-page": "19 635",
+        "DOI": "10.1029/93JB03138",
+        "article-title": "Initial reference models in local earthquake tomography",
+        "volume": "99",
+        "author": "Kissling",
+        "year": "1994",
+        "journal-title": "J. geophys. Res.: Solid Earth"
+      },
+      {
+        "issue": "2",
+        "key": "2025082011065131600_bib28",
+        "doi-asserted-by": "publisher",
+        "first-page": "C107",
+        "DOI": "10.1190/geo2018-0555.1",
+        "article-title": "A discontinuous Galerkin fast-sweeping eikonal solver for fast and accurate traveltime computation in 3D tilted anisotropic media",
+        "volume": "84",
+        "author": "Le Bouteiller",
+        "year": "2019",
+        "journal-title": "Geophysics"
+      },
+      {
+        "issue": "2",
+        "key": "2025082011065131600_bib29",
+        "doi-asserted-by": "publisher",
+        "first-page": "749",
+        "DOI": "10.1111/j.1365-246X.2011.04964.x",
+        "article-title": "Inversion of first-arrival seismic traveltimes without rays, implemented on unstructured grids: Inversion of first-arrivals without rays",
+        "volume": "185",
+        "author": "Lelièvre",
+        "year": "2011",
+        "journal-title": "J. geophys. Int."
+      },
+      {
+        "issue": "1",
+        "key": "2025082011065131600_bib30",
+        "doi-asserted-by": "publisher",
+        "first-page": "249",
+        "DOI": "10.4310/CMS.2006.v4.n1.a10",
+        "article-title": "An adjoint state method for three-dimensional transmission traveltime tomography using first-arrivals",
+        "volume": "4",
+        "author": "Leung",
+        "year": "2006",
+        "journal-title": "Commun. Math. Sci."
+      },
+      {
+        "issue": "6",
+        "key": "2025082011065131600_bib31",
+        "doi-asserted-by": "publisher",
+        "first-page": "U89",
+        "DOI": "10.1190/geo2013-0058.1",
+        "article-title": "First-break traveltime tomography with the double-square-root eikonal equation",
+        "volume": "78",
+        "author": "Li",
+        "year": "2013",
+        "journal-title": "Geophysics"
+      },
+      {
+        "issue": "1",
+        "key": "2025082011065131600_bib32",
+        "doi-asserted-by": "publisher",
+        "first-page": "348",
+        "DOI": "10.1093/gji/ggu262",
+        "article-title": "A level-set adjoint-state method for crosswell transmission-reflection traveltime tomography",
+        "volume": "199",
+        "author": "Li",
+        "year": "2014",
+        "journal-title": "J. geophys. Int."
+      },
+      {
+        "key": "2025082011065131600_bib33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-642-65024-6",
+        "volume-title": "Optimal Control of Systems Governed by Partial Differential Equations",
+        "author": "Lions",
+        "year": "1971"
+      },
+      {
+        "issue": "1",
+        "key": "2025082011065131600_bib34",
+        "doi-asserted-by": "publisher",
+        "first-page": "503",
+        "DOI": "10.1007/BF01589116",
+        "article-title": "On the limited memory BFGS method for large scale optimization",
+        "volume": "45",
+        "author": "Liu",
+        "year": "1989",
+        "journal-title": "Math. Program."
+      },
+      {
+        "issue": "2",
+        "key": "2025082011065131600_bib35",
+        "doi-asserted-by": "publisher",
+        "first-page": "T47",
+        "DOI": "10.1190/geo2010-0363.1",
+        "article-title": "Higher-order schemes for 3D first-arrival traveltimes and amplitudes",
+        "volume": "77",
+        "author": "Luo",
+        "year": "2012",
+        "journal-title": "Geophysics"
+      },
+      {
+        "issue": "6",
+        "key": "2025082011065131600_bib36",
+        "doi-asserted-by": "publisher",
+        "first-page": "1087",
+        "DOI": "10.1063/1.1699114",
+        "article-title": "Equation of state calculations by fast computing machines",
+        "volume": "21",
+        "author": "Metropolis",
+        "year": "1953",
+        "journal-title": "J. Chem. Phys."
+      },
+      {
+        "key": "2025082011065131600_bib37",
+        "doi-asserted-by": "publisher",
+        "first-page": "237",
+        "DOI": "10.1016/S0074-6142(02)80219-4",
+        "article-title": "16 Probabilistic approach to inverse problems",
+        "volume-title": "International Geophysics",
+        "author": "Mosegaard",
+        "year": "2002"
+      },
+      {
+        "key": "2025082011065131600_bib38",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1201/b10905-6",
+        "article-title": "MCMC Using Hamiltonian Dynamics",
+        "volume-title": "Handbook of Markov Chain Monte Carlo",
+        "author": "Neal",
+        "year": "2011"
+      },
+      {
+        "issue": "3",
+        "key": "2025082011065131600_bib39",
+        "doi-asserted-by": "publisher",
+        "first-page": "1572",
+        "DOI": "10.1093/gji/ggu358",
+        "article-title": "Accurate 3-D finite difference computation of traveltimes in strongly heterogeneous media",
+        "volume": "199",
+        "author": "Noble",
+        "year": "2014",
+        "journal-title": "J. geophys. Int."
+      },
+      {
+        "issue": "151",
+        "key": "2025082011065131600_bib40",
+        "doi-asserted-by": "publisher",
+        "first-page": "773",
+        "DOI": "10.1090/S0025-5718-1980-0572855-7",
+        "article-title": "Updating quasi-Newton matrices with limited storage",
+        "volume": "35",
+        "author": "Nocedal",
+        "year": "1980",
+        "journal-title": "Math. Comput."
+      },
+      {
+        "key": "2025082011065131600_bib41",
+        "volume-title": "Numerical Optimization, Springer Series in Operations Research",
+        "author": "Nocedal",
+        "year": "2006",
+        "edition": "2nd edn"
+      },
+      {
+        "key": "2025082011065131600_bib42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9780511984709",
+        "volume-title": "A Breviary of Seismic Tomography",
+        "author": "Nolet",
+        "year": "2008"
+      },
+      {
+        "key": "2025082011065131600_bib43",
+        "doi-asserted-by": "crossref",
+        "first-page": "1774",
+        "DOI": "10.1190/1.1885777",
+        "article-title": "Fast and accurate finite-difference solutions of the 3D eikonal equation parametrized in celerity",
+        "volume-title": "SEG Technical Program Expanded Abstracts 1997",
+        "author": "Pica",
+        "year": "1997"
+      },
+      {
+        "issue": "2",
+        "key": "2025082011065131600_bib44",
+        "doi-asserted-by": "publisher",
+        "first-page": "495",
+        "DOI": "10.1111/j.1365-246X.2006.02978.x",
+        "article-title": "A review of the adjoint-state method for computing the gradient of a functional with geophysical applications",
+        "volume": "167",
+        "author": "Plessix",
+        "year": "2006",
+        "journal-title": "J. geophys. Int."
+      },
+      {
+        "issue": "1",
+        "key": "2025082011065131600_bib45",
+        "doi-asserted-by": "publisher",
+        "first-page": "271",
+        "DOI": "10.1111/j.1365-246X.1991.tb03461.x",
+        "article-title": "Finite difference computation of traveltimes in very contrasted velocity models: a massively parallel approach and its associated tools",
+        "volume": "105",
+        "author": "Podvin",
+        "year": "1991",
+        "journal-title": "J. geophys. Int."
+      },
+      {
+        "issue": "1",
+        "key": "2025082011065131600_bib46",
+        "doi-asserted-by": "publisher",
+        "first-page": "167",
+        "DOI": "10.1190/1.1451472",
+        "article-title": "An adaptive finite-difference method for traveltimes and amplitudes",
+        "volume": "67",
+        "author": "Qian",
+        "year": "2002",
+        "journal-title": "Geophysics"
+      },
+      {
+        "key": "2025082011065131600_bib47",
+        "doi-asserted-by": "publisher",
+        "first-page": "81",
+        "DOI": "10.1016/S0065-2687(03)46002-0",
+        "article-title": "Seismic traveltime tomography of the crust and the lithosphere",
+        "volume-title": "Advances in Geophysics",
+        "author": "Rawlinson",
+        "year": "2003"
+      },
+      {
+        "issue": "5",
+        "key": "2025082011065131600_bib48",
+        "doi-asserted-by": "publisher",
+        "first-page": "1338",
+        "DOI": "10.1190/1.1801950",
+        "article-title": "Multiple reflection and transmission phases in complex layered media using a multistage fast marching method",
+        "volume": "69",
+        "author": "Rawlinson",
+        "year": "2004",
+        "journal-title": "Geophysics"
+      },
+      {
+        "issue": "3",
+        "key": "2025082011065131600_bib49",
+        "doi-asserted-by": "publisher",
+        "first-page": "631",
+        "DOI": "10.1111/j.1365-246X.2004.02153.x",
+        "article-title": "Wavefront evolution in strongly heterogeneous layered media using the fast marching method",
+        "volume": "156",
+        "author": "Rawlinson",
+        "year": "2004",
+        "journal-title": "J. geophys. Int."
+      },
+      {
+        "issue": "3",
+        "key": "2025082011065131600_bib50",
+        "doi-asserted-by": "publisher",
+        "first-page": "101",
+        "DOI": "10.1016/j.pepi.2009.10.002",
+        "article-title": "Seismic tomography: A window into deep Earth",
+        "volume": "178",
+        "author": "Rawlinson",
+        "year": "2010",
+        "journal-title": "Phys. Earth planet. Inter."
+      },
+      {
+        "issue": "3",
+        "key": "2025082011065131600_bib51",
+        "doi-asserted-by": "publisher",
+        "first-page": "1956",
+        "DOI": "10.1093/gji/ggaa555",
+        "article-title": "Consistent seismic event location and subsurface parameters inversion through slope tomography: a variable-projection approach",
+        "volume": "224",
+        "author": "Sambolian",
+        "year": "2021",
+        "journal-title": "J. geophys. Int."
+      },
+      {
+        "key": "2025082011065131600_bib52",
+        "doi-asserted-by": "publisher",
+        "first-page": "1351",
+        "DOI": "10.1190/1.1822780",
+        "article-title": "Gradient calculation of the traveltime cost function without ray tracing",
+        "volume-title": "SEG Technical Program Expanded Abstracts 1994",
+        "author": "Sei",
+        "year": "1994"
+      },
+      {
+        "issue": "3",
+        "key": "2025082011065131600_bib53",
+        "doi-asserted-by": "publisher",
+        "first-page": "R119",
+        "DOI": "10.1190/geo2016-0010.1",
+        "article-title": "Transdimensional seismic inversion using the reversible jump Hamiltonian Monte Carlo algorithm",
+        "volume": "82",
+        "author": "Sen",
+        "year": "2017",
+        "journal-title": "Geophysics"
+      },
+      {
+        "issue": "4",
+        "key": "2025082011065131600_bib54",
+        "doi-asserted-by": "publisher",
+        "first-page": "1591",
+        "DOI": "10.1073/pnas.93.4.1591",
+        "article-title": "A fast marching level set method for monotonically advancing fronts",
+        "volume": "93",
+        "author": "Sethian",
+        "year": "1996",
+        "journal-title": "Proc. Natl Acad. Sci."
+      },
+      {
+        "key": "2025082011065131600_bib55",
+        "doi-asserted-by": "publisher",
+        "first-page": "855",
+        "DOI": "10.1007/978-3-0348-8724-3_36",
+        "article-title": "Advances in fast marching and level set methods for propagating interfaces",
+        "volume-title": "Hyperbolic Problems: Theory, Numerics, Applications",
+        "author": "Sethian",
+        "year": "1999"
+      },
+      {
+        "issue": "2",
+        "key": "2025082011065131600_bib56",
+        "doi-asserted-by": "publisher",
+        "first-page": "199",
+        "DOI": "10.1137/S0036144598347059",
+        "article-title": "Fast Marching Methods",
+        "volume": "41",
+        "author": "Sethian",
+        "year": "1999",
+        "journal-title": "SIAM Rev."
+      },
+      {
+        "issue": "2",
+        "key": "2025082011065131600_bib57",
+        "doi-asserted-by": "publisher",
+        "first-page": "516",
+        "DOI": "10.1190/1.1444558",
+        "article-title": "3-D traveltime computation using the fast marching method",
+        "volume": "64",
+        "author": "Sethian",
+        "year": "1999",
+        "journal-title": "Geophysics"
+      },
+      {
+        "issue": "B10",
+        "key": "2025082011065131600_bib58",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1029/2012JB009525",
+        "article-title": "LLNL-G3Dv3: Global P wave tomography model for improved regional and teleseismic travel time prediction",
+        "volume": "117",
+        "author": "Simmons",
+        "year": "2012",
+        "journal-title": "J. geophys. Res.: Solid Earth"
+      },
+      {
+        "issue": "6",
+        "key": "2025082011065131600_bib59",
+        "doi-asserted-by": "publisher",
+        "first-page": "WCB1",
+        "DOI": "10.1190/1.3250266",
+        "article-title": "First-arrival traveltime tomography based on the adjoint-state method",
+        "volume": "74",
+        "author": "Taillandier",
+        "year": "2009",
+        "journal-title": "Geophysics"
+      },
+      {
+        "issue": "5943",
+        "key": "2025082011065131600_bib60",
+        "doi-asserted-by": "publisher",
+        "first-page": "988",
+        "DOI": "10.1126/science.1175298",
+        "article-title": "Adjoint tomography of the southern California Crust",
+        "volume": "325",
+        "author": "Tape",
+        "year": "2009",
+        "journal-title": "Science"
+      },
+      {
+        "key": "2025082011065131600_bib61",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1137/1.9780898717921",
+        "volume-title": "Inverse Problem Theory and Methods for Model Parameter Estimation",
+        "author": "Tarantola",
+        "year": "2005"
+      },
+      {
+        "issue": "3",
+        "key": "2025082011065131600_bib62",
+        "doi-asserted-by": "publisher",
+        "first-page": "1629",
+        "DOI": "10.1093/gji/ggx111",
+        "article-title": "Slope tomography based on eikonal solvers and the adjoint-state method",
+        "volume": "209",
+        "author": "Tavakoli",
+        "year": "2017",
+        "journal-title": "J. geophys. Int."
+      },
+      {
+        "issue": "B10",
+        "key": "2025082011065131600_bib63",
+        "doi-asserted-by": "publisher",
+        "first-page": "8226",
+        "DOI": "10.1029/JB088iB10p08226",
+        "article-title": "Earthquake locations and three-dimensional crustal structure in the Coyote Lake Area, central California",
+        "volume": "88",
+        "author": "Thurber",
+        "year": "1983",
+        "journal-title": "J. geophys. Res.: Solid Earth"
+      },
+      {
+        "issue": "1",
+        "key": "2025082011065131600_bib64",
+        "doi-asserted-by": "publisher",
+        "first-page": "55",
+        "DOI": "10.1016/0031-9201(92)90117-E",
+        "article-title": "Hypocenter-velocity structure coupling in local earthquake tomography",
+        "volume": "75",
+        "author": "Thurber",
+        "year": "1992",
+        "journal-title": "Phys. Earth planet. Inter."
+      },
+      {
+        "issue": "5",
+        "key": "2025082011065131600_bib65",
+        "doi-asserted-by": "publisher",
+        "first-page": "e2021JB021818",
+        "DOI": "10.1029/2021JB021818",
+        "article-title": "Adjoint-state traveltime tomography: eikonal equation-based methods and application to the Anza area in southern California",
+        "volume": "126",
+        "author": "Tong",
+        "year": "2021",
+        "journal-title": "J. geophys. Res.: Solid Earth"
+      },
+      {
+        "issue": "10",
+        "key": "2025082011065131600_bib66",
+        "doi-asserted-by": "publisher",
+        "first-page": "e2021JB022365",
+        "DOI": "10.1029/2021JB022365",
+        "article-title": "Adjoint-state traveltime tomography for azimuthally anisotropic media and insight into the crustal structure of central California near Parkfield",
+        "volume": "126",
+        "author": "Tong",
+        "year": "2021",
+        "journal-title": "J. geophys. Res.: Solid Earth"
+      },
+      {
+        "issue": "1",
+        "key": "2025082011065131600_bib67",
+        "doi-asserted-by": "publisher",
+        "first-page": "139",
+        "DOI": "10.1093/gji/ggad416",
+        "article-title": "Adjoint-state differential arrival time tomography",
+        "volume": "236",
+        "author": "Tong",
+        "year": "2024",
+        "journal-title": "J. geophys. Int."
+      },
+      {
+        "key": "2025082011065131600_bib68",
+        "doi-asserted-by": "publisher",
+        "first-page": "210",
+        "DOI": "10.1016/j.jcp.2016.08.012",
+        "article-title": "A fast marching algorithm for the factored eikonal equation",
+        "volume": "324",
+        "author": "Treister",
+        "year": "2016",
+        "journal-title": "J. Comput. Phys."
+      },
+      {
+        "issue": "1",
+        "key": "2025082011065131600_bib69",
+        "doi-asserted-by": "publisher",
+        "first-page": "195",
+        "DOI": "10.1111/j.1365-246X.2004.02453.x",
+        "article-title": "Seismic tomography, adjoint methods, time reversal and banana-doughnut kernels: seismic tomography, adjoint methods, time reversal and banana-doughnut kernels",
+        "volume": "160",
+        "author": "Tromp",
+        "year": "2004",
+        "journal-title": "J. geophys. Int."
+      },
+      {
+        "issue": "6",
+        "key": "2025082011065131600_bib70",
+        "doi-asserted-by": "publisher",
+        "first-page": "812",
+        "DOI": "10.1190/1.1443099",
+        "article-title": "Upwind finite-difference calculation of traveltimes",
+        "volume": "56",
+        "author": "van Trier",
+        "year": "1991",
+        "journal-title": "Geophysics"
+      },
+      {
+        "key": "2025082011065131600_bib71",
+        "doi-asserted-by": "publisher",
+        "first-page": "2062",
+        "DOI": "10.1785/BSSA0780062062",
+        "article-title": "Finite-difference calculation of travel times",
+        "volume": "78",
+        "author": "Vidale",
+        "year": "1988",
+        "journal-title": "Bull. seism. Soc. Am."
+      },
+      {
+        "issue": "5",
+        "key": "2025082011065131600_bib72",
+        "doi-asserted-by": "publisher",
+        "first-page": "521",
+        "DOI": "10.1190/1.1442863",
+        "article-title": "Finite-difference calculation of traveltimes in three dimensions",
+        "volume": "55",
+        "author": "Vidale",
+        "year": "1990",
+        "journal-title": "Geophysics"
+      },
+      {
+        "issue": "12",
+        "key": "2025082011065131600_bib73",
+        "doi-asserted-by": "publisher",
+        "first-page": "2057",
+        "DOI": "10.1190/1.1443018",
+        "article-title": "Ray tracing in 3-D complex isotropic media; an analysis of the problem",
+        "volume": "56",
+        "author": "Virieux",
+        "year": "1991",
+        "journal-title": "Geophysics"
+      },
+      {
+        "issue": "6",
+        "key": "2025082011065131600_bib74",
+        "doi-asserted-by": "publisher",
+        "first-page": "WCC1",
+        "DOI": "10.1190/1.3238367",
+        "article-title": "An overview of full-waveform inversion in exploration geophysics",
+        "volume": "74",
+        "author": "Virieux",
+        "year": "2009",
+        "journal-title": "Geophysics"
+      },
+      {
+        "issue": "B4",
+        "key": "2025082011065131600_bib75",
+        "doi-asserted-by": "publisher",
+        "first-page": "7187",
+        "DOI": "10.1029/97JB03536",
+        "article-title": "Three-dimensional seismic refraction tomography: A comparison of two methods applied to data from the Faeroe Basin",
+        "volume": "103",
+        "author": "Zelt",
+        "year": "1998",
+        "journal-title": "J. geophys. Res.: Solid Earth"
+      },
+      {
+        "issue": "2",
+        "key": "2025082011065131600_bib76",
+        "doi-asserted-by": "publisher",
+        "first-page": "171",
+        "DOI": "10.1111/1365-2478.13287",
+        "article-title": "Preconditioned transmission + reflection joint traveltime tomography with adjoint-state method for subsurface velocity model building",
+        "volume": "71",
+        "author": "Zhang",
+        "year": "2023",
+        "journal-title": "Geophys. Prospect."
+      },
+      {
+        "issue": "1",
+        "key": "2025082011065131600_bib77",
+        "doi-asserted-by": "publisher",
+        "first-page": "U17",
+        "DOI": "10.1190/geo2023-0326.1",
+        "article-title": "Eikonal-equation-based characteristic reflection traveltime tomography",
+        "volume": "89",
+        "author": "Zhang",
+        "year": "2024",
+        "journal-title": "Geophysics"
+      },
+      {
+        "issue": "1",
+        "key": "2025082011065131600_bib78",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1111/j.1365-246X.2005.02626.x",
+        "article-title": "Eikonal solver in the celerity domain",
+        "volume": "162",
+        "author": "Zhang",
+        "year": "2005",
+        "journal-title": "J. geophys. Int."
+      },
+      {
+        "issue": "1",
+        "key": "2025082011065131600_bib79",
+        "doi-asserted-by": "publisher",
+        "first-page": "136",
+        "DOI": "10.1093/gji/ggad051",
+        "article-title": "Eikonal equation-based earthquake location with irregular surfaces",
+        "volume": "234",
+        "author": "Zhang",
+        "year": "2023",
+        "journal-title": "J. geophys. Int."
+      },
+      {
+        "issue": "250",
+        "key": "2025082011065131600_bib80",
+        "doi-asserted-by": "publisher",
+        "first-page": "603",
+        "DOI": "10.1090/S0025-5718-04-01678-3",
+        "article-title": "A fast sweeping method for Eikonal equations",
+        "volume": "74",
+        "author": "Zhao",
+        "year": "2005",
+        "journal-title": "Math. Comput."
+      },
+      {
+        "key": "2025082011065131600_bib81",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3997/2214-4609.201801971",
+        "article-title": "Integrating gradient information with probabilistic traveltime tomography using the Hamiltonian Monte Carlo Algorithm",
+        "volume-title": "80th EAGE Conference & Exhibition 2018 Workshop Programme, p.cp",
+        "author": "Zunino",
+        "year": "2018"
+      },
+      {
+        "issue": "20",
+        "key": "2025082011065131600_bib82",
+        "doi-asserted-by": "publisher",
+        "first-page": "e2022GL099789",
+        "DOI": "10.1029/2022GL099789",
+        "article-title": "Hamiltonian Monte Carlo probabilistic joint inversion of 2D (2.75D) gravity and magnetic data",
+        "volume": "49",
+        "author": "Zunino",
+        "year": "2022",
+        "journal-title": "Geophys. Res. Lett."
+      },
+      {
+        "issue": "3",
+        "key": "2025082011065131600_bib83",
+        "doi-asserted-by": "publisher",
+        "first-page": "2979",
+        "DOI": "10.1093/gji/ggad403",
+        "article-title": "HMCLab: A framework for solving diverse geophysical inverse problems using the Hamiltonian Monte Carlo method",
+        "volume": "235",
+        "author": "Zunino",
+        "year": "2023",
+        "journal-title": "J. geophys. Int."
+      }
+    ],
+    "container-title": [
+      "Geophysical Journal International"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://academic.oup.com/gji/advance-article-pdf/doi/10.1093/gji/ggaf283/63851618/ggaf283.pdf",
+        "content-type": "application/pdf",
+        "content-version": "am",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://academic.oup.com/gji/article-pdf/243/1/ggaf283/63851618/ggaf283.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://academic.oup.com/gji/article-pdf/243/1/ggaf283/63851618/ggaf283.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          20
+        ]
+      ],
+      "date-time": "2025-08-20T15:07:03Z",
+      "timestamp": 1755702423000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://academic.oup.com/gji/article/doi/10.1093/gji/ggaf283/8213531"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          25
+        ]
+      ]
+    },
+    "references-count": 83,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            12
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1093/gji/ggaf283",
+    "relation": {},
+    "ISSN": [
+      "0956-540X",
+      "1365-246X"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0956-540X"
+      },
+      {
+        "type": "electronic",
+        "value": "1365-246X"
+      }
+    ],
+    "subject": [],
+    "published-other": {
+      "date-parts": [
+        [
+          2025,
+          10
+        ]
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          25
+        ]
+      ]
+    },
+    "article-number": "ggaf283"
+  }
+}

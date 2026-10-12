@@ -1,0 +1,16 @@
+{
+  "command": [
+    "C:/msys64/ucrt64/bin/g++.exe",
+    "-O3",
+    "-std=c++17",
+    "-shared",
+    "-static",
+    "-static-libgcc",
+    "-static-libstdc++",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\native\\eikonal_adjoint.cpp",
+    "-o",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\native\\eikonal_adjoint.dll"
+  ],
+  "source_sha256": "42c6ce6e7fe3f5ec12375fc01ec060e359d6bca968c938a4960adfdcd922b556",
+  "binary_sha256": "88018e5d1db76918d026cd73c7f69f955dd78ca25ec1af719766b1832fb8cdf9"
+}

@@ -1,0 +1,13 @@
+{
+  "pid": 66864,
+  "reason": "LSMR stop 7 at 1000 iterations in real lambda 200; no result accepted from that solve",
+  "retry_limits": [
+    10000,
+    30000
+  ],
+  "tolerances_unchanged": true,
+  "objective_unchanged": true,
+  "completed_arms_preserved": true,
+  "core_sha256": "1a835930158b24e240789a8037ee6a23928bd230752946f6098e3c8996c729dd",
+  "driver_sha256": "9db9397ac1cdc50f81077a3e10961d2c237614afd45c646b09a14b6fb81af546"
+}

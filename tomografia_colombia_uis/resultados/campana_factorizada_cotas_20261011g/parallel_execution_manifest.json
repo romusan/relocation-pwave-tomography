@@ -1,0 +1,13 @@
+{
+  "sha256": {
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\factorizado_paralelo_20261011g.py": "9a50f99483c82af99fa7eb7b79fd3dddf25725caf26d8d0283f9e0281512b986",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\controles_factorizados_20261011g.py": "b78101fab5e95f4b9f6403df414ae341c842a48ecdd044562c58ab19f4480d74",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\malla_factorizada_memoria_20261011g.py": "3f9e928dc2730557e37442d796cd69e7b1a7d2505adde95f6e3b7335802902bc",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\native\\factored_eikonal_parallel.cpp": "784380a58699d7157a9a93046a9c3f2787be9e47f3eb08c4169f9b95511c1692",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\native\\factored_eikonal_parallel.dll": "59e5a6945957c93f52a5a641a1b5a46b0d3b2d9a686b8a99d606a730419bdbe5"
+  },
+  "adjoint_threads": 4,
+  "station_forward_threads": "4 for inversion grids; 2 for fine synthetic grids",
+  "numerical_change": false,
+  "verification": "parallel_equivalence.json and solver_verification.json"
+}

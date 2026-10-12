@@ -1,0 +1,12 @@
+{
+  "amplitude_fraction": 0.03,
+  "active_cells": 9166,
+  "correlation": 0.1518888781231139,
+  "relative_l2_error": 5.910489303697018,
+  "least_squares_amplitude_ratio": 0.9059329999071588,
+  "sign_agreement": 0.52029238490072,
+  "initial_catalog_rmse_km": 4.960554239987263,
+  "final_3d_hypocentre_rmse_km": 11.274510837633185,
+  "final_1d_hypocentre_rmse_km": 11.912390493355938,
+  "passes_gate": false
+}

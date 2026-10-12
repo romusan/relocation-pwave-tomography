@@ -1,0 +1,3 @@
+# Pulido editorial 20261011c
+
+Se integra «casi tres de cada diez» dentro del paréntesis de §5.1, con punto y coma. La reconciliación de eventos y la explicación de la envolvente Caribe pertenecen al mismo párrafo; se impide su división entre páginas. Resumen y Abstract incorporan la limitación de amplitudes en el 28,5 % de las celdas activas. Ambos permanecen por debajo de 300 palabras. Se conserva la convención explícita de la Figura 5, azul rápido y rojo lento. Los datos, las tablas, las siete imágenes y las métricas de inversión no se modifican. El depósito público y las pruebas adicionales previamente identificadas siguen pendientes.

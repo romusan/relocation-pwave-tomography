@@ -1,0 +1,321 @@
+{
+  "status": "factored_FM_actual_station_elevation",
+  "phases_in_velocity_inversion": [
+    "P"
+  ],
+  "train_events": 2897,
+  "holdout_events": 724,
+  "train_picks": 25714,
+  "holdout_picks": 6590,
+  "direct_shape": [
+    20,
+    143,
+    97
+  ],
+  "inversion_shape": [
+    10,
+    72,
+    49
+  ],
+  "baseline": {
+    "train_rms_fixed_catalog_s": 0.6773999818488374,
+    "holdout_rms_fixed_catalog_origin_s": 0.6810044952205089
+  },
+  "history": [
+    {
+      "round": 1,
+      "train_rms_before_update_s": 0.3398240263863885,
+      "train_rms_after_update_s": 0.30858375751708483,
+      "holdout_rms_fixed_catalog_origin_s": 0.505467947696222,
+      "active_cells": 9201,
+      "train_equations": 25714,
+      "update_accepted": true,
+      "line_search": [
+        {
+          "alpha": 1.0,
+          "train_rms_s": 0.30858375751708483,
+          "cache": {
+            "model_key": "c8baeb6d4602075efcca471b0bf2436535b59cec5690abecc47deb53227b5a2c",
+            "fields_calculated": 267,
+            "fields_loaded": 263,
+            "field_seconds": 546.8799676997587,
+            "resident_field_limit": 90,
+            "operator": "factored FM; physical receiver elevation"
+          }
+        }
+      ],
+      "lsmr": {
+        "istop": 2,
+        "iterations": 675,
+        "normr": 43.03458750343138,
+        "normar": 0.636762830507435,
+        "acond": 17.206234914178555,
+        "converged": true,
+        "shape": [
+          44378,
+          9463
+        ],
+        "nnz": 7396173
+      },
+      "ray_diagnostic": {
+        "operator": "discrete factored FM reverse differentiation including source-cell interpolation",
+        "failed_rows": [],
+        "matrix_nnz": 8452441,
+        "kernel_time_minus_field_median_s": null,
+        "kernel_time_minus_field_p95_abs_s": null,
+        "kernel_time_minus_field_max_abs_s": null,
+        "limitation": "Signed second-order sensitivities; coverage uses absolute values only, inversion retains signed Jacobian"
+      },
+      "cache_before_update": {
+        "model_key": "fde42029ace2a0d84736eb1ffa127dc4f31b800e3f6b743ee612023c26397efd",
+        "fields_calculated": 0,
+        "fields_loaded": 2101,
+        "field_seconds": 21.00366149796173,
+        "resident_field_limit": 90,
+        "operator": "factored FM; physical receiver elevation"
+      },
+      "ray_seconds": 250.65377470012754,
+      "solve_seconds": 20.862759000156075,
+      "round_seconds": 434.9761582000647,
+      "max_abs_station_static_s": 0.4868525832645842
+    },
+    {
+      "round": 2,
+      "train_rms_before_update_s": 0.2892020857271815,
+      "train_rms_after_update_s": 0.2727858177407851,
+      "holdout_rms_fixed_catalog_origin_s": 0.5067484129210007,
+      "active_cells": 9233,
+      "train_equations": 25714,
+      "update_accepted": true,
+      "line_search": [
+        {
+          "alpha": 1.0,
+          "train_rms_s": 0.2727858177407851,
+          "cache": {
+            "model_key": "1a248b395244a154aa04f5758b220927bc9faf3bf458218d05ee500215ffd2be",
+            "fields_calculated": 267,
+            "fields_loaded": 263,
+            "field_seconds": 1192.2251907023601,
+            "resident_field_limit": 90,
+            "operator": "factored FM; physical receiver elevation"
+          }
+        }
+      ],
+      "lsmr": {
+        "istop": 2,
+        "iterations": 637,
+        "normr": 40.32146362713269,
+        "normar": 0.5888790806216129,
+        "acond": 17.47320527721055,
+        "converged": true,
+        "shape": [
+          44442,
+          9495
+        ],
+        "nnz": 8495143
+      },
+      "ray_diagnostic": {
+        "operator": "discrete factored FM reverse differentiation including source-cell interpolation",
+        "failed_rows": [],
+        "matrix_nnz": 9737724,
+        "kernel_time_minus_field_median_s": null,
+        "kernel_time_minus_field_p95_abs_s": null,
+        "kernel_time_minus_field_max_abs_s": null,
+        "limitation": "Signed second-order sensitivities; coverage uses absolute values only, inversion retains signed Jacobian"
+      },
+      "cache_before_update": {
+        "model_key": "c8baeb6d4602075efcca471b0bf2436535b59cec5690abecc47deb53227b5a2c",
+        "fields_calculated": 267,
+        "fields_loaded": 2097,
+        "field_seconds": 558.350360496901,
+        "resident_field_limit": 90,
+        "operator": "factored FM; physical receiver elevation"
+      },
+      "ray_seconds": 244.1679839999415,
+      "solve_seconds": 15.81483340007253,
+      "round_seconds": 635.6986055998132,
+      "max_abs_station_static_s": 0.6228249669653526
+    },
+    {
+      "round": 3,
+      "train_rms_before_update_s": 0.2677255600238722,
+      "train_rms_after_update_s": 0.26274463168030465,
+      "holdout_rms_fixed_catalog_origin_s": 0.523908277696851,
+      "active_cells": 9198,
+      "train_equations": 25714,
+      "update_accepted": true,
+      "line_search": [
+        {
+          "alpha": 1.0,
+          "train_rms_s": 0.2706200094049897,
+          "cache": {
+            "model_key": "76c6371a36f0d63d7aaab01ebee38dd1a238f49073cbe23cbc8ef90b5a8b9777",
+            "fields_calculated": 267,
+            "fields_loaded": 263,
+            "field_seconds": 1245.3586300003808,
+            "resident_field_limit": 90,
+            "operator": "factored FM; physical receiver elevation"
+          }
+        },
+        {
+          "alpha": 0.5,
+          "train_rms_s": 0.26274463168030465,
+          "cache": {
+            "model_key": "fa406d28cb309f9028c855449dfa9e151a89337553c8040b4ccca6ff46c2a6e7",
+            "fields_calculated": 267,
+            "fields_loaded": 263,
+            "field_seconds": 910.8022582968697,
+            "resident_field_limit": 90,
+            "operator": "factored FM; physical receiver elevation"
+          }
+        }
+      ],
+      "lsmr": {
+        "istop": 2,
+        "iterations": 600,
+        "normr": 38.773224084873846,
+        "normar": 0.5643785653112157,
+        "acond": 20.208826453640015,
+        "converged": true,
+        "shape": [
+          44372,
+          9460
+        ],
+        "nnz": 8583315
+      },
+      "ray_diagnostic": {
+        "operator": "discrete factored FM reverse differentiation including source-cell interpolation",
+        "failed_rows": [],
+        "matrix_nnz": 9857174,
+        "kernel_time_minus_field_median_s": null,
+        "kernel_time_minus_field_p95_abs_s": null,
+        "kernel_time_minus_field_max_abs_s": null,
+        "limitation": "Signed second-order sensitivities; coverage uses absolute values only, inversion retains signed Jacobian"
+      },
+      "cache_before_update": {
+        "model_key": "1a248b395244a154aa04f5758b220927bc9faf3bf458218d05ee500215ffd2be",
+        "fields_calculated": 267,
+        "fields_loaded": 2097,
+        "field_seconds": 1246.4228785061277,
+        "resident_field_limit": 90,
+        "operator": "factored FM; physical receiver elevation"
+      },
+      "ray_seconds": 533.1578647999559,
+      "solve_seconds": 56.73152839997783,
+      "round_seconds": 1228.9579974000808,
+      "max_abs_station_static_s": 0.6413507127060557
+    }
+  ],
+  "station_static_reference": "CM.ACH1",
+  "linear_resolution": {
+    "kind": "not run: nonlinear campaign"
+  },
+  "final_ray_diagnostic": {
+    "operator": "discrete factored FM reverse differentiation including source-cell interpolation",
+    "failed_rows": [],
+    "matrix_nnz": 9892940,
+    "kernel_time_minus_field_median_s": null,
+    "kernel_time_minus_field_p95_abs_s": null,
+    "kernel_time_minus_field_max_abs_s": null,
+    "limitation": "Signed second-order sensitivities; coverage uses absolute values only, inversion retains signed Jacobian"
+  },
+  "linear_lcurve": {
+    "file": "linear_lcurve.csv",
+    "solutions": 0,
+    "converged_solutions": 0,
+    "limitation": "linearized sensitivity at final model; no retuning on holdout"
+  },
+  "projection_audit": {
+    "crs_wkt": "PROJCRS[\"unknown\",BASEGEOGCRS[\"unknown\",DATUM[\"World Geodetic System 1984\",ELLIPSOID[\"WGS 84\",6378137,298.257223563,LENGTHUNIT[\"metre\",1]],ID[\"EPSG\",6326]],PRIMEM[\"Greenwich\",0,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8901]]],CONVERSION[\"unknown\",METHOD[\"Azimuthal Equidistant\",ID[\"EPSG\",1125]],PARAMETER[\"Latitude of natural origin\",7.5,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8801]],PARAMETER[\"Longitude of natural origin\",-75,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8802]],PARAMETER[\"False easting\",0,LENGTHUNIT[\"metre\",1],ID[\"EPSG\",8806]],PARAMETER[\"False northing\",0,LENGTHUNIT[\"metre\",1],ID[\"EPSG\",8807]]],CS[Cartesian,2],AXIS[\"(E)\",east,ORDER[1],LENGTHUNIT[\"metre\",1,ID[\"EPSG\",9001]]],AXIS[\"(N)\",north,ORDER[2],LENGTHUNIT[\"metre\",1,ID[\"EPSG\",9001]]]]",
+    "roundtrip_max_deg": 1.4210854715202004e-14,
+    "sampled_pairs": 2984,
+    "pair_distance_max_error_km": 1.871868724451815,
+    "pair_distance_max_relative_error_percent": 0.23866372564589344,
+    "depth_convention": "positive down; stations at depth=-elevation_km",
+    "limitation": "local Cartesian physics; Earth curvature not included in eikonal"
+  },
+  "config": {
+    "solver_spacing_km": 10.0,
+    "inversion_spacing_km": 20.0,
+    "relocation_radius_km": 10.0,
+    "rounds": 3,
+    "vp_min_km_s": 4.0,
+    "vp_max_km_s": 8.8,
+    "max_velocity_fraction_per_round": 0.05,
+    "min_ray_hits": 20,
+    "laplace_weight": 2.0,
+    "cell_damping": 3.0,
+    "station_damping": 2.0,
+    "station_statics": true,
+    "max_static_step_s": 0.5,
+    "lsmr_maxiter": 1000,
+    "lsmr_atol": 1e-06,
+    "lsmr_btol": 1e-06,
+    "min_p_stations": 4,
+    "min_probability_p": 0.3,
+    "min_probability_s": 0.3,
+    "association_window_p_s": 8.0,
+    "association_window_s_s": 12.0,
+    "ambiguity_margin_s": 0.5,
+    "max_origin_shift_s": 8.0,
+    "vp_vs_association": 1.73,
+    "sigma_p_s": 1.0,
+    "holdout_fraction": 0.2,
+    "seed": 20261009,
+    "scoring_backend": "cpp",
+    "fsm_sweeps": 8,
+    "time_field_memory_limit_mb": 384,
+    "q_initial": 60.0,
+    "q_min": 10.0,
+    "q_max": 1000.0,
+    "q_cell_damping": 20.0,
+    "q_site_damping": 2.0,
+    "q_laplace_weight": 10.0,
+    "notes": "Experimental parameters, not calibrated regionally. P-only velocity inversion; S retained for QC. First-order FSM and 26-neighbour backtrace. Q requires measured delta_tstar with uncertainty.",
+    "ray_backend": "factored_cpp",
+    "cache_directory": "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\campana_factorizada_cotas_20261011g\\cache",
+    "kernel_coverage_min_equivalent_length_km": 0.1,
+    "factored_order": 2,
+    "station_elevation": true
+  },
+  "domain": {
+    "lon_min": -79.0,
+    "lon_max": -71.0,
+    "lat_min": 0.8,
+    "lat_max": 13.0,
+    "prof_min": 0.0,
+    "prof_max": 180.0,
+    "projection_reference_bounds": {
+      "lon_min": -79.0,
+      "lon_max": -71.0,
+      "lat_min": 2.0,
+      "lat_max": 13.0,
+      "prof_min": 0.0,
+      "prof_max": 180.0
+    },
+    "projection_note": "Original AEQD origin preserved; expanded physical domain south to 0.8 N"
+  },
+  "station_elevation_km": {
+    "enabled": true,
+    "method": "receiver at continuous XYZ, depth=-elevation; factored station-centred mesh"
+  },
+  "sources": {
+    "protocol_sha256": "9b855ea9f15761f2009ab477acc0a9b1ee32d417e97309dbad4c561c877de0f5"
+  },
+  "seconds_total": 3212.480546399951,
+  "environment": {
+    "python": "3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.22631-SP0",
+    "numpy": "2.4.6",
+    "pandas": "3.0.3",
+    "scipy": "1.18.0",
+    "numba": "0.67.0",
+    "pyproj": "3.8.0"
+  },
+  "limitations": [
+    "Station-centred shifted grids use interpolated slowness; adjoint differentiates this interpolation.",
+    "Negative depth is extrapolated surface rock, not explicit topography or Earth curvature.",
+    "Relocation searches 10-km grid nodes; heldout predictions use continuous hypocentres.",
+    "Mesh and nonlinear resolution are independent gates."
+  ]
+}

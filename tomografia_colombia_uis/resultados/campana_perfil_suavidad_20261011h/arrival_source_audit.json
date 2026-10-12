@@ -1,0 +1,55 @@
+{
+  "rows": 32304,
+  "unmatched_rows": 0,
+  "automatic_source_rows": 13496,
+  "published_source_rows": 18808,
+  "both_classes_rows": 0,
+  "files": [
+    {
+      "path": "datos/ampliacion_choco_caribe_2026-10-10/picks_nuevos.csv",
+      "selected_matches": 117,
+      "sha256": "a535480a601d66ef1a50a21d73a847242730aecb5866599e043cb447604991dc"
+    },
+    {
+      "path": "datos/ampliacion_choco_caribe_senales_fuertes_2026-10-10/picks_nuevos.csv",
+      "selected_matches": 544,
+      "sha256": "5066ca6c350f11a81baf4e7e4c35329e80f607dd70b926108bc48577b754d2bb"
+    },
+    {
+      "path": "datos/caribe_1d_estaciones_completas_2026-10-10/picks_publicados.csv",
+      "selected_matches": 6111,
+      "sha256": "ab67b7dd1737c1196f87da398f061a7c4795b7500d5c213f7eb843e1ac77f108"
+    },
+    {
+      "path": "datos/caribe_1d_estaciones_completas_2026-10-10/picks_regionales.csv",
+      "selected_matches": 6075,
+      "sha256": "d3181fe28b933a93d1b666073ae6b086c2dad00be485525070cd12bba95fcd28"
+    },
+    {
+      "path": "datos/carma_caribe_2026-10-10/picks_nuevos.csv",
+      "selected_matches": 497,
+      "sha256": "facd7784b10a2922dd8d0257cecc6c0af86feafec19d9509612b708cefbed398"
+    },
+    {
+      "path": "datos/eje_caribe_1d_2026-10-10/picks_publicados.csv",
+      "selected_matches": 16433,
+      "sha256": "01f52eeacfcd020417649791d0d3afe276efd7b1834cce8c2eac74d6710e1f4b"
+    },
+    {
+      "path": "datos/internacional_choco_2026-10-10/picks_isc_regionales_sgc.csv",
+      "selected_matches": 870,
+      "sha256": "41482e6472f3ad0d258f8839d89aab4c735c502e3bf0806885e9ba12cc7e4189"
+    },
+    {
+      "path": "datos/nazca_cauca_valle_eje_2026-10-10/picks_publicados.csv",
+      "selected_matches": 9732,
+      "sha256": "5dd7bc1ec7ac4057dee700facd8be9b03299d7201f2e54c81952f72855d8bf52"
+    },
+    {
+      "path": "datos/picks_phasenet.csv",
+      "selected_matches": 12338,
+      "sha256": "9485062d63ca849cb202d001ed80ca4532d231ac6079faf6171c3d866c761f4f"
+    }
+  ],
+  "note": "Exact event/station/phase/UTC pick timestamp/probability match using selected or explicitly recorded original network; retains IR-to-CM reconciliation. Source names alone do not establish neural model version; generator scripts and weight manifests must also be inspected."
+}

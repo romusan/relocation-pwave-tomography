@@ -1,0 +1,37 @@
+{
+  "events": 3621,
+  "picks": 32304,
+  "origin_start_utc": "2015-04-07 14:00:21+00:00",
+  "origin_end_utc": "2026-10-02 10:45:15+00:00",
+  "undated_events": 0,
+  "phase_counts": {
+    "P": 32304
+  },
+  "published_phase_counts": {
+    "P": 13819,
+    "not_recorded": 13496,
+    "Pn": 4923,
+    "Pg": 66
+  },
+  "reporting_agency_counts": {
+    "not_recorded": 32304
+  },
+  "origin_agency_counts": {
+    "not_recorded": 2819,
+    "RSNC": 691,
+    "ISC": 109,
+    "UPA": 1,
+    "FUNV": 1
+  },
+  "event_id_samples": [
+    "SGC2019lddvr",
+    "SGC2016wwdq",
+    "SGC2020riodrk",
+    "SGC2019zptplh"
+  ],
+  "minimum_distinct_locations_per_event": 4,
+  "events_with_fewer_than_four_distinct_locations_1m": 0,
+  "duplicate_event_location_arrival_at_1ms": 0,
+  "duplicate_definition": "extra rows sharing event, receiver position rounded to 1 m, and observed_s rounded to 1 ms; this audit does not remove records or identify instrumentation provenance",
+  "events_without_sgc_identifier": 0
+}

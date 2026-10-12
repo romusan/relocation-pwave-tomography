@@ -1,0 +1,7 @@
+{
+  "bitwise_same_fields": true,
+  "bitwise_same_adjoint_rows": true,
+  "bitwise_same_deduplicated_rows": true,
+  "threads": 4,
+  "rows": 12
+}

@@ -1,0 +1,45 @@
+{
+  "definition": "100 * (Vp_final / Vp_initial - 1), at identical spatial coordinates",
+  "color_scale_percent": [
+    -16,
+    16
+  ],
+  "positive": "blue; faster than initial 1D",
+  "negative": "red; slower than initial 1D",
+  "inactive": "gray; no active coverage",
+  "earthquakes": "relocated SGC training events within longitude +/- 0.25 degrees",
+  "sampling": {
+    "latitude_step_deg": 0.18,
+    "depth_step_km": 20
+  },
+  "sections": [
+    {
+      "longitude_deg": -77,
+      "active_section_samples": 275,
+      "minimum_percent": -14.262500000000012,
+      "maximum_percent": 15.76249999999999
+    },
+    {
+      "longitude_deg": -76,
+      "active_section_samples": 327,
+      "minimum_percent": -14.262500000000033,
+      "maximum_percent": 15.762500000000035
+    },
+    {
+      "longitude_deg": -74,
+      "active_section_samples": 372,
+      "minimum_percent": -14.262500000000033,
+      "maximum_percent": 15.762500000000035
+    }
+  ],
+  "input_sha256": {
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\cortes_anomalias_articulo_20261010.py": "8d239b040b79511267b30a19ecd3e777e35c89b1257edfc3bc7d8f92ff39aa87",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\tomografia_1d_adjunto_consistente_2026-10-10\\vp_final.npz": "4cc151157ac6a9b922a19f630dec32f12dd15c5b5feba6bed5d77c84cb52fd69",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\tomografia_1d_adjunto_consistente_2026-10-10\\domain.json": "8061a79fc8be3b4002759b47339c4c1a2a3b95f3b1099352db2fe7164f257607",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\tomografia_1d_adjunto_consistente_2026-10-10\\relocated_train_events.csv": "4185be79881869d979606e0b1b49c2091e2997878fdd7d0ba4b8013a548fd7ac"
+  },
+  "output_sha256": {
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\articulo_boletin_geologia_uis_adjunto\\figuras\\Figura_5_cortes_anomalias_Vp.png": "4b450cfdbd4464c8d0edd567e0f4c691b6bfce1c8dbefbec7e2b16a3b51ec216",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\articulo_boletin_geologia_uis_adjunto\\fuentes\\cortes_anomalias_vp.npz": "ea1f4e3a82efeb5ea802d5b67fbc25c4b6eac353ae84ccd7408a59a2ee2ddb6a"
+  }
+}

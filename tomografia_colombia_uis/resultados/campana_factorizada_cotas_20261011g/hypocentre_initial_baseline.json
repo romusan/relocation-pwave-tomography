@@ -1,0 +1,7 @@
+{
+  "training_events": 2897,
+  "continuous_catalog_rmse_km": 4.960554239987263,
+  "initial_search_nodes_rmse_km": 7.101306229987781,
+  "grid_spacing_km": 10.0,
+  "definition": "Euclidean 3D RMS before inversion; same frozen perturbations for both amplitudes"
+}

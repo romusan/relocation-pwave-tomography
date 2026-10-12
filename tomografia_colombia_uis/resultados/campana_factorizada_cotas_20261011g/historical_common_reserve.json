@@ -1,0 +1,23 @@
+{
+  "initial_1d": {
+    "rms_s": 1.5815040344984657,
+    "median_abs_s": 0.9332635564453166,
+    "p90_abs_s": 2.364393124275166,
+    "trimmed95_rms_s": 1.231462106780248
+  },
+  "control_1d": {
+    "rms_s": 1.506781418356373,
+    "median_abs_s": 0.892255281309774,
+    "p90_abs_s": 2.2392480713078533,
+    "trimmed95_rms_s": 1.1749684144391797
+  },
+  "final_3d": {
+    "rms_s": 1.5352437416653417,
+    "median_abs_s": 0.9304110054358419,
+    "p90_abs_s": 2.3110859177807432,
+    "trimmed95_rms_s": 1.212462136928384
+  },
+  "heldout_picks": 6590,
+  "heldout_events": 724,
+  "interpretation": "historical surface-snapped first-order operator and full original training population; evaluated only on new matched reserve rows, not a refit on the new training population"
+}

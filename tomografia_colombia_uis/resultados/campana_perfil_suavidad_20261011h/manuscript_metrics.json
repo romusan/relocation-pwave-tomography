@@ -1,0 +1,722 @@
+{
+  "real": [
+    {
+      "kind": "fixed",
+      "laplace_weight": 0.0,
+      "train": {
+        "rms_s": 0.7603118743563914,
+        "median_abs_s": 0.296621730702626,
+        "p90_abs_s": 1.0856237377236049,
+        "trimmed95_rms_s": 0.5080115357845684
+      },
+      "holdout": {
+        "rms_s": 1.8814875081730191,
+        "median_abs_s": 1.0871021545615933,
+        "p90_abs_s": 2.879793429452585,
+        "trimmed95_rms_s": 1.4966891579995882
+      },
+      "rounds": 11,
+      "converged": true,
+      "stop": "training_objective_plateau",
+      "parameters": 0,
+      "reference_station": "CM.ACH1",
+      "arm": "fixed_1d",
+      "comparison_to_updated_1d": {
+        "delta_rms_3d_minus_1d_s": 0.11819548469181029,
+        "ci95_s": [
+          0.0679395754507338,
+          0.1666389563975441
+        ],
+        "replicates": 3000,
+        "unit": "event"
+      },
+      "roughness_neighbor_slowness_rms_s_per_km": 0.0,
+      "bounds_active_cells": {
+        "physical_lower": 0,
+        "physical_upper": 0,
+        "cumulative_lower_step": 0
+      },
+      "active_cells": 9196,
+      "audit": {
+        "finite_physical_velocity_bounds": true,
+        "predictions_rms_recomputed": true,
+        "monotone_training_objective": true,
+        "parameter_basis_preserved": true
+      }
+    },
+    {
+      "kind": "1d",
+      "laplace_weight": 20.0,
+      "train": {
+        "rms_s": 0.682152385737588,
+        "median_abs_s": 0.2844424757937112,
+        "p90_abs_s": 0.9992196730881358,
+        "trimmed95_rms_s": 0.4693774888631516
+      },
+      "holdout": {
+        "rms_s": 1.7632920234812088,
+        "median_abs_s": 1.1809884043877923,
+        "p90_abs_s": 2.6979714122594203,
+        "trimmed95_rms_s": 1.4685283498674104
+      },
+      "rounds": 12,
+      "converged": false,
+      "stop": "predefined_maximum_rounds",
+      "parameters": 19,
+      "reference_station": "CM.ACH1",
+      "arm": "updated_1d",
+      "comparison_to_updated_1d": {
+        "delta_rms_3d_minus_1d_s": 0.0,
+        "ci95_s": [
+          0.0,
+          0.0
+        ],
+        "replicates": 3000,
+        "unit": "event"
+      },
+      "roughness_neighbor_slowness_rms_s_per_km": 0.008070177272225554,
+      "bounds_active_cells": {
+        "physical_lower": 0,
+        "physical_upper": 0,
+        "cumulative_lower_step": 0
+      },
+      "active_cells": 9196,
+      "mesh": {
+        "differences": [
+          {
+            "rms_s": 0.02850278919562395,
+            "p95_s": 0.061751160550597456
+          },
+          {
+            "rms_s": 0.021992463307638904,
+            "p95_s": 0.05355670701761282
+          }
+        ],
+        "pass_gate": true,
+        "held": [
+          {
+            "rms_s": 1.7674024527588876,
+            "median_abs_s": 1.237337541952818,
+            "p90_abs_s": 2.603058995732448,
+            "trimmed95_rms_s": 1.472699385692021
+          },
+          {
+            "rms_s": 1.7696181579316368,
+            "median_abs_s": 1.237866751042982,
+            "p90_abs_s": 2.618103585695061,
+            "trimmed95_rms_s": 1.4732361578989155
+          },
+          {
+            "rms_s": 1.7738653402054927,
+            "median_abs_s": 1.2545600942779798,
+            "p90_abs_s": 2.6331251331727126,
+            "trimmed95_rms_s": 1.476474944610416
+          }
+        ]
+      },
+      "audit": {
+        "finite_physical_velocity_bounds": true,
+        "predictions_rms_recomputed": true,
+        "monotone_training_objective": true,
+        "parameter_basis_preserved": true
+      }
+    },
+    {
+      "kind": "3d",
+      "laplace_weight": 2.0,
+      "train": {
+        "rms_s": 0.5719763133632791,
+        "median_abs_s": 0.24418308278395356,
+        "p90_abs_s": 0.8513560102304282,
+        "trimmed95_rms_s": 0.40241627401397395
+      },
+      "holdout": {
+        "rms_s": 1.6924920537075943,
+        "median_abs_s": 0.9920565966063957,
+        "p90_abs_s": 2.6708352890832816,
+        "trimmed95_rms_s": 1.3743275099043997
+      },
+      "rounds": 12,
+      "converged": false,
+      "stop": "predefined_maximum_rounds",
+      "parameters": 9196,
+      "reference_station": "CM.ACH1",
+      "arm": "real_smooth_2",
+      "comparison_to_updated_1d": {
+        "delta_rms_3d_minus_1d_s": -0.07079996977361458,
+        "ci95_s": [
+          -0.11490843574376959,
+          -0.03036689989811648
+        ],
+        "replicates": 3000,
+        "unit": "event"
+      },
+      "roughness_neighbor_slowness_rms_s_per_km": 0.02284109153066636,
+      "bounds_active_cells": {
+        "physical_lower": 53,
+        "physical_upper": 920,
+        "cumulative_lower_step": 53
+      },
+      "active_cells": 9196,
+      "mesh": {
+        "differences": [
+          {
+            "rms_s": 0.39578433104007826,
+            "p95_s": 0.8348520458538331
+          },
+          {
+            "rms_s": 0.24564984213793256,
+            "p95_s": 0.5190773675802717
+          }
+        ],
+        "pass_gate": false,
+        "held": [
+          {
+            "rms_s": 1.6637481527680922,
+            "median_abs_s": 0.9994478243161414,
+            "p90_abs_s": 2.524589535822437,
+            "trimmed95_rms_s": 1.3327482801137103
+          },
+          {
+            "rms_s": 1.8476061554935819,
+            "median_abs_s": 1.154866416743383,
+            "p90_abs_s": 2.802915318229085,
+            "trimmed95_rms_s": 1.5015791571472485
+          },
+          {
+            "rms_s": 2.000066553529974,
+            "median_abs_s": 1.277429114861145,
+            "p90_abs_s": 3.063718922350797,
+            "trimmed95_rms_s": 1.6481753595701134
+          }
+        ]
+      },
+      "audit": {
+        "finite_physical_velocity_bounds": true,
+        "predictions_rms_recomputed": true,
+        "monotone_training_objective": true,
+        "parameter_basis_preserved": true
+      }
+    },
+    {
+      "kind": "3d",
+      "laplace_weight": 20.0,
+      "train": {
+        "rms_s": 0.5865581525642137,
+        "median_abs_s": 0.24315719098605562,
+        "p90_abs_s": 0.8481485237441383,
+        "trimmed95_rms_s": 0.40012351170845656
+      },
+      "holdout": {
+        "rms_s": 1.9352472495390898,
+        "median_abs_s": 1.3585571566188575,
+        "p90_abs_s": 2.9840522975177146,
+        "trimmed95_rms_s": 1.6544987804665177
+      },
+      "rounds": 12,
+      "converged": false,
+      "stop": "predefined_maximum_rounds",
+      "parameters": 9196,
+      "reference_station": "CM.ACH1",
+      "arm": "real_smooth_20",
+      "comparison_to_updated_1d": {
+        "delta_rms_3d_minus_1d_s": 0.17195522605788094,
+        "ci95_s": [
+          0.1313661879512038,
+          0.21213669302484825
+        ],
+        "replicates": 3000,
+        "unit": "event"
+      },
+      "roughness_neighbor_slowness_rms_s_per_km": 0.005370066367572941,
+      "bounds_active_cells": {
+        "physical_lower": 0,
+        "physical_upper": 387,
+        "cumulative_lower_step": 0
+      },
+      "active_cells": 9196,
+      "mesh": {
+        "differences": [
+          {
+            "rms_s": 0.11503215043978345,
+            "p95_s": 0.232336029245097
+          },
+          {
+            "rms_s": 0.05710965845542215,
+            "p95_s": 0.11272677362445925
+          }
+        ],
+        "pass_gate": true,
+        "held": [
+          {
+            "rms_s": 1.9435667007281439,
+            "median_abs_s": 1.4280820890763066,
+            "p90_abs_s": 2.9167309868755544,
+            "trimmed95_rms_s": 1.6496149227474355
+          },
+          {
+            "rms_s": 2.002317345972092,
+            "median_abs_s": 1.483940791137641,
+            "p90_abs_s": 2.9922534381153683,
+            "trimmed95_rms_s": 1.7036369164866272
+          },
+          {
+            "rms_s": 2.0313778108812595,
+            "median_abs_s": 1.5088583945043246,
+            "p90_abs_s": 3.0113723845373026,
+            "trimmed95_rms_s": 1.7283322065025937
+          }
+        ]
+      },
+      "audit": {
+        "finite_physical_velocity_bounds": true,
+        "predictions_rms_recomputed": true,
+        "monotone_training_objective": true,
+        "parameter_basis_preserved": true
+      }
+    },
+    {
+      "kind": "3d",
+      "laplace_weight": 200.0,
+      "train": {
+        "rms_s": 0.6345292981423932,
+        "median_abs_s": 0.26767623307581173,
+        "p90_abs_s": 0.9233178473271086,
+        "trimmed95_rms_s": 0.437025237134026
+      },
+      "holdout": {
+        "rms_s": 1.700910828763555,
+        "median_abs_s": 1.104708513875441,
+        "p90_abs_s": 2.6320958387071443,
+        "trimmed95_rms_s": 1.4182882983543323
+      },
+      "rounds": 12,
+      "converged": false,
+      "stop": "predefined_maximum_rounds",
+      "parameters": 9196,
+      "reference_station": "CM.ACH1",
+      "arm": "real_smooth_200",
+      "comparison_to_updated_1d": {
+        "delta_rms_3d_minus_1d_s": -0.0623811947176538,
+        "ci95_s": [
+          -0.09159332324937187,
+          -0.034129985478468815
+        ],
+        "replicates": 3000,
+        "unit": "event"
+      },
+      "roughness_neighbor_slowness_rms_s_per_km": 0.0011404289010281466,
+      "bounds_active_cells": {
+        "physical_lower": 0,
+        "physical_upper": 72,
+        "cumulative_lower_step": 0
+      },
+      "active_cells": 9196,
+      "mesh": {
+        "differences": [
+          {
+            "rms_s": 0.06277718871729256,
+            "p95_s": 0.1119782467011475
+          },
+          {
+            "rms_s": 0.019203299800537515,
+            "p95_s": 0.03911960938298193
+          }
+        ],
+        "pass_gate": true,
+        "held": [
+          {
+            "rms_s": 1.7169195471692007,
+            "median_abs_s": 1.214256123589089,
+            "p90_abs_s": 2.5189897594719275,
+            "trimmed95_rms_s": 1.4425783467142066
+          },
+          {
+            "rms_s": 1.7224892350614032,
+            "median_abs_s": 1.21046303395684,
+            "p90_abs_s": 2.552586970984176,
+            "trimmed95_rms_s": 1.4418851260400647
+          },
+          {
+            "rms_s": 1.7212611205276653,
+            "median_abs_s": 1.2057751681692712,
+            "p90_abs_s": 2.5480262765807797,
+            "trimmed95_rms_s": 1.4384766022921376
+          }
+        ]
+      },
+      "audit": {
+        "finite_physical_velocity_bounds": true,
+        "predictions_rms_recomputed": true,
+        "monotone_training_objective": true,
+        "parameter_basis_preserved": true
+      }
+    }
+  ],
+  "synthetic": [
+    {
+      "kind": "1d",
+      "laplace_weight": 20.0,
+      "train": {
+        "rms_s": 1.1256053772507344,
+        "median_abs_s": 0.5777924409902988,
+        "p90_abs_s": 1.758131066814997,
+        "trimmed95_rms_s": 0.8653658088826167
+      },
+      "holdout": {
+        "rms_s": 1.4658453138007173,
+        "median_abs_s": 0.8939321987502649,
+        "p90_abs_s": 2.216424916122299,
+        "trimmed95_rms_s": 1.161022285909004
+      },
+      "rounds": 4,
+      "converged": false,
+      "stop": "predefined_maximum_rounds",
+      "parameters": 19,
+      "reference_station": "CM.ACH1",
+      "arm": "synthetic_updated_1d",
+      "initial_catalog_train_hypocentre_rmse_km": 4.960554239987263,
+      "final_train_hypocentre_rmse_km": 27.607497512669145,
+      "hypocentre_train_events": 2897,
+      "comparison_to_updated_1d": {
+        "delta_rms_3d_minus_1d_s": 0.0,
+        "ci95_s": [
+          0.0,
+          0.0
+        ],
+        "replicates": 3000,
+        "unit": "event"
+      }
+    },
+    {
+      "kind": "3d",
+      "laplace_weight": 2.0,
+      "train": {
+        "rms_s": 1.0886496953754083,
+        "median_abs_s": 0.5482010902787784,
+        "p90_abs_s": 1.7286548025822037,
+        "trimmed95_rms_s": 0.8443654189317418
+      },
+      "holdout": {
+        "rms_s": 1.5267867165893372,
+        "median_abs_s": 0.9478584549957113,
+        "p90_abs_s": 2.3096682303069853,
+        "trimmed95_rms_s": 1.2252518159542785
+      },
+      "rounds": 4,
+      "converged": false,
+      "stop": "predefined_maximum_rounds",
+      "parameters": 9196,
+      "reference_station": "CM.ACH1",
+      "correlation": 0.056449669216870474,
+      "relative_l2_error": 8.043438838005285,
+      "arm": "synthetic_smooth_2",
+      "initial_catalog_train_hypocentre_rmse_km": 4.960554239987263,
+      "final_train_hypocentre_rmse_km": 27.461273156367543,
+      "hypocentre_train_events": 2897,
+      "comparison_to_updated_1d": {
+        "delta_rms_3d_minus_1d_s": 0.060941402788619925,
+        "ci95_s": [
+          0.04547629253663998,
+          0.0781459328529837
+        ],
+        "replicates": 3000,
+        "unit": "event"
+      }
+    },
+    {
+      "kind": "3d",
+      "laplace_weight": 20.0,
+      "train": {
+        "rms_s": 1.081025791853889,
+        "median_abs_s": 0.5458154999255882,
+        "p90_abs_s": 1.702565660248951,
+        "trimmed95_rms_s": 0.8335601726788018
+      },
+      "holdout": {
+        "rms_s": 1.482699553342991,
+        "median_abs_s": 0.8836495709674096,
+        "p90_abs_s": 2.220693494730686,
+        "trimmed95_rms_s": 1.1661288538382533
+      },
+      "rounds": 4,
+      "converged": false,
+      "stop": "predefined_maximum_rounds",
+      "parameters": 9196,
+      "reference_station": "CM.ACH1",
+      "correlation": 0.00712826252736503,
+      "relative_l2_error": 4.080510988767563,
+      "arm": "synthetic_smooth_20",
+      "initial_catalog_train_hypocentre_rmse_km": 4.960554239987263,
+      "final_train_hypocentre_rmse_km": 27.707199665740223,
+      "hypocentre_train_events": 2897,
+      "comparison_to_updated_1d": {
+        "delta_rms_3d_minus_1d_s": 0.01685423954227372,
+        "ci95_s": [
+          0.008419441754078716,
+          0.025389412144734197
+        ],
+        "replicates": 3000,
+        "unit": "event"
+      }
+    },
+    {
+      "kind": "3d",
+      "laplace_weight": 200.0,
+      "train": {
+        "rms_s": 1.1177190781333848,
+        "median_abs_s": 0.5690650980308956,
+        "p90_abs_s": 1.7575293675843084,
+        "trimmed95_rms_s": 0.8601650904346484
+      },
+      "holdout": {
+        "rms_s": 1.470110416844745,
+        "median_abs_s": 0.9025990143748882,
+        "p90_abs_s": 2.210298820351592,
+        "trimmed95_rms_s": 1.1663193396968876
+      },
+      "rounds": 4,
+      "converged": false,
+      "stop": "predefined_maximum_rounds",
+      "parameters": 9196,
+      "reference_station": "CM.ACH1",
+      "correlation": 0.00016317198315193154,
+      "relative_l2_error": 1.532941764075562,
+      "arm": "synthetic_smooth_200",
+      "initial_catalog_train_hypocentre_rmse_km": 4.960554239987263,
+      "final_train_hypocentre_rmse_km": 27.778799159152967,
+      "hypocentre_train_events": 2897,
+      "comparison_to_updated_1d": {
+        "delta_rms_3d_minus_1d_s": 0.004265103044027718,
+        "ci95_s": [
+          -0.0002949925192205435,
+          0.008971243064889452
+        ],
+        "replicates": 3000,
+        "unit": "event"
+      }
+    }
+  ],
+  "effective_errors": {
+    "source": "training catalog-continuous 1D residuals minus fitted station correction, median centered; effective errors, not independent picker errors",
+    "training_samples": 25714,
+    "sample_rms_s": 1.414889156267294,
+    "sample_median_abs_s": 0.7749925771744635,
+    "synthetic_rms_s": 1.3972917937634866,
+    "seed": 20261011,
+    "explicit_origin_static_noise_injection": false
+  },
+  "elevation": {
+    "stations": 262,
+    "reference": "CM.ACH1",
+    "zero_slope_s_per_km": 0.1322614049609231,
+    "actual_slope_s_per_km": 0.04031400991695968,
+    "paired_slope_difference_actual_minus_zero_s_per_km": -0.0919473950439634,
+    "paired_ci95_s_per_km": [
+      -0.10252782471261541,
+      -0.08075078040808066
+    ],
+    "rms_actual": {
+      "rms_s": 1.8814875081730191,
+      "median_abs_s": 1.0871021545615933,
+      "p90_abs_s": 2.879793429452585,
+      "trimmed95_rms_s": 1.4966891579995882
+    },
+    "rms_zero": {
+      "rms_s": 1.998284667661202,
+      "median_abs_s": 1.2307662213087174,
+      "p90_abs_s": 3.067476142258027,
+      "trimmed95_rms_s": 1.6210638532632038
+    },
+    "paired_event_bootstrap": {
+      "delta_rms_3d_minus_1d_s": -0.11679715948818292,
+      "ci95_s": [
+        -0.12187525538210185,
+        -0.11205586697850341
+      ],
+      "replicates": 3000,
+      "unit": "event",
+      "delta_rms_actual_minus_zero_s": -0.11679715948818292
+    },
+    "limitation": "Matched computational contrast; no geology covariate; station bootstrap ignores spatial dependence; does not establish the cause of the earlier first-order versus factored RMS difference",
+    "actual_control": {
+      "kind": "fixed",
+      "laplace_weight": 0.0,
+      "train": {
+        "rms_s": 0.7603118743563914,
+        "median_abs_s": 0.296621730702626,
+        "p90_abs_s": 1.0856237377236049,
+        "trimmed95_rms_s": 0.5080115357845684
+      },
+      "holdout": {
+        "rms_s": 1.8814875081730191,
+        "median_abs_s": 1.0871021545615933,
+        "p90_abs_s": 2.879793429452585,
+        "trimmed95_rms_s": 1.4966891579995882
+      },
+      "rounds": 11,
+      "converged": true,
+      "stop": "training_objective_plateau",
+      "parameters": 0,
+      "reference_station": "CM.ACH1"
+    },
+    "zero_control": {
+      "kind": "fixed",
+      "laplace_weight": 0.0,
+      "train": {
+        "rms_s": 0.766310366136588,
+        "median_abs_s": 0.2973312548828764,
+        "p90_abs_s": 1.1046811969556802,
+        "trimmed95_rms_s": 0.5134775878734933
+      },
+      "holdout": {
+        "rms_s": 1.9982846676612018,
+        "median_abs_s": 1.2307662213087174,
+        "p90_abs_s": 3.0674761422580272,
+        "trimmed95_rms_s": 1.6210638532632038
+      },
+      "rounds": 12,
+      "converged": true,
+      "stop": "training_objective_plateau",
+      "parameters": 0,
+      "reference_station": "CM.ACH1"
+    }
+  },
+  "data": {
+    "events": 3621,
+    "magnitude_known": 3606,
+    "magnitude_missing_or_conflicting": 15,
+    "magnitude_conflicting_events": 0,
+    "magnitude_types": {
+      "MLr_1": 1007,
+      "MLr_2": 830,
+      "MLr_4": 700,
+      "ML": 342,
+      "MLr_vmm": 329,
+      "MLr_3": 157,
+      "MLr": 87,
+      "MW": 56,
+      "M_MLr": 42,
+      "M": 27,
+      "not_available": 15,
+      "Mw(mB)": 14,
+      "MLv": 8,
+      "Mw": 5,
+      "Mwp": 2
+    },
+    "source_catalogs": [
+      "datos/eje_caribe_1d_2026-10-10/catalogo_sgc.csv",
+      "datos/nazca_cauca_valle_eje_2026-10-10/catalogo_sgc.csv"
+    ],
+    "depth_range_km": [
+      0.0,
+      179.95
+    ],
+    "probability_equal_one": 18808,
+    "probability_below_one": 13496,
+    "campaign_groups": {
+      "not_recorded": 19279,
+      "eje": 4550,
+      "valle": 3827,
+      "caribe": 2880,
+      "cauca": 610,
+      "CARMA todos los receptores regionales": 497,
+      "Caribe 9–13 N": 421,
+      "Choco nuevo profundo": 240
+    },
+    "association_window_max_abs_retained_s": 7.9977776803620415,
+    "published_phase_missing": 13496,
+    "picker_note": "prob=1 is assigned by published-arrival importers; it is not a calibrated neural-picker score; individual picker identity unavailable for imported published arrivals",
+    "magnitude_range_mixed_types": [
+      0.5,
+      6.1
+    ]
+  },
+  "arrival_sources": {
+    "rows": 32304,
+    "unmatched_rows": 0,
+    "automatic_source_rows": 13496,
+    "published_source_rows": 18808,
+    "both_classes_rows": 0,
+    "files": [
+      {
+        "path": "datos/ampliacion_choco_caribe_2026-10-10/picks_nuevos.csv",
+        "selected_matches": 117,
+        "sha256": "a535480a601d66ef1a50a21d73a847242730aecb5866599e043cb447604991dc"
+      },
+      {
+        "path": "datos/ampliacion_choco_caribe_senales_fuertes_2026-10-10/picks_nuevos.csv",
+        "selected_matches": 544,
+        "sha256": "5066ca6c350f11a81baf4e7e4c35329e80f607dd70b926108bc48577b754d2bb"
+      },
+      {
+        "path": "datos/caribe_1d_estaciones_completas_2026-10-10/picks_publicados.csv",
+        "selected_matches": 6111,
+        "sha256": "ab67b7dd1737c1196f87da398f061a7c4795b7500d5c213f7eb843e1ac77f108"
+      },
+      {
+        "path": "datos/caribe_1d_estaciones_completas_2026-10-10/picks_regionales.csv",
+        "selected_matches": 6075,
+        "sha256": "d3181fe28b933a93d1b666073ae6b086c2dad00be485525070cd12bba95fcd28"
+      },
+      {
+        "path": "datos/carma_caribe_2026-10-10/picks_nuevos.csv",
+        "selected_matches": 497,
+        "sha256": "facd7784b10a2922dd8d0257cecc6c0af86feafec19d9509612b708cefbed398"
+      },
+      {
+        "path": "datos/eje_caribe_1d_2026-10-10/picks_publicados.csv",
+        "selected_matches": 16433,
+        "sha256": "01f52eeacfcd020417649791d0d3afe276efd7b1834cce8c2eac74d6710e1f4b"
+      },
+      {
+        "path": "datos/internacional_choco_2026-10-10/picks_isc_regionales_sgc.csv",
+        "selected_matches": 870,
+        "sha256": "41482e6472f3ad0d258f8839d89aab4c735c502e3bf0806885e9ba12cc7e4189"
+      },
+      {
+        "path": "datos/nazca_cauca_valle_eje_2026-10-10/picks_publicados.csv",
+        "selected_matches": 9732,
+        "sha256": "5dd7bc1ec7ac4057dee700facd8be9b03299d7201f2e54c81952f72855d8bf52"
+      },
+      {
+        "path": "datos/picks_phasenet.csv",
+        "selected_matches": 12338,
+        "sha256": "9485062d63ca849cb202d001ed80ca4532d231ac6079faf6171c3d866c761f4f"
+      }
+    ],
+    "note": "Exact event/station/phase/UTC pick timestamp/probability match using selected or explicitly recorded original network; retains IR-to-CM reconciliation. Source names alone do not establish neural model version; generator scripts and weight manifests must also be inspected."
+  },
+  "verification": {
+    "depth_basis_relative_fd_error": 2.7927825273237216e-10,
+    "absolute_regularization_scalar_exact": true,
+    "pass_gate": true
+  },
+  "protocol": {
+    "data_sha256": "351291feeb7cf7e04b7455b271b1c1b5427ec7b8c9ce81b8e46a90fa21bec005",
+    "code_sha256": "1a835930158b24e240789a8037ee6a23928bd230752946f6098e3c8996c729dd",
+    "arms": [
+      "fixed_1d",
+      "updated_1d",
+      "3d_lambda_2",
+      "3d_lambda_20",
+      "3d_lambda_200"
+    ],
+    "smooth_values": [
+      2.0,
+      20.0,
+      200.0
+    ],
+    "max_rounds": 12,
+    "stopping": "two consecutive training objective relative changes <0.001 and max Vp fractional change <0.005; minimum four rounds; never stop on holdout",
+    "regularization": "absolute departure slowness from reference, not only update; fixed support from first g round; static absolute damping",
+    "synthetic": "3 percent truth, effective empirical centered errors from main training catalog residuals only; stress test, not picker uncertainty; all three smooth weights; four rounds",
+    "mesh": "same six preselected stations and 4597 observations at 10/5/2.5 km",
+    "seed": 20261011,
+    "limitations": [
+      "Finite round cap must be reported if convergence fails",
+      "Main holdout used for reporting sweep, not choosing an independent unbiased winner",
+      "Catalog origin/hypocentre remain conditional; Pn/Pg not separately followed"
+    ]
+  }
+}

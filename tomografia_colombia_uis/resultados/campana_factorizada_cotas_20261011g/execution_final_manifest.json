@@ -1,0 +1,24 @@
+{
+  "status": "all finite experiments completed; structural and mesh gates not passed",
+  "runtime_threads": {
+    "OPENBLAS_NUM_THREADS": 1,
+    "MKL_NUM_THREADS": 1,
+    "OMP_NUM_THREADS": 4
+  },
+  "code_sha256": {
+    "codigos/controles_factorizados_20261011g.py": "549b183ac93948c3748d64e431a2bfd58a955b2ce1be61a017dea8b5360f9b98",
+    "codigos/factorizado_paralelo_20261011g.py": "e48a326c387bca05e6c36c204389103d4ac5de93b8ac381e7ece66e1b879f513",
+    "codigos/malla_modelo_final_factorizado_20261011g.py": "5b63e6d3463949d872271a997236b35b4fd6ec399e771bf64298f7d4ed90314e",
+    "codigos/precalcular_campos_factorizados_20261011g.py": "50baa4aba5c9a32ed1088b84b630a2119d7a4a8496486a13095e22662127bac1"
+  },
+  "verified_frozen_protocol_sha256": {
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\campana_factorizada_cotas_20261011g.py": "4c147843eb8dc5778d8192a605f344ebfbf9808779e26884ec7c22322176c918",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\regional\\factored.py": "7619893c4c0089d499b216ab28a663f8a54630682111e5203f2f5d73d1ffd9e2",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\native\\factored_eikonal.cpp": "b7b046e90670705a76fca08ec2e34e8ac8a667b1ae050ae00771b9d994f37418",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\native\\factored_eikonal.dll": "1e4b72e13f52e0e65c797d494f7b34aebb8c4ec524fbcd89ac4689d10d05bd50",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\tomografia_1d_adjunto_consistente_2026-10-10\\predictions.csv": "dd5f5594c92fe9b7a26c6eaa7022dc8e45b4f898cd6b6566b0b85ac935b18c56",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\tomografia_1d_adjunto_consistente_2026-10-10\\vp_final.npz": "4cc151157ac6a9b922a19f630dec32f12dd15c5b5feba6bed5d77c84cb52fd69",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\revision_independiente_20261011f\\estaticas_y_elevacion.csv": "c57f08bc156d00143a3eb449a5acd17a8c282dac48fb97bc7fec323867d2958f",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\regional\\pipeline_consistent.py": "a6d0b188d9de39bcb8706b420c18a0f2f3c468b7582ec9b08288f3f0664dc46f"
+  }
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "round": 1,
+    "train_rms_s": 0.8417628515500554,
+    "holdout_rms_s": 1.9981036075795926,
+    "objective": 18276.860193616343,
+    "accepted": true,
+    "max_vp_fraction": 0.0,
+    "seconds": 18.999647099990398,
+    "lsmr_istop": 2
+  },
+  {
+    "round": 2,
+    "train_rms_s": 0.7904995430681213,
+    "holdout_rms_s": 1.977339550825985,
+    "objective": 16174.147635036492,
+    "accepted": true,
+    "max_vp_fraction": 0.0,
+    "seconds": 20.080724200000986,
+    "lsmr_istop": 2
+  },
+  {
+    "round": 3,
+    "train_rms_s": 0.775412172702871,
+    "holdout_rms_s": 1.961796419405012,
+    "objective": 15590.002909039496,
+    "accepted": true,
+    "max_vp_fraction": 0.0,
+    "seconds": 18.878209799993783,
+    "lsmr_istop": 2
+  },
+  {
+    "round": 4,
+    "train_rms_s": 0.768905919268809,
+    "holdout_rms_s": 1.9483501798252394,
+    "objective": 15344.417594894283,
+    "accepted": true,
+    "max_vp_fraction": 0.0,
+    "seconds": 19.915783799951896,
+    "lsmr_istop": 2
+  },
+  {
+    "round": 5,
+    "train_rms_s": 0.765630305993624,
+    "holdout_rms_s": 1.9362564014354073,
+    "objective": 15225.08621757056,
+    "accepted": true,
+    "max_vp_fraction": 0.0,
+    "seconds": 21.961619999958202,
+    "lsmr_istop": 2
+  },
+  {
+    "round": 6,
+    "train_rms_s": 0.7636093811337162,
+    "holdout_rms_s": 1.9248351927641805,
+    "objective": 15153.398661713807,
+    "accepted": true,
+    "max_vp_fraction": 0.0,
+    "seconds": 21.110114900162444,
+    "lsmr_istop": 2
+  },
+  {
+    "round": 7,
+    "train_rms_s": 0.7625035454500413,
+    "holdout_rms_s": 1.914970797435222,
+    "objective": 15118.159036872887,
+    "accepted": true,
+    "max_vp_fraction": 0.0,
+    "seconds": 19.42938550002873,
+    "lsmr_istop": 2
+  },
+  {
+    "round": 8,
+    "train_rms_s": 0.7617476311930294,
+    "holdout_rms_s": 1.9059048177042928,
+    "objective": 15095.97498990438,
+    "accepted": true,
+    "max_vp_fraction": 0.0,
+    "seconds": 19.634586500003934,
+    "lsmr_istop": 2
+  },
+  {
+    "round": 9,
+    "train_rms_s": 0.7610286920528981,
+    "holdout_rms_s": 1.8972992633725787,
+    "objective": 15074.327948531716,
+    "accepted": true,
+    "max_vp_fraction": 0.0,
+    "seconds": 19.511072400026023,
+    "lsmr_istop": 2
+  },
+  {
+    "round": 10,
+    "train_rms_s": 0.7606037227539731,
+    "holdout_rms_s": 1.889330865940288,
+    "objective": 15063.908182931975,
+    "accepted": true,
+    "max_vp_fraction": 0.0,
+    "seconds": 21.705924400128424,
+    "lsmr_istop": 2
+  },
+  {
+    "round": 11,
+    "train_rms_s": 0.7603118743563914,
+    "holdout_rms_s": 1.8814875081730191,
+    "objective": 15057.466135364379,
+    "accepted": true,
+    "max_vp_fraction": 0.0,
+    "seconds": 19.576541000045836,
+    "lsmr_istop": 2
+  }
+]

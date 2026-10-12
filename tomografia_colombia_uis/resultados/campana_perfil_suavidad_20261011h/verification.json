@@ -1,0 +1,5 @@
+{
+  "depth_basis_relative_fd_error": 2.7927825273237216e-10,
+  "absolute_regularization_scalar_exact": true,
+  "pass_gate": true
+}

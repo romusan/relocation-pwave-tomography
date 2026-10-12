@@ -1,0 +1,37 @@
+{
+  "scope": "same six stations selected before refinement; no refit, frozen models/statics, continuous catalog hypocentres, holdout only",
+  "station_ids": [
+    "CM.JAMC",
+    "CM.ORTC",
+    "CM.CBOC",
+    "CM.HEL",
+    "CM.ARGC",
+    "CM.CRJC"
+  ],
+  "results": [
+    {
+      "spacing_km": 10,
+      "held_picks": 915,
+      "held_events": 464,
+      "rms_control_1d_s": 1.9893867950626773,
+      "rms_3d_s": 1.914312234507165,
+      "delta_3d_minus_control_s": -0.07507456055551232
+    },
+    {
+      "spacing_km": 5,
+      "held_picks": 915,
+      "held_events": 464,
+      "rms_control_1d_s": 2.0242467654254424,
+      "rms_3d_s": 2.091387022767466,
+      "delta_3d_minus_control_s": 0.06714025734202345
+    },
+    {
+      "spacing_km": 2.5,
+      "held_picks": 915,
+      "held_events": 464,
+      "rms_control_1d_s": 2.0274311343767124,
+      "rms_3d_s": 2.2131548407550654,
+      "delta_3d_minus_control_s": 0.185723706378353
+    }
+  ]
+}

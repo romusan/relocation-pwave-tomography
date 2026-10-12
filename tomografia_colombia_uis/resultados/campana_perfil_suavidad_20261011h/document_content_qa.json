@@ -1,0 +1,22 @@
+{
+  "docx": "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\articulo_boletin_geologia_uis_adjunto\\Manuscrito_tomografia_Vp_Colombia_UIS_revision_20261011h.docx",
+  "tables": 6,
+  "main_figures": 2,
+  "editable_equations": 7,
+  "external_hyperlinks": [
+    "https://orcid.org/",
+    "mailto:romulo@ecci.edu.co",
+    "https://github.com/romusan/relocation-pwave-tomography/tree/tomografia-colombia-uis-h/tomografia_colombia_uis",
+    "suplementos/Datos_estaciones_magnitudes_profundidades.png",
+    "suplementos/RMS_por_ronda.png",
+    "suplementos/rms_por_ronda.csv",
+    "suplementos/Perfiles_velocidad.png",
+    "suplementos/Damero_efectivo.png",
+    "suplementos/Estaticas_elevacion.png",
+    "suplementos/figura_1_fragmentos_sgc.html",
+    "suplementos/figura_2_nurbs_nazca_caribe_sgc.html",
+    "suplementos/clasificacion_kmeans_sgc.html"
+  ],
+  "numerical_values_match_completed_reports": true,
+  "requires_separate_visual_review": true
+}

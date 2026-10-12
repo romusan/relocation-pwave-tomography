@@ -1,0 +1,8 @@
+{
+  "primary_graphical_lambda": 20,
+  "selection": "predefined middle weight, not chosen by holdout advantage",
+  "active_cells": 9196,
+  "anomaly_color_range_percent": 41.0,
+  "color_rule": "symmetric common range enclosing all active values in the three displayed slices; no clipped values",
+  "mask": "fixed inversion support; not a resolution mask; grey means outside parameter support"
+}

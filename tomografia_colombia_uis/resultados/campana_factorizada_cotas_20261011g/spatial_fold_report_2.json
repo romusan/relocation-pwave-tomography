@@ -1,0 +1,30 @@
+[
+  {
+    "control_1d": {
+      "rms_s": 1.886477154734842,
+      "median_abs_s": 0.9986947303758217,
+      "p90_abs_s": 3.024358943656337,
+      "trimmed95_rms_s": 1.5111631148374323
+    },
+    "model_3d": {
+      "rms_s": 1.9928172580371815,
+      "median_abs_s": 1.247753739882149,
+      "p90_abs_s": 3.1746906092046956,
+      "trimmed95_rms_s": 1.666407938436833
+    },
+    "paired_bootstrap": {
+      "delta_rms_3d_minus_1d_s": 0.10634010330233945,
+      "ci95_s": [
+        0.08445906634893871,
+        0.12951319443501713
+      ],
+      "replicates": 3000,
+      "unit": "event"
+    },
+    "train_events": 1840,
+    "holdout_events": 1611,
+    "holdout_picks": 12759,
+    "fold": 2,
+    "excluded_buffer_events": 170
+  }
+]

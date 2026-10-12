@@ -1,0 +1,4 @@
+{
+  "script_sha256": "3f9e928dc2730557e37442d796cd69e7b1a7d2505adde95f6e3b7335802902bc",
+  "implementation": "same trilinear model interpolation, sampled by slices to avoid sparse projection allocation; no change to forward operator or acceptance gates"
+}

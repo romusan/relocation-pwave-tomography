@@ -1,0 +1,36 @@
+{
+  "DOI": "10.1016/j.jcp.2009.05.029",
+  "author": [
+    {
+      "given": "Sergey",
+      "family": "Fomel"
+    },
+    {
+      "given": "Songting",
+      "family": "Luo"
+    },
+    {
+      "given": "Hongkai",
+      "family": "Zhao"
+    }
+  ],
+  "title": [
+    "Fast sweeping method for the factored eikonal equation"
+  ],
+  "container-title": [
+    "Journal of Computational Physics"
+  ],
+  "volume": "228",
+  "issue": "17",
+  "page": "6440\u20136455",
+  "type": "journal-article",
+  "published": {
+    "date-parts": [
+      [
+        2009,
+        9,
+        20
+      ]
+    ]
+  }
+}

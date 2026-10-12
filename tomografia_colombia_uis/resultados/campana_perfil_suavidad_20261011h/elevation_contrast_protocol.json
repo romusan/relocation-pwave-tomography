@@ -1,0 +1,6 @@
+{
+  "changes": "only receiver elevation set to zero; same population, factored solver, initial profile, partitions, absolute station damping and training stopping criterion",
+  "parent_code_sha256": "1a835930158b24e240789a8037ee6a23928bd230752946f6098e3c8996c729dd",
+  "data_sha256": "351291feeb7cf7e04b7455b271b1c1b5427ec7b8c9ce81b8e46a90fa21bec005",
+  "case_code_sha256": "ede4a40689acd3a26b0796abd905e92cc8c53baf1d494b17d6a1f30818052af1"
+}

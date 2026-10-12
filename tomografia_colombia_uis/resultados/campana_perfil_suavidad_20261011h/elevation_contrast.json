@@ -1,0 +1,33 @@
+{
+  "stations": 262,
+  "reference": "CM.ACH1",
+  "zero_slope_s_per_km": 0.1322614049609231,
+  "actual_slope_s_per_km": 0.04031400991695968,
+  "paired_slope_difference_actual_minus_zero_s_per_km": -0.0919473950439634,
+  "paired_ci95_s_per_km": [
+    -0.10252782471261541,
+    -0.08075078040808066
+  ],
+  "rms_actual": {
+    "rms_s": 1.8814875081730191,
+    "median_abs_s": 1.0871021545615933,
+    "p90_abs_s": 2.879793429452585,
+    "trimmed95_rms_s": 1.4966891579995882
+  },
+  "rms_zero": {
+    "rms_s": 1.998284667661202,
+    "median_abs_s": 1.2307662213087174,
+    "p90_abs_s": 3.067476142258027,
+    "trimmed95_rms_s": 1.6210638532632038
+  },
+  "paired_event_bootstrap": {
+    "delta_rms_3d_minus_1d_s": -0.11679715948818292,
+    "ci95_s": [
+      -0.12187525538210185,
+      -0.11205586697850341
+    ],
+    "replicates": 3000,
+    "unit": "event"
+  },
+  "limitation": "Matched computational contrast; no geology covariate; station bootstrap ignores spatial dependence; does not establish the cause of the earlier first-order versus factored RMS difference"
+}

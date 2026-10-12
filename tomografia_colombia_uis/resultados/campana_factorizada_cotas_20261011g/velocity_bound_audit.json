@@ -1,0 +1,10 @@
+{
+  "active_cells": 9373,
+  "definition": "active inversion cells containing at least one direct-grid node at the specified limit",
+  "upper_physical_8p8": 1298,
+  "lower_physical_4": 0,
+  "lower_cumulative_three_5pct_steps": 1151,
+  "union_upper_and_cumulative": 2449,
+  "union_percent": 26.128240691347486,
+  "cumulative_lower_relative_vp": 0.8573749999999999
+}

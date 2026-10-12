@@ -1,0 +1,299 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ],
+      "date-time": "2026-10-06T16:41:39Z",
+      "timestamp": 1791304899208,
+      "version": "4.3.1"
+    },
+    "reference-count": 26,
+    "publisher": "Society for Industrial & Applied Mathematics (SIAM)",
+    "issue": "5",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "SIAM J. Sci. Comput."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:p>An iterative method LSMR is presented for solving linear systems $Ax=b$ and least-squares problems $\\min \\|Ax-b\\|_2$, with A being sparse or a fast linear operator. LSMR is based on the Golub–Kahan bidiagonalization process. It is analytically equivalent to the MINRES method applied to the normal equation $A^T\\! Ax = A^T\\! b$, so that the quantities $\\|A^T\\! r_k\\|$ are monotonically decreasing (where $r_k = b - Ax_k$ is the residual for the current iterate $x_k$). We observe in practice that $\\|r_k\\|$ also decreases monotonically, so that compared to LSQR (for which only $\\|r_k\\|$ is monotonic) it is safer to terminate LSMR early. We also report some experiments with reorthogonalization.</jats:p>",
+    "DOI": "10.1137/10079687x",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          27
+        ]
+      ],
+      "date-time": "2011-10-27T18:46:13Z",
+      "timestamp": 1319741173000
+    },
+    "page": "2950-2971",
+    "source": "Crossref",
+    "is-referenced-by-count": 374,
+    "title": [
+      "LSMR: An Iterative Algorithm for Sparse Least-Squares Problems"
+    ],
+    "prefix": "10.1137",
+    "volume": "33",
+    "author": [
+      {
+        "given": "David Chin-Lung",
+        "family": "Fong",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Saunders",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "351",
+    "published-online": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          27
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "R1",
+        "unstructured": "M. Arioli and S. Gratton,\n                      Least-Squares Problems, Normal Equations, and Stopping Criteria for the Conjugate Gradient Method\n                      , Technical report RAL-TR-2008-008, Rutherford Appleton Laboratory, Oxfordshire, UK, 2008."
+      },
+      {
+        "key": "R2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1137/S0895479897321830"
+      },
+      {
+        "key": "R3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1137/080724071"
+      },
+      {
+        "key": "R4",
+        "unstructured": "S.C. Choi, C. C. Paige, and M. A. Saunders,\n                      MINRES-QLP: A Krylov subspace method for indefinite or singular symmetric systems\n                      , SIAM J. Sci. Comput., to appear."
+      },
+      {
+        "key": "R5",
+        "unstructured": "T. A. Davis,\n                      University of Florida Sparse Matrix Collection\n                      , http://www.cise.ufl.edu/research/sparse/matrices."
+      },
+      {
+        "key": "R6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1137/0702016"
+      },
+      {
+        "key": "R7",
+        "unstructured": "S. Gratton, P. Jiránek, and D. Titley-Peloquin,\n                      On the Accuracy of the Karlson-Waldén Estimate of the Backward Error for Linear Least Squares Problems\n                      , CERFACS Technical report TR/PA/11/19, CERFACS, Toulouse, France, 2011."
+      },
+      {
+        "key": "R8",
+        "unstructured": "J. F. Grcar, M. A. Saunders, and Z. Su,\n                      Estimates of Optimal Backward Perturbations for Linear Least Squares Problems\n                      , Report SOL 2007-1, Department of Management Science and Engineering, Stanford University, Stanford, CA, 2007."
+      },
+      {
+        "key": "R9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1137/070696313"
+      },
+      {
+        "key": "R10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "N. J. Higham,\n                      Accuracy and Stability of Numerical Algorithms\n                      , 2nd ed., SIAM, Philadelphia, 2002.",
+        "DOI": "10.1137/1.9780898718027"
+      },
+      {
+        "key": "R11",
+        "unstructured": "LSMR software for linear systems and least squares, http://www.stanford.edu/group/SOL/software.html."
+      },
+      {
+        "key": "R12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1137/0707032"
+      },
+      {
+        "key": "R13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1137/090770655"
+      },
+      {
+        "key": "R14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1137/050630416"
+      },
+      {
+        "key": "R15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1137/0712047"
+      },
+      {
+        "key": "R16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/355984.355989"
+      },
+      {
+        "key": "R17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/355993.356000"
+      },
+      {
+        "key": "R18",
+        "unstructured": "V. Pereyra,\n                      private communication\n                      , 2010."
+      },
+      {
+        "key": "R19",
+        "unstructured": "PROPACK software for SVD of sparse matrices, http://soi.stanford.edu/~rmunk/PROPACK/."
+      },
+      {
+        "key": "R20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1137/0907058"
+      },
+      {
+        "key": "R21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1053197.1053199"
+      },
+      {
+        "key": "R22",
+        "doi-asserted-by": "crossref",
+        "unstructured": "G. W. Stewart,\n                      Research, development and LINPACK\n                      , in Mathematical Software III, J. R. Rice, ed., Academic Press, New York, 1977, pp. 1–14.",
+        "DOI": "10.1016/B978-0-12-587260-7.50005-4"
+      },
+      {
+        "key": "R23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1137/S1064827597319519"
+      },
+      {
+        "key": "R24",
+        "unstructured": "Z. Su,\n                      Computational Methods for Least Squares Problems and Clinical Trials\n                      , Ph.D. thesis, SCCM, Stanford University, Stanford, CA, 2005."
+      },
+      {
+        "key": "R25",
+        "unstructured": "D. Titley-Peloquin,\n                      Backward Perturbation Analysis of Least Squares Problems\n                      , Ph.D. thesis, School of Computer Science, McGill University, Montreal, QC, Canada, 2010."
+      },
+      {
+        "key": "R26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/nla.1680020308"
+      }
+    ],
+    "container-title": [
+      "SIAM Journal on Scientific Computing"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://epubs.siam.org/doi/pdf/10.1137/10079687X",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          21
+        ]
+      ],
+      "date-time": "2026-08-21T15:19:08Z",
+      "timestamp": 1787325548000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://epubs.siam.org/doi/10.1137/10079687X"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          1
+        ]
+      ]
+    },
+    "references-count": 26,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1137/10079687X"
+    ],
+    "URL": "https://doi.org/10.1137/10079687x",
+    "relation": {},
+    "ISSN": [
+      "1064-8275",
+      "1095-7197"
+    ],
+    "issn-type": [
+      {
+        "value": "1064-8275",
+        "type": "print"
+      },
+      {
+        "value": "1095-7197",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          1
+        ]
+      ]
+    }
+  }
+}

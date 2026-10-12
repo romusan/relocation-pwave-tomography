@@ -1,0 +1,8 @@
+{
+  "generator_spacing_km": 5,
+  "inversion_spacing_km": 10,
+  "amplitude": 0.03,
+  "perturbations": "same frozen original row noise/origin/locations/statics, filtered to matched station population",
+  "reference_sha256": "104021bc45c4d885665feb9bb5482054537dc56dbf1fa5c66a6ec7f13d46984a",
+  "controls_sha256": "549b183ac93948c3748d64e431a2bfd58a955b2ce1be61a017dea8b5360f9b98"
+}

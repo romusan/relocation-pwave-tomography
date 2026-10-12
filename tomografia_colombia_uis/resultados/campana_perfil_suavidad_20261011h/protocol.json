@@ -1,0 +1,27 @@
+{
+  "data_sha256": "351291feeb7cf7e04b7455b271b1c1b5427ec7b8c9ce81b8e46a90fa21bec005",
+  "code_sha256": "1a835930158b24e240789a8037ee6a23928bd230752946f6098e3c8996c729dd",
+  "arms": [
+    "fixed_1d",
+    "updated_1d",
+    "3d_lambda_2",
+    "3d_lambda_20",
+    "3d_lambda_200"
+  ],
+  "smooth_values": [
+    2.0,
+    20.0,
+    200.0
+  ],
+  "max_rounds": 12,
+  "stopping": "two consecutive training objective relative changes <0.001 and max Vp fractional change <0.005; minimum four rounds; never stop on holdout",
+  "regularization": "absolute departure slowness from reference, not only update; fixed support from first g round; static absolute damping",
+  "synthetic": "3 percent truth, effective empirical centered errors from main training catalog residuals only; stress test, not picker uncertainty; all three smooth weights; four rounds",
+  "mesh": "same six preselected stations and 4597 observations at 10/5/2.5 km",
+  "seed": 20261011,
+  "limitations": [
+    "Finite round cap must be reported if convergence fails",
+    "Main holdout used for reporting sweep, not choosing an independent unbiased winner",
+    "Catalog origin/hypocentre remain conditional; Pn/Pg not separately followed"
+  ]
+}

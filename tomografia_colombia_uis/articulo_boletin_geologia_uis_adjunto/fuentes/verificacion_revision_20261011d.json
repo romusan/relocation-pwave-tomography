@@ -1,0 +1,54 @@
+{
+  "docx_sha256": "79965752e3578b9a6ebd66fa23e6e68e5f9cf673e2235f2a07688acf61ec565c",
+  "pages": 35,
+  "figures": 7,
+  "tables": 7,
+  "local_links": [
+    "suplementos/figura_1_fragmentos_sgc.html",
+    "suplementos/figura_2_nurbs_nazca_caribe_sgc.html",
+    "suplementos/clasificacion_kmeans_sgc.html",
+    "suplementos/diagnosticos_revision_d/Figura_S1_ablacion.png",
+    "suplementos/diagnosticos_revision_d/S2_verificacion_numerica.md"
+  ],
+  "reserve_events": 747,
+  "reserve_picks": 6837,
+  "recomputed_rms": {
+    "node_1d_no_statics": 1.6497264362535538,
+    "node_1d_final3d_statics": 1.6805181164515939,
+    "node_3d_no_statics": 1.586988865637506,
+    "node_3d_final3d_statics": 1.6023370920370366,
+    "node_1d_independent_statics": 1.5520271128924679,
+    "continuous_1d_no_statics": 1.6021153471521339,
+    "continuous_1d_final3d_statics": 1.6323017655730874,
+    "continuous_3d_no_statics": 1.536952474235827,
+    "continuous_3d_final3d_statics": 1.5513016039170746,
+    "continuous_1d_independent_statics": 1.5021532801497939,
+    "node_1d_relocated_statics": 1.5771698850424247,
+    "continuous_1d_relocated_statics": 1.5271106341355463
+  },
+  "bootstrap": {
+    "node": {
+      "delta_rms_3d_minus_1d_s": 0.025167206994611835,
+      "ci95_s": [
+        0.008524697836143458,
+        0.04214829865067254
+      ]
+    },
+    "continuous": {
+      "delta_rms_3d_minus_1d_s": 0.02419096978152835,
+      "ci95_s": [
+        0.007370020367162717,
+        0.04061670575956046
+      ]
+    }
+  },
+  "verified_input_hashes": 57,
+  "previous_manuscript_unchanged": true,
+  "seven_figures_unchanged": true,
+  "visual_qa": "32 pages identical to previously inspected render; pages 26, 34 and 35 reinspected after final edits",
+  "changed_pages": [
+    "page-26.png",
+    "page-34.png",
+    "page-35.png"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "10.1785/0120000006": {
+    "author": [
+      {
+        "family": "Waldhauser",
+        "given": "Felix"
+      },
+      {
+        "family": "Ellsworth",
+        "given": "William L."
+      }
+    ],
+    "source": "https://pubs.usgs.gov/publication/70022170"
+  },
+  "10.1785/0120020190": {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Haijiang"
+      },
+      {
+        "family": "Thurber",
+        "given": "Clifford H."
+      }
+    ],
+    "source": "https://earthquake.usgs.gov/cfusion/external_grants/reports/G11AP20028.pdf"
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "rows": 44368,
+    "parameters": 9458,
+    "initial_stop": 7,
+    "initial_iterations": 1000,
+    "atol": 1e-06,
+    "btol": 1e-06,
+    "retries": [
+      {
+        "limit": 10000,
+        "stop": 2,
+        "iterations": 1044,
+        "normr": 127.24399053862658,
+        "normar": 6.753069149138731,
+        "condition": 25.357969198485442
+      }
+    ]
+  }
+]

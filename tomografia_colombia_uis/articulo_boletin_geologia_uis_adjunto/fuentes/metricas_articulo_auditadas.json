@@ -1,0 +1,219 @@
+{
+  "selected_events": 3734,
+  "train_events": 2987,
+  "holdout_events": 747,
+  "P": 33476,
+  "train_P": 26639,
+  "holdout_P": 6837,
+  "S_QC": 25166,
+  "station_epochs": 280,
+  "initial_holdout_RMS_s": 1.6497264362535538,
+  "final_holdout_RMS_s": 1.6023370920370366,
+  "holdout_delta_ci95_s": [
+    -0.06756223310463852,
+    -0.026296476168362372
+  ],
+  "initial_train_RMS_s": 1.6351716272858885,
+  "final_train_RMS_s": 0.7930597345926063,
+  "active_cells": 10011,
+  "active_cells_ge40": 7373,
+  "final_active_vp_range_km_s": [
+    4.552661249999999,
+    8.8
+  ],
+  "final_active_dvp_percentiles": [
+    -14.262500000000012,
+    -14.262500000000012,
+    -0.41694670772611797,
+    12.25267498266913,
+    15.762500000000014
+  ],
+  "fragment_triangles": 331,
+  "catalog_date_ranges": {
+    "time_utc": [
+      "2015-02-21 22:26:45",
+      "2026-10-02 20:11:01"
+    ]
+  },
+  "event_catalog_extents": {
+    "lat": [
+      1.137,
+      12.748
+    ],
+    "lon": [
+      -78.485,
+      -71.348
+    ],
+    "depth_km": [
+      0.0,
+      179.95
+    ]
+  },
+  "relocated_extents": {
+    "lat": [
+      1.0777111972973985,
+      12.919767915301389
+    ],
+    "lon": [
+      -78.7145734799862,
+      -71.24538692068661
+    ],
+    "depth_km": [
+      0.0,
+      180.0
+    ]
+  },
+  "linear_resolution": {
+    "kind": "linear fixed discrete-Jacobian checkerboard; same forward/inverse linear operator",
+    "block_width_km": 40.0,
+    "noise_sigma_s": 0.03,
+    "correlation": 0.5570026228126872,
+    "relative_l2_error": 0.8329750286611188,
+    "lsmr": {
+      "istop": 2,
+      "iterations": 448,
+      "normr": 4.891517070466301,
+      "normar": 0.05726403739431641,
+      "acond": 16.90955722162233,
+      "converged": true,
+      "shape": [
+        46661,
+        10011
+      ],
+      "nnz": 7246070
+    },
+    "linear_spike": {
+      "active_index": 499,
+      "amplitude_ratio_at_imposed_cell": 0.9438600086904132,
+      "energy_spread_km": 9.126147132663135,
+      "lsmr": {
+        "istop": 2,
+        "iterations": 296,
+        "normr": 0.02975568261902032,
+        "normar": 0.00028211150628590484,
+        "acond": 19.64246540885573,
+        "converged": true,
+        "shape": [
+          46661,
+          10011
+        ],
+        "nnz": 7246070
+      }
+    }
+  },
+  "final_ray_diagnostic": {
+    "operator": "exact discrete Godunov first-order Jacobian",
+    "failed_rows": [],
+    "kernel_time_minus_field_median_s": -2.842170943040401e-14,
+    "kernel_time_minus_field_p95_abs_s": 3.396394276933279e-12,
+    "kernel_time_minus_field_max_abs_s": 4.474998149817111e-11,
+    "max_local_eikonal_relative_residual": 2.3573587526470874e-11,
+    "median_causal_nodes_per_equation": 524.0,
+    "matrix_nnz": 8024957,
+    "limitation": "Discrete sensitivities include grid diffusion; not geometrical ray lengths or independent physical accuracy."
+  },
+  "station_static_reference": "CM.ACH1",
+  "static_range_s": [
+    -1.210354014109109,
+    1.1731336466631015
+  ],
+  "history": [
+    {
+      "round": 1,
+      "train_rms_before_update_s": 0.9815734980991557,
+      "train_rms_after_update_s": 0.9330704118543873,
+      "holdout_rms_fixed_catalog_origin_s": 1.6165457258581604,
+      "active_cells": 9843
+    },
+    {
+      "round": 2,
+      "train_rms_before_update_s": 0.8608954111686795,
+      "train_rms_after_update_s": 0.8264680733392797,
+      "holdout_rms_fixed_catalog_origin_s": 1.6076153479421535,
+      "active_cells": 9884
+    },
+    {
+      "round": 3,
+      "train_rms_before_update_s": 0.804097297434017,
+      "train_rms_after_update_s": 0.7930597345926063,
+      "holdout_rms_fixed_catalog_origin_s": 1.6023370920370366,
+      "active_cells": 9988
+    }
+  ],
+  "projection_audit": {
+    "crs_wkt": "PROJCRS[\"unknown\",BASEGEOGCRS[\"unknown\",DATUM[\"World Geodetic System 1984\",ELLIPSOID[\"WGS 84\",6378137,298.257223563,LENGTHUNIT[\"metre\",1]],ID[\"EPSG\",6326]],PRIMEM[\"Greenwich\",0,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8901]]],CONVERSION[\"unknown\",METHOD[\"Azimuthal Equidistant\",ID[\"EPSG\",1125]],PARAMETER[\"Latitude of natural origin\",7.5,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8801]],PARAMETER[\"Longitude of natural origin\",-75,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8802]],PARAMETER[\"False easting\",0,LENGTHUNIT[\"metre\",1],ID[\"EPSG\",8806]],PARAMETER[\"False northing\",0,LENGTHUNIT[\"metre\",1],ID[\"EPSG\",8807]]],CS[Cartesian,2],AXIS[\"(E)\",east,ORDER[1],LENGTHUNIT[\"metre\",1,ID[\"EPSG\",9001]]],AXIS[\"(N)\",north,ORDER[2],LENGTHUNIT[\"metre\",1,ID[\"EPSG\",9001]]]]",
+    "roundtrip_max_deg": 1.4210854715202004e-14,
+    "sampled_pairs": 2984,
+    "pair_distance_max_error_km": 1.871868724451815,
+    "pair_distance_max_relative_error_percent": 0.23866372564589344,
+    "depth_convention": "positive down; stations at z=0 (elevation excluded explicitly)",
+    "limitation": "local Cartesian physics; Earth curvature not included in eikonal"
+  },
+  "geometry": [
+    {
+      "name": "Nazca",
+      "events": 570,
+      "control_cells": 345,
+      "vertices": 12790,
+      "faces": 24926,
+      "supported_faces": 15100,
+      "interpolated_faces": 9826,
+      "connected_components": 1,
+      "fit_benioff_rms_km": 18.78723209092645,
+      "fit_benioff_p90_abs_km": 29.34449276793706,
+      "anchors": "Slab2 SAM geometry, nominal +15 km midplane offset"
+    },
+    {
+      "name": "Caribe",
+      "events": 385,
+      "control_cells": 288,
+      "vertices": 8900,
+      "faces": 17318,
+      "supported_faces": 10972,
+      "interpolated_faces": 6346,
+      "connected_components": 1,
+      "fit_benioff_rms_km": 28.32199549717358,
+      "fit_benioff_p90_abs_km": 45.69575291951459,
+      "anchors": "Weak nearest-control depths on 75 km lateral hull buffer; no Slab2 Caribbean anchors"
+    }
+  ],
+  "input_sha256": {
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\figuras_articulo_uis_20261010.py": "7a6b912f5e27cd78881035873878f5c047ec38336e536c5ff190dfefde7ae481",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\tomografia_1d_adjunto_consistente_2026-10-10\\vp_final.npz": "4cc151157ac6a9b922a19f630dec32f12dd15c5b5feba6bed5d77c84cb52fd69",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\tomografia_1d_adjunto_consistente_2026-10-10\\predictions.csv": "dd5f5594c92fe9b7a26c6eaa7022dc8e45b4f898cd6b6566b0b85ac935b18c56",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\tomografia_1d_adjunto_consistente_2026-10-10\\relocated_train_events.csv": "4185be79881869d979606e0b1b49c2091e2997878fdd7d0ba4b8013a548fd7ac",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\tomografia_1d_adjunto_consistente_2026-10-10\\associated_picks_selected.csv": "37f5a322bec5b57c7c26bda173452831ec54f8d7533a2f34817f66b3f33cd07d",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\tomografia_1d_adjunto_consistente_2026-10-10\\events_split.csv": "2f830c8652a5143f9c61cb4261c48b05d3387ba49a7c391c172db2bed40382f0",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\tomografia_1d_adjunto_consistente_2026-10-10\\summary.json": "a9bc285d5b5e9e820afb5e62960548bdb942c8270972f67542b8c36c65cc039c",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\fragmentos_adjunto_consistente_2026-10-10\\fragmentos_finales.npz": "61219e87613a6ca4a04da34927085c640bacda0ebb6cda819688298d9475a3df",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\placas_adjunto_consistente_2026-10-10\\nazca_superficie.npz": "56b8cfb2499e57667b081e286661e7ef2e700b22bec1aa4b3ac70563f6692cfa",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\placas_adjunto_consistente_2026-10-10\\caribe_superficie.npz": "325ce0eea3cbcb88312e62226dea28f85359e514c5449fb06c97681f2c450284",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\datos\\cartografia\\departamentos_dane_2025.geojson": "02dbaabbae1d55d9f6d90c624531da56a7591266cffe7fede8ab6c1a4b1eecaa",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\datos\\cartografia\\departamentos_dane_2025.metadata.json": "1a7f84490b8bc62b41b97ff4ac12dcfe4b3b17a85a07ec81a65d60d9361b18dc",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\postprocesar_adjunto_uis_20261010.py": "d6fcd75c676cd5b69f886c1c6861764a58abe3508434f6ca3ef3de74c541a7af",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\placas_adjunto_consistente_2026-10-10\\metodologia.json": "fce0654b77b3552ddb17048b741765269b288daa2586fc1f58a4cdfede773ac5",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\tomografia_1d_adjunto_consistente_2026-10-10\\config.json": "64b71bbac553f040a196c5b67b34910059117078d080192ad723392e7d8bcdcd",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\tomografia_1d_adjunto_consistente_2026-10-10\\domain.json": "8061a79fc8be3b4002759b47339c4c1a2a3b95f3b1099352db2fe7164f257607",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\tomografia_1d_adjunto_consistente_2026-10-10\\manifest.json": "8979713f9541fdbe16a1cc52a9dd994ec5e64540c1f902db58d6d61e0b0a56ad",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\articulo_boletin_geologia_uis\\fuentes\\metricas_articulo_auditadas.json": "39d2b9f65967eb33e42256e95779a8f46800484bdff92dbcae79ff4f2757243e",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\resultados\\tomografia_1d_adjunto_consistente_2026-10-10\\finite_difference_updated_model.json": "805d5bfa2b6e2f8bafa3e5109a9d8c4fcfe1cf284d14e2235e694296c719ceb5",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\auditar_modelo_adjunto_final_20261010.py": "3cc326dd10510cc7be0fbe5c80e13e5981fe137b9c22acf27a2a461f76b94082",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\auditar_sensibilidad_real_20261010.py": "5bc9ee83c8c29dd7ade01ee6fd59fe681822dff3b0af300405846dfb047a1c83",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\codigos\\cortes_articulo_uis_tipografia_20261010.py": "56666ac45974875662cc37f2292b9a5d0ad0005d5f51e59e7ac68c6ee60ba8ab",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\articulo_boletin_geologia_uis_adjunto\\fuentes\\zunino_2025_crossref.json": "4f1b4f7b8019a8827bc8afe41f3dec1bdb4aa08102d2ff7256afd21a44e787e3",
+    "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\articulo_boletin_geologia_uis_adjunto\\crear_manuscrito_adjunto.py": "84150145d047507e3ee84d89bcd8755b3e6be11ea8399f7ef2c6d2c6c7b11357"
+  },
+  "selected_catalog_dates": [
+    "2015-04-07 14:00:21",
+    "2026-10-02 10:45:15"
+  ],
+  "minimum_p_stations_selected": 4,
+  "max_gap_selected_deg": 342.1805359283561,
+  "unique_station_identifiers_P": 280,
+  "origin_agencies": [
+    "FUNV",
+    "ISC",
+    "RSNC",
+    "UPA"
+  ]
+}

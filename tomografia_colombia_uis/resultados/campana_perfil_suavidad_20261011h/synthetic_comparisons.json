@@ -1,0 +1,92 @@
+[
+  {
+    "kind": "1d",
+    "laplace_weight": 20.0,
+    "train": {
+      "rms_s": 1.1256053772507344,
+      "median_abs_s": 0.5777924409902988,
+      "p90_abs_s": 1.758131066814997,
+      "trimmed95_rms_s": 0.8653658088826167
+    },
+    "holdout": {
+      "rms_s": 1.4658453138007173,
+      "median_abs_s": 0.8939321987502649,
+      "p90_abs_s": 2.216424916122299,
+      "trimmed95_rms_s": 1.161022285909004
+    },
+    "rounds": 4,
+    "converged": false,
+    "stop": "predefined_maximum_rounds",
+    "parameters": 19,
+    "reference_station": "CM.ACH1"
+  },
+  {
+    "kind": "3d",
+    "laplace_weight": 2.0,
+    "train": {
+      "rms_s": 1.0886496953754083,
+      "median_abs_s": 0.5482010902787784,
+      "p90_abs_s": 1.7286548025822037,
+      "trimmed95_rms_s": 0.8443654189317418
+    },
+    "holdout": {
+      "rms_s": 1.5267867165893372,
+      "median_abs_s": 0.9478584549957113,
+      "p90_abs_s": 2.3096682303069853,
+      "trimmed95_rms_s": 1.2252518159542785
+    },
+    "rounds": 4,
+    "converged": false,
+    "stop": "predefined_maximum_rounds",
+    "parameters": 9196,
+    "reference_station": "CM.ACH1",
+    "correlation": 0.056449669216870474,
+    "relative_l2_error": 8.043438838005285
+  },
+  {
+    "kind": "3d",
+    "laplace_weight": 20.0,
+    "train": {
+      "rms_s": 1.081025791853889,
+      "median_abs_s": 0.5458154999255882,
+      "p90_abs_s": 1.702565660248951,
+      "trimmed95_rms_s": 0.8335601726788018
+    },
+    "holdout": {
+      "rms_s": 1.482699553342991,
+      "median_abs_s": 0.8836495709674096,
+      "p90_abs_s": 2.220693494730686,
+      "trimmed95_rms_s": 1.1661288538382533
+    },
+    "rounds": 4,
+    "converged": false,
+    "stop": "predefined_maximum_rounds",
+    "parameters": 9196,
+    "reference_station": "CM.ACH1",
+    "correlation": 0.00712826252736503,
+    "relative_l2_error": 4.080510988767563
+  },
+  {
+    "kind": "3d",
+    "laplace_weight": 200.0,
+    "train": {
+      "rms_s": 1.1177190781333848,
+      "median_abs_s": 0.5690650980308956,
+      "p90_abs_s": 1.7575293675843084,
+      "trimmed95_rms_s": 0.8601650904346484
+    },
+    "holdout": {
+      "rms_s": 1.470110416844745,
+      "median_abs_s": 0.9025990143748882,
+      "p90_abs_s": 2.210298820351592,
+      "trimmed95_rms_s": 1.1663193396968876
+    },
+    "rounds": 4,
+    "converged": false,
+    "stop": "predefined_maximum_rounds",
+    "parameters": 9196,
+    "reference_station": "CM.ACH1",
+    "correlation": 0.00016317198315193154,
+    "relative_l2_error": 1.532941764075562
+  }
+]
