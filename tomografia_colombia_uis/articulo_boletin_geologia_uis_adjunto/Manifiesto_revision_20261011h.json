@@ -11,13 +11,13 @@
   },
   {
     "path": "articulo_boletin_geologia_uis_adjunto/crear_manuscrito_revision_20261011h.py",
-    "bytes": 43970,
-    "sha256": "15862e120cdbc48e94625262116850c3cc95415d7839cb5d27c3645c77d17b63"
+    "bytes": 45613,
+    "sha256": "81334a6fdc89eb725f1c9fe7eebd0b643be172572d0fcab0f2de941720685d9d"
   },
   {
     "path": "articulo_boletin_geologia_uis_adjunto/empaquetar_revision_h.py",
-    "bytes": 4441,
-    "sha256": "b3825205e553419cc180c303ddc793e817912fcb917800ac466ad35efa413e1d"
+    "bytes": 4501,
+    "sha256": "52649684dbd1f5e07e713e86a4189b620d01b440aea38f7d8574d366f8e233c7"
   },
   {
     "path": "articulo_boletin_geologia_uis_adjunto/figuras_revision_h/Anomalias_activas.png",
@@ -38,6 +38,16 @@
     "path": "articulo_boletin_geologia_uis_adjunto/figuras_revision_h/Estaticas_elevacion.png",
     "bytes": 239841,
     "sha256": "8f7ba7615ced5ac861e938afbe6883f77674617bae13e842466957bdf008551f"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/figuras_revision_h/Isometrica_kmeans_h.png",
+    "bytes": 863947,
+    "sha256": "f863fee938c97925eb14f70039159cdbf4f90bbe31957fdef8cfe95b31621160"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/figuras_revision_h/Isometrica_Nazca_Caribe_h.png",
+    "bytes": 2283869,
+    "sha256": "74d50ff02ca03b621ddf544e846ee9551296fc7c0945f6657f1fcb699b4fcba4"
   },
   {
     "path": "articulo_boletin_geologia_uis_adjunto/figuras_revision_h/Modelos_inicial_final.png",
@@ -236,8 +246,8 @@
   },
   {
     "path": "articulo_boletin_geologia_uis_adjunto/Manuscrito_tomografia_Vp_Colombia_UIS_revision_20261011h.docx",
-    "bytes": 1110039,
-    "sha256": "b7ed0bd5d74e9c26f62ff06c87dbdb044c71add2358efdf0dd6e8a3162f23ca3"
+    "bytes": 4188409,
+    "sha256": "6efb45cd10de315bf23f3dffa7cf48ad8b690626aec3b27e146218a216d0e221"
   },
   {
     "path": "articulo_boletin_geologia_uis_adjunto/preparar_rama_publicacion_h.py",
@@ -320,6 +330,16 @@
     "sha256": "49fe727d269148cee2b61ddbccde0286442256582d251eff8522dca5501dde92"
   },
   {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/Isometrica_kmeans_h.png",
+    "bytes": 863947,
+    "sha256": "f863fee938c97925eb14f70039159cdbf4f90bbe31957fdef8cfe95b31621160"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/Isometrica_Nazca_Caribe_h.png",
+    "bytes": 2283869,
+    "sha256": "74d50ff02ca03b621ddf544e846ee9551296fc7c0945f6657f1fcb699b4fcba4"
+  },
+  {
     "path": "articulo_boletin_geologia_uis_adjunto/suplementos/metricas_kmeans.csv",
     "bytes": 677,
     "sha256": "6d1f29c0602fad562baeaed07c961f86c1f1defa3dcea7cd32cde356085e56eb"
@@ -387,7 +407,7 @@
   {
     "path": "articulo_boletin_geologia_uis_adjunto/verificar_manuscrito_h.py",
     "bytes": 2802,
-    "sha256": "f6b77f9490da0f0606829a9defa2831c83bdbcef2b61764c03013f2722eccebd"
+    "sha256": "88484d88e07703bb02658b6df47f5758aff85de31ed23c580394d9a1236f119c"
   },
   {
     "path": "campana_carma_caribe.py",
@@ -723,6 +743,11 @@
     "path": "codigos/inspeccionar_nazca_nurbs_20261010.py",
     "bytes": 1001,
     "sha256": "68330eb7259e413d40bec042482a8d6fbbc145f1c0b052b00e49117240f3ba6c"
+  },
+  {
+    "path": "codigos/isometricas_hipotesis_h.py",
+    "bytes": 4809,
+    "sha256": "2b35f17a7fa0752beb1d97cb9875604a0266dc5783ff13b3cd2380178208b996"
   },
   {
     "path": "codigos/malla_factorizada_memoria_20261011g.py",
@@ -2272,12 +2297,12 @@
   {
     "path": "resultados/campana_perfil_suavidad_20261011h/document_content_qa.json",
     "bytes": 1161,
-    "sha256": "95dc0e40d10f7a1f65fe3a134050da266a8ced4c9386a59355b2f348163e8140"
+    "sha256": "66d28e7031dd809f480f2d8ca6838d7ab194083716c8dd236470465b387ff874"
   },
   {
     "path": "resultados/campana_perfil_suavidad_20261011h/document_delivery_qa.json",
-    "bytes": 2774,
-    "sha256": "59d902385d42e88f876cba25579649a976c99935542e584c95b39bafb7d81695"
+    "bytes": 3087,
+    "sha256": "c58900bcadfe5c42efcaa72b0f110726b43cffecf5d2db18f1705f56a39ed043"
   },
   {
     "path": "resultados/campana_perfil_suavidad_20261011h/elevation_contrast.json",
@@ -2473,6 +2498,11 @@
     "path": "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/figura_2_nurbs_nazca_caribe_sgc.plotly.json",
     "bytes": 5321679,
     "sha256": "a005507c71c806945409dd7b1f20f1cf29d07089112113fa10ceb99b751cb6b5"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/isometricas_procedencia.json",
+    "bytes": 1541,
+    "sha256": "f7a8bf8fcdc407974358b19cee85881dbaa3574b734d93a34b59f9b3b9053c5d"
   },
   {
     "path": "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/kmeans_celdas.csv",

@@ -1,0 +1,24 @@
+{
+  "camera": {
+    "projection": "orthographic",
+    "elevation_deg": 35.2643897,
+    "azimuth_deg": -55,
+    "vertical_exaggeration_approx": 3
+  },
+  "nurbs_earthquakes": 2897,
+  "kmeans_earthquakes": 1160,
+  "kmeans_fit_cells": 706,
+  "source_sha256": {
+    "codigos/isometricas_hipotesis_h.py": "2b35f17a7fa0752beb1d97cb9875604a0266dc5783ff13b3cd2380178208b996",
+    "resultados/campana_perfil_suavidad_20261011h/real_smooth_20/relocated_train_events.csv": "5fe0693048da5b339092eddd56135acc645f56cf981e33d5e1e9d64032cbffc9",
+    "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/nazca_superficie.npz": "dff4839246b14a24434438f6345e6f72f703791fa2b88aef299e29b978e90ce2",
+    "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/caribe_superficie.npz": "446938ef9260e36fe537f5031422ebd4cd5388daab0ec3d4acc4fa576d01a5d1",
+    "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/kmeans_sismos.csv": "00fbd673e12724e09e707d181a32faa664694a7acf341d115bf3dae8cafa2ac4",
+    "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/bisectores_kmeans.csv": "56d3378094d972ff7610a2a589089cf4471510181006dcd2a663ddb571cc4ebe",
+    "datos/cartografia/departamentos_dane_2025.geojson": "02dbaabbae1d55d9f6d90c624531da56a7591266cffe7fede8ab6c1a4b1eecaa"
+  },
+  "output_sha256": {
+    "Isometrica_Nazca_Caribe_h.png": "74d50ff02ca03b621ddf544e846ee9551296fc7c0945f6657f1fcb699b4fcba4",
+    "Isometrica_kmeans_h.png": "f863fee938c97925eb14f70039159cdbf4f90bbe31957fdef8cfe95b31621160"
+  }
+}

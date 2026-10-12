@@ -14,7 +14,7 @@ files.discard(ROOT/'codigos/acelerar_perfil_h.py')
 for suffix in ['*.cpp','*.dll','*.json','*.py']:
     files.update(p for p in (ROOT/'codigos/native').glob(suffix) if 'depth_tangent' not in p.name)
 for path in C.rglob('*'):
-    if path.is_file() and path.suffix in ['.json','.csv','.npz','.md'] and path.name not in ['archive_delivery_qa.json','publication_staging.json','publication_delivery_qa.json'] and not path.name.startswith(('depth_acceleration','depth_benchmark')) and path.relative_to(C).parts[0] not in ['memory_cache_reference','memory_cache_check']:files.add(path)
+    if path.is_file() and path.suffix in ['.json','.csv','.npz','.md'] and path.name not in ['archive_delivery_qa.json','publication_staging.json','publication_delivery_qa.json'] and not path.name.endswith('_publication_delivery_qa.json') and not path.name.startswith(('depth_acceleration','depth_benchmark')) and path.relative_to(C).parts[0] not in ['memory_cache_reference','memory_cache_check']:files.add(path)
 for path in G.glob('*'):
     if path.is_file() and path.suffix in ['.json','.csv']:files.add(path)
 for folder in ['real_elevation','synthetic_03pct','spatial_fold_1','spatial_fold_2','spatial_fold_3','codigo_congelado']:

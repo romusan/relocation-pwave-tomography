@@ -16,7 +16,7 @@ for r in M['real']:
     assert fmt(r['holdout']['rms_s']) in text
     assert len(json.loads((C/r['arm']/'history.json').read_text()))==r['rounds']
     assert r['converged']==(r['stop']=='training_objective_plateau')
-assert len(D.inline_shapes)==2
+assert len(D.inline_shapes)==4
 assert len(D.tables)==6
 assert '324, 210–225' in text
 assert 'Codex de OpenAI' in text
