@@ -1,7 +1,7 @@
 {
   "visual_review_all_pages": true,
-  "pages": 20,
-  "docx_sha256": "e023e3170c81c1942dfb65bb0cbae530fbd934cfb9d7c6fa49f057ca9c54f168",
+  "pages": 22,
+  "docx_sha256": "b7ed0bd5d74e9c26f62ff06c87dbdb044c71add2358efdf0dd6e8a3162f23ca3",
   "reviewed_pages": [
     1,
     2,
@@ -22,7 +22,19 @@
     17,
     18,
     19,
-    20
+    20,
+    21,
+    22
+  ],
+  "unchanged_previously_reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
   ],
   "page_sha256": {
     "page-1.png": "d7aae3f34ea3d063f69576fddcc27b760b4579119a309ff809a7fcb7b7d4870c",
@@ -33,24 +45,26 @@
     "page-6.png": "e36bbaedd25998b982a616a23a234717c2d238d7878ff5c3bf5b75c0bb7801f4",
     "page-7.png": "eabcce925dcd0df47eaa6e8a1c4d0cb0ac62ccfe2f925502bb1c944a2d86666d",
     "page-8.png": "0c7f8c3eb62eb7d21b21bb950feb76aa2f343b37d5328503e6e89e7fee5980c7",
-    "page-9.png": "b4f836aeaa63d11a5a2b6ea47d75b70572888d28618ca9ebac3838edc285da8c",
-    "page-10.png": "92035a85b90b99c7ed59086c24a8053493298025469f01d932fa02d70d3fb0ee",
-    "page-11.png": "f6fcd7283d91e7d43f449e898d9a0596ddd617d5ab6948a3d1c3c75d0f7d5174",
-    "page-12.png": "0a9f3dbde4ce1c452a04cafb15f50da864775a9ecf54d9824a4333776f1477ba",
-    "page-13.png": "2dc1b6685327a57ad294c689ec660b33a1fb2ce04b2a951b8cf72a6f5e93a7ce",
-    "page-14.png": "e26fb6aa8dc2b849f5ca8a2abe5a55b523b41c9ad08a5a9aa6b0be9bd0b42a9f",
-    "page-15.png": "1e44dc33e31a2298efc9578ad7b04ad3860c47228fa9a5c713ce3cd401cae557",
-    "page-16.png": "22c0ee1b421612bf80710cb6320f52ca2bfb0f514587992e8dc8b3cc63b3544d",
-    "page-17.png": "da95dd6d21132f8d1eaa59de30f5db03ae1ba9a931d8203e8aedad6ebd54d66f",
-    "page-18.png": "ea46770eadde95159e20c8417d9f9ec61e79a358e55d2af3fa846b994f498713",
-    "page-19.png": "5714e0c7e5a672cc646d4d7e87b8b3d2957822f920118dbe80b6ae72bfac17ea",
-    "page-20.png": "465725e1f689376a4ea78b62310ee7c824958ec9b8bcad3a2fad540bd2882290"
+    "page-9.png": "d1acef7e47ca3218db04c7c3a090f652b8ccb589a43b13a2e71f0e7f652b63d0",
+    "page-10.png": "5849de220e96bb6435c8e4991ba5cb255b1cb64fe2a1d9cc4ecf9f5d490b016e",
+    "page-11.png": "b0c8dd62538c37956c2610b8156ab5f98cf4c5c1d50c1b70fd71507dc2bc5457",
+    "page-12.png": "f6fcd7283d91e7d43f449e898d9a0596ddd617d5ab6948a3d1c3c75d0f7d5174",
+    "page-13.png": "0a9f3dbde4ce1c452a04cafb15f50da864775a9ecf54d9824a4333776f1477ba",
+    "page-14.png": "2dc1b6685327a57ad294c689ec660b33a1fb2ce04b2a951b8cf72a6f5e93a7ce",
+    "page-15.png": "e26fb6aa8dc2b849f5ca8a2abe5a55b523b41c9ad08a5a9aa6b0be9bd0b42a9f",
+    "page-16.png": "829d00e96a957bac6443e7a068176436e06ebb67591b80811f6aebf48ed0eb4e",
+    "page-17.png": "0d50d3647c97b92892cd397b64af27292c5dbf2706e6b36a7889651b93a28d7d",
+    "page-18.png": "c6c75de2ee20393af018eec11feee591886c9d1ede836eb6aab79fb4867fb46a",
+    "page-19.png": "a64019b56516f82bbd34c3cc378f016ec7534b5e056895976669a13bca5aa0c5",
+    "page-20.png": "f6f336bda49d4ea973309d220c502e9ad18c6a0769e81d3705da4f3778cc1dbb",
+    "page-21.png": "729e15f3fcd0e5b7427a9455e9bad7bbae2414f0d8d6bc02f675ed7c488a59eb",
+    "page-22.png": "04e7b2221b050335dc003badb38c697a929906e466a75e0944eaadabf7ea3109"
   },
   "checks": [
-    "All pages visually reviewed: no clipping, overlapping text or missing equation glyphs",
-    "Figure 1 resized to keep subsection text and caption on one page",
-    "Six tables and two diagnostic figures readable",
-    "Numerical values and portable hyperlinks passed content audit"
+    "Pages 1-8 match prior visual review hashes; all changed pages 9-22 visually reviewed",
+    "Six tables, two main figures and seven equations remain readable",
+    "Hypotheses methods, numerical results and links included",
+    "Slab2 bibliography added; references complete"
   ],
-  "utc": "2026-10-12T15:59:55.415141+00:00"
+  "utc": "2026-10-12T16:25:28.054940+00:00"
 }

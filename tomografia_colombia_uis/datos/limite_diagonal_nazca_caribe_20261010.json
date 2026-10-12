@@ -1,0 +1,8 @@
+{
+  "description": "Hipótesis del usuario: desde el oriente en diagonal hasta el norte de Montería. Coordenadas aproximadas elegidas para representar la propuesta, no determinadas por la tomografía.",
+  "endpoints_lon_lat": [[-72.5, 6.0], [-76.3, 9.2]],
+  "Nazca_side": "southwest/below line",
+  "Caribe_side": "northeast/above line",
+  "line_extension": "Linear extension across the domain for geographic clipping only",
+  "tectonic_boundary_confirmed": false
+}

@@ -20,6 +20,12 @@ assert len(D.inline_shapes)==2
 assert len(D.tables)==6
 assert '324, 210–225' in text
 assert 'Codex de OpenAI' in text
+H=json.loads((C/'hipotesis_placas/metodologia.json').read_text(encoding='utf-8'))
+assert str(H['equal_weight_cells']) in text and str(H['deep_quality_events']) in text
+assert '4.7 Geometrías candidatas y división espacial' in text
+for sh in H['nurbs']:
+    assert f"{sh['control_cells_rms_vertical_km']:.2f}".replace('.',',') in text
+    assert f"{sh['heldout_vertical_rms_km']:.2f}".replace('.',',') in text
 links=[]
 with zipfile.ZipFile(path) as z:
     rel=E.fromstring(z.read('word/_rels/document.xml.rels'))

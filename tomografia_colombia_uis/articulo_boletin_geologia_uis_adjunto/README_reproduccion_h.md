@@ -6,7 +6,9 @@ El manuscrito presenta cinco brazos reales: perfil 1D fijo, perfil 1D ajustable 
 
 ## Contenido
 
-El Word y sus enlaces están en `articulo_boletin_geologia_uis_adjunto`. Mantenga la carpeta `suplementos` junto al manuscrito. Los HTML geométricos tienen su propio aviso de alcance y no representan la inversión de este artículo. Las figuras científicas suplementarias sí corresponden a los controles descritos.
+El Word y sus enlaces están en `articulo_boletin_geologia_uis_adjunto`. Mantenga la carpeta `suplementos` junto al manuscrito. Los tres HTML se regeneraron con el modelo final `real_smooth_20` y sus 2897 eventos de entrenamiento relocalizados. Incluyen fragmentos extraídos de anomalías Vp, superficies NURBS candidatas Nazca morada y Caribe naranja y agrupamientos k-means con bisectores. Son hipótesis geométricas sometidas a evaluación y no una identificación tectónica validada. Las figuras científicas suplementarias corresponden a los controles descritos.
+
+Los parámetros, mallas, superficies, etiquetas, bisectores y resultados están en `resultados/campana_perfil_suavidad_20261011h/hipotesis_placas`. El ajuste k-means usa 706 celdas con igual peso, obtenidas de 1160 sismos profundos con brecha <=180 grados; contrasta k=2..6 y dos métricas sin usar la diagonal ni Slab2 durante el agrupamiento. Las NURBS conservan la asignación diagonal como hipótesis independiente y se ajustan a los nuevos controles. Nazca incorpora Slab2 SAM como anclaje débil, sin filtro de compatibilidad sísmica. Para regenerar estos productos sin repetir la inversión: `python codigos/hipotesis_placas_revision_h.py`. Los archivos Slab2 y la diagonal usada se incluyen con su procedencia.
 
 Las observaciones seleccionadas y sus elevaciones están en `resultados/campana_factorizada_cotas_20261011g/selected_picks.csv`; ese nombre identifica el archivo fuente, sin cambiar el protocolo científico del manuscrito. La procedencia de cada llegada está en `arrival_source_matches.csv`. La reconciliación de redes usa también `original_net`; las llegadas publicadas tienen probabilidad convencional 1, no confianza calibrada del detector.
 

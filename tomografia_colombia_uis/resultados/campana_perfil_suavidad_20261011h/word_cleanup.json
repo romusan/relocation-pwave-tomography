@@ -4,5 +4,109 @@
   "reason": "Superseded diagnostic manuscript without Nazca/Caribbean surface figures; final h retained",
   "references_and_templates_preserved": true,
   "time_utc": "2026-10-12T15:59:07.8838891Z",
-  "removed_word": "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\articulo_boletin_geologia_uis_adjunto\\Manuscrito_tomografia_Vp_Colombia_UIS_revision_20261011g.docx"
+  "removed_word": "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\articulo_boletin_geologia_uis_adjunto\\Manuscrito_tomografia_Vp_Colombia_UIS_revision_20261011g.docx",
+  "retained_manuscripts": [
+    {
+      "path": "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\articulo_boletin_geologia_uis\\Manuscrito_tomografia_Vp_Colombia_UIS.docx",
+      "sha256": "d33bf052f92c5918be93135c2d2d6cde2466f8bae90448225ce6ea52c263974c",
+      "final_current": false,
+      "plate_figure_captions": [
+        "Figura 2. Superficies medias candidatas de Nazca (morado) y Caribe (naranja), ajustadas mediante NURBS después de la inversión iniciada con 1D. Las partes de mayor opacidad tienen apoyo local según proximidad a controles y cobertura Vp; las de menor opacidad corresponden a interpolación. Se muestran los mismos sismos SGC relocalizados y las fronteras colombianas y departamentales de la Figura 1. La separación diagonal y el escenario de espesor no son límites o espesores estimados por la tomografía. Exageración vertical aproximada de 3×."
+      ]
+    },
+    {
+      "path": "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\articulo_boletin_geologia_uis_adjunto\\Manuscrito_tomografia_Vp_Colombia_UIS_adjunto_consistente.docx",
+      "sha256": "4fc59e4d5302661b6d209c2cc3e30109b54aec98af4822e874dc8cef89567aba",
+      "final_current": false,
+      "plate_figure_captions": [
+        "Figura 2. Superficies medias candidatas de Nazca (morado) y Caribe (naranja), ajustadas mediante NURBS después de la inversión iniciada con 1D. Las partes de mayor opacidad tienen apoyo local según proximidad a controles y cobertura Vp; las de menor opacidad corresponden a interpolación. Se muestran los mismos sismos SGC relocalizados y las fronteras colombianas y departamentales de la Figura 1. La separación diagonal y el escenario de espesor no son límites o espesores estimados por la tomografía. Exageración vertical aproximada de 3×."
+      ]
+    },
+    {
+      "path": "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\articulo_boletin_geologia_uis_adjunto\\Manuscrito_tomografia_Vp_Colombia_UIS_con_anomalias.docx",
+      "sha256": "5575435ed79e592ba88275ccc433533d1d36124af0003ab2e08726423f229d92",
+      "final_current": false,
+      "plate_figure_captions": [
+        "Figura 2. Superficies medias candidatas de Nazca (morado) y Caribe (naranja), ajustadas mediante NURBS después de la inversión iniciada con 1D. Las partes de mayor opacidad tienen apoyo local según proximidad a controles y cobertura Vp; las de menor opacidad corresponden a interpolación. Se muestran los mismos sismos SGC relocalizados y las fronteras colombianas y departamentales de la Figura 1. La separación diagonal y el escenario de espesor no son límites o espesores estimados por la tomografía. Exageración vertical aproximada de 3×.",
+        "Figura 5. Cortes de anomalías porcentuales de Vp final respecto al modelo inicial 1D a 77°, 76° y 74° O. Azul: velocidades mayores que la referencia; rojo: velocidades menores. La escala común abarca −16 a +16 %. El gris identifica posiciones fuera de la máscara activa de inversión. Los puntos negros son sismos SGC relocalizados de entrenamiento dentro de una banda longitudinal de ±0,25° de cada sección. Latitud en grados norte y profundidad positiva hacia abajo; muestreo de aproximadamente 0,18° en latitud y 20 km en profundidad. Las anomalías expresan contrastes relativos y no delimitan automáticamente las superficies candidatas de Nazca y Caribe."
+      ]
+    },
+    {
+      "path": "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\articulo_boletin_geologia_uis_adjunto\\Manuscrito_tomografia_Vp_Colombia_UIS_corregido.docx",
+      "sha256": "80eb81e532ca0860cd2a754fc3d0556cadb14281bb54828f7d91f70788d29962",
+      "final_current": false,
+      "plate_figure_captions": [
+        "Figura 2. Superficies medias candidatas de Nazca (morado) y Caribe (naranja), ajustadas mediante NURBS después de la inversión iniciada con 1D. Las partes de mayor opacidad tienen apoyo local según proximidad a controles y cobertura Vp; las de menor opacidad corresponden a interpolación. Se muestran los mismos sismos SGC relocalizados y las fronteras colombianas y departamentales de la Figura 1. La separación diagonal y el escenario de espesor no son límites o espesores estimados por la tomografía. Exageración vertical aproximada de 3×."
+      ]
+    },
+    {
+      "path": "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\articulo_boletin_geologia_uis_adjunto\\Manuscrito_tomografia_Vp_Colombia_UIS_modelos_inicial_final.docx",
+      "sha256": "ad3248f73fe4af5dc1a1b1ae33b4c8e78af0f2202547075bee3e7c73ba16ab10",
+      "final_current": false,
+      "plate_figure_captions": [
+        "Figura 2. Superficies medias candidatas de Nazca (morado) y Caribe (naranja), ajustadas mediante NURBS después de la inversión iniciada con 1D. Las partes de mayor opacidad tienen apoyo local según proximidad a controles y cobertura Vp; las de menor opacidad corresponden a interpolación. Se muestran los mismos sismos SGC relocalizados y las fronteras colombianas y departamentales de la Figura 1. La separación diagonal y el escenario de espesor no son límites o espesores estimados por la tomografía. Exageración vertical aproximada de 3×."
+      ]
+    },
+    {
+      "path": "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\articulo_boletin_geologia_uis_adjunto\\Manuscrito_tomografia_Vp_Colombia_UIS_revision_20261011.docx",
+      "sha256": "a26dbbb1438832e74607c618b18a64cc51ef2c831a5b09c4d8039d7959ad1477",
+      "final_current": false,
+      "plate_figure_captions": [
+        "Figura 2. Superficies medias candidatas de Nazca (morado) y Caribe (naranja), ajustadas mediante NURBS después de la inversión iniciada con 1D. Las partes de mayor opacidad tienen apoyo local según proximidad a controles y cobertura Vp; las de menor opacidad corresponden a interpolación. Se muestran los mismos sismos SGC relocalizados y las fronteras colombianas y departamentales de la Figura 1. La separación diagonal y el escenario de espesor no son límites o espesores estimados por la tomografía. Exageración vertical aproximada de 3×.",
+        "Figura 5. Cortes de anomalías porcentuales de Vp final respecto al modelo inicial 1D a 77°, 76° y 74° O. Azul: velocidades mayores que la referencia; rojo: velocidades menores. La escala común abarca −16 a +16 %. El gris identifica posiciones fuera de la máscara activa de inversión. Los puntos negros son sismos SGC relocalizados de entrenamiento dentro de una banda longitudinal de ±0,25° de cada sección. Latitud en grados norte y profundidad positiva hacia abajo; muestreo de aproximadamente 0,18° en latitud y 20 km en profundidad. Las anomalías expresan contrastes relativos y no delimitan automáticamente las superficies candidatas de Nazca y Caribe."
+      ]
+    },
+    {
+      "path": "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\articulo_boletin_geologia_uis_adjunto\\Manuscrito_tomografia_Vp_Colombia_UIS_revision_20261011b.docx",
+      "sha256": "66ce93b4eb0e9bcd1856efb0c8e2b9962ba09f8c51aec0e6cdc61338075872fb",
+      "final_current": false,
+      "plate_figure_captions": [
+        "Figura 2. Superficies medias candidatas de Nazca (morado) y Caribe (naranja), ajustadas mediante NURBS después de la inversión iniciada con 1D. Las partes de mayor opacidad tienen apoyo local según proximidad a controles y cobertura Vp; las de menor opacidad corresponden a interpolación. Se muestran los mismos sismos SGC relocalizados y las fronteras colombianas y departamentales de la Figura 1. La separación diagonal y el escenario de espesor no son límites o espesores estimados por la tomografía. Exageración vertical aproximada de 3×.",
+        "Figura 5. Cortes de anomalías porcentuales de Vp final respecto al modelo inicial 1D a 77°, 76° y 74° O. Azul: velocidades mayores que la referencia; rojo: velocidades menores. La escala común abarca −16 a +16 %. El gris identifica posiciones fuera de la máscara activa de inversión. Los puntos negros son sismos SGC relocalizados de entrenamiento dentro de una banda longitudinal de ±0,25° de cada sección. Latitud en grados norte y profundidad positiva hacia abajo; muestreo de aproximadamente 0,18° en latitud y 20 km en profundidad. Las anomalías expresan contrastes relativos y no delimitan automáticamente las superficies candidatas de Nazca y Caribe."
+      ]
+    },
+    {
+      "path": "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\articulo_boletin_geologia_uis_adjunto\\Manuscrito_tomografia_Vp_Colombia_UIS_revision_20261011c.docx",
+      "sha256": "54c711d7130da94c1d83ab7d1dbe9a9d2722d7e882a4b7d3327e0231840d7a30",
+      "final_current": false,
+      "plate_figure_captions": [
+        "Figura 2. Superficies medias candidatas de Nazca (morado) y Caribe (naranja), ajustadas mediante NURBS después de la inversión iniciada con 1D. Las partes de mayor opacidad tienen apoyo local según proximidad a controles y cobertura Vp; las de menor opacidad corresponden a interpolación. Se muestran los mismos sismos SGC relocalizados y las fronteras colombianas y departamentales de la Figura 1. La separación diagonal y el escenario de espesor no son límites o espesores estimados por la tomografía. Exageración vertical aproximada de 3×.",
+        "Figura 5. Cortes de anomalías porcentuales de Vp final respecto al modelo inicial 1D a 77°, 76° y 74° O. Azul: velocidades mayores que la referencia; rojo: velocidades menores. La escala común abarca −16 a +16 %. El gris identifica posiciones fuera de la máscara activa de inversión. Los puntos negros son sismos SGC relocalizados de entrenamiento dentro de una banda longitudinal de ±0,25° de cada sección. Latitud en grados norte y profundidad positiva hacia abajo; muestreo de aproximadamente 0,18° en latitud y 20 km en profundidad. Las anomalías expresan contrastes relativos y no delimitan automáticamente las superficies candidatas de Nazca y Caribe."
+      ]
+    },
+    {
+      "path": "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\articulo_boletin_geologia_uis_adjunto\\Manuscrito_tomografia_Vp_Colombia_UIS_revision_20261011d.docx",
+      "sha256": "79965752e3578b9a6ebd66fa23e6e68e5f9cf673e2235f2a07688acf61ec565c",
+      "final_current": false,
+      "plate_figure_captions": [
+        "Figura 2. Superficies medias candidatas de Nazca (morado) y Caribe (naranja), ajustadas mediante NURBS después de la inversión iniciada con 1D. Las partes de mayor opacidad tienen apoyo local según proximidad a controles y cobertura Vp; las de menor opacidad corresponden a interpolación. Se muestran los mismos sismos SGC relocalizados y las fronteras colombianas y departamentales de la Figura 1. La separación diagonal y el escenario de espesor no son límites o espesores estimados por la tomografía. Exageración vertical aproximada de 3×.",
+        "Figura 5. Cortes de anomalías porcentuales de Vp final respecto al modelo inicial 1D a 77°, 76° y 74° O. Azul: velocidades mayores que la referencia; rojo: velocidades menores. La escala común abarca −16 a +16 %. El gris identifica posiciones fuera de la máscara activa de inversión. Los puntos negros son sismos SGC relocalizados de entrenamiento dentro de una banda longitudinal de ±0,25° de cada sección. Latitud en grados norte y profundidad positiva hacia abajo; muestreo de aproximadamente 0,18° en latitud y 20 km en profundidad. Las anomalías expresan contrastes relativos y no delimitan automáticamente las superficies candidatas de Nazca y Caribe."
+      ]
+    },
+    {
+      "path": "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\articulo_boletin_geologia_uis_adjunto\\Manuscrito_tomografia_Vp_Colombia_UIS_revision_20261011e.docx",
+      "sha256": "7e743427afd91e3fb79723b19631c2e7aa518ccada00bb0ab48d5789e07af8a7",
+      "final_current": false,
+      "plate_figure_captions": [
+        "Figura 2. Superficies medias candidatas de Nazca (morado) y Caribe (naranja), ajustadas mediante NURBS después de la inversión iniciada con 1D. Las partes de mayor opacidad tienen apoyo local según proximidad a controles y cobertura Vp; las de menor opacidad corresponden a interpolación. Se muestran los mismos sismos SGC relocalizados y las fronteras colombianas y departamentales de la Figura 1. La separación diagonal y el escenario de espesor no son límites o espesores estimados por la tomografía. Exageración vertical aproximada de 3×.",
+        "Figura 5. Cortes de anomalías porcentuales de Vp final respecto al modelo inicial 1D a 77°, 76° y 74° O. Azul: velocidades mayores que la referencia; rojo: velocidades menores. La escala común abarca −16 a +16 %. El gris identifica posiciones fuera de la máscara activa de inversión. Los puntos negros son sismos SGC relocalizados de entrenamiento dentro de una banda longitudinal de ±0,25° de cada sección. Latitud en grados norte y profundidad positiva hacia abajo; muestreo de aproximadamente 0,18° en latitud y 20 km en profundidad. Las anomalías expresan contrastes relativos y no delimitan automáticamente las superficies candidatas de Nazca y Caribe."
+      ]
+    },
+    {
+      "path": "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\articulo_boletin_geologia_uis_adjunto\\Manuscrito_tomografia_Vp_Colombia_UIS_revision_20261011f.docx",
+      "sha256": "afcf4a5565db3fafe62d2409d7668e0b297fc0a73fe8e6ba3c40f993cb08fc91",
+      "final_current": false,
+      "plate_figure_captions": [
+        "Figura 2. Superficies medias candidatas de Nazca (morado) y Caribe (naranja), ajustadas mediante NURBS después de la inversión iniciada con 1D. Las partes de mayor opacidad tienen apoyo local según proximidad a controles y cobertura Vp; las de menor opacidad corresponden a interpolación. Se muestran los mismos sismos SGC relocalizados y las fronteras colombianas y departamentales de la Figura 1. La separación diagonal y el escenario de espesor no son límites o espesores estimados por la tomografía. Exageración vertical aproximada de 3×."
+      ]
+    },
+    {
+      "path": "C:\\Users\\claudia.parra\\Documents\\Materias_romulo\\investigacion\\tomografia_colombia_Q\\articulo_boletin_geologia_uis_adjunto\\Manuscrito_tomografia_Vp_Colombia_UIS_revision_20261011h.docx",
+      "sha256": "e023e3170c81c1942dfb65bb0cbae530fbd934cfb9d7c6fa49f057ca9c54f168",
+      "final_current": true,
+      "plate_figure_captions": []
+    }
+  ],
+  "verified_retained_manuscripts": 12,
+  "removed_path_absent": true
 }

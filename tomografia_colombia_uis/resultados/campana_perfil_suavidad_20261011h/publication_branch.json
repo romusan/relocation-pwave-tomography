@@ -1,9 +1,9 @@
 {
   "branch": "tomografia-colombia-uis-h",
-  "sha": "e03d05378b81fbb0846187e4a28290e2f7a7cc43",
+  "sha": "49555ee44e2620b93bae8b3526cab85d8f68ed1b",
   "method": "git push with existing local authentication",
   "repository": "romusan/relocation-pwave-tomography",
   "url": "https://github.com/romusan/relocation-pwave-tomography/tree/tomografia-colombia-uis-h",
-  "contains_h_results": false,
+  "contains_h_results": true,
   "created_remote": true
 }

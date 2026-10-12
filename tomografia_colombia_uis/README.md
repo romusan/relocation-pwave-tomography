@@ -6,7 +6,9 @@ El manuscrito presenta cinco brazos reales: perfil 1D fijo, perfil 1D ajustable 
 
 ## Contenido
 
-El Word y sus enlaces están en `articulo_boletin_geologia_uis_adjunto`. Mantenga la carpeta `suplementos` junto al manuscrito. Los HTML geométricos tienen su propio aviso de alcance y no representan la inversión de este artículo. Las figuras científicas suplementarias sí corresponden a los controles descritos.
+El Word y sus enlaces están en `articulo_boletin_geologia_uis_adjunto`. Mantenga la carpeta `suplementos` junto al manuscrito. Los tres HTML se regeneraron con el modelo final `real_smooth_20` y sus 2897 eventos de entrenamiento relocalizados. Incluyen fragmentos extraídos de anomalías Vp, superficies NURBS candidatas Nazca morada y Caribe naranja y agrupamientos k-means con bisectores. Son hipótesis geométricas sometidas a evaluación y no una identificación tectónica validada. Las figuras científicas suplementarias corresponden a los controles descritos.
+
+Los parámetros, mallas, superficies, etiquetas, bisectores y resultados están en `resultados/campana_perfil_suavidad_20261011h/hipotesis_placas`. El ajuste k-means usa 706 celdas con igual peso, obtenidas de 1160 sismos profundos con brecha <=180 grados; contrasta k=2..6 y dos métricas sin usar la diagonal ni Slab2 durante el agrupamiento. Las NURBS conservan la asignación diagonal como hipótesis independiente y se ajustan a los nuevos controles. Nazca incorpora Slab2 SAM como anclaje débil, sin filtro de compatibilidad sísmica. Para regenerar estos productos sin repetir la inversión: `python codigos/hipotesis_placas_revision_h.py`. Los archivos Slab2 y la diagonal usada se incluyen con su procedencia.
 
 Las observaciones seleccionadas y sus elevaciones están en `resultados/campana_factorizada_cotas_20261011g/selected_picks.csv`; ese nombre identifica el archivo fuente, sin cambiar el protocolo científico del manuscrito. La procedencia de cada llegada está en `arrival_source_matches.csv`. La reconciliación de redes usa también `original_net`; las llegadas publicadas tienen probabilidad convencional 1, no confianza calibrada del detector.
 
@@ -36,17 +38,3 @@ Los sintéticos conservan columnas de inyecciones de su archivo fuente como traz
 ## Alcance
 
 Una parada por límite no equivale a convergencia. La máscara gris indica soporte de parámetros, no resolución. La reserva espacial auxiliar tiene tres rondas y regularización de incrementos; no se presenta como validación espacial de todos los brazos con regularización absoluta. El remuestreo reservado es condicional al catálogo y a los modelos ajustados. La rama pública indicada permite descargar el suplemento; no dispone de DOI.
-
-## Resultados de la campaña terminada
-
-| Modelo | RMS reservado (s) | Rondas | Parada |
-|---|---:|---:|---|
-| 1D fijo | 1.881488 | 11 | Criterio de estabilización |
-| 1D ajustable | 1.763292 | 12 | Límite predefinido, sin estabilización |
-| 3D lambda 2 | 1.692492 | 12 | Límite predefinido, sin estabilización |
-| 3D lambda 20 | 1.935247 | 12 | Límite predefinido, sin estabilización |
-| 3D lambda 200 | 1.700911 | 12 | Límite predefinido, sin estabilización |
-
-El modelo de peso intermedio, fijado para las figuras antes de obtener resultados, satisface la tolerancia empírica del último refinamiento, pero no recupera el damero. El modelo de peso 2 pierde su ventaja frente al perfil ajustable en el subconjunto al refinar la malla. Las superficies de Nazca y Caribe son representaciones geométricas exploratorias conservadas de la etapa anterior; esta campaña no las valida como interfaces tectónicas.
-
-El manuscrito final está en `articulo_boletin_geologia_uis_adjunto/Manuscrito_tomografia_Vp_Colombia_UIS_revision_20261011h.docx`. Para visualizar los HTML, descargue el repositorio y abra los archivos de `articulo_boletin_geologia_uis_adjunto/suplementos` en un navegador; GitHub muestra su código fuente.

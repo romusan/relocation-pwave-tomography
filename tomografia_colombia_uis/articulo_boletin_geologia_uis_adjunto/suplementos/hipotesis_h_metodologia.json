@@ -1,0 +1,184 @@
+{
+  "campaign": "h",
+  "arm": "real_smooth_20",
+  "train_events": 2897,
+  "deep_quality_events": 1160,
+  "equal_weight_cells": 706,
+  "anomaly_sampling_km": 20,
+  "anomaly_cubes_all_corners_active": 4106,
+  "isosurfaces": [
+    {
+      "level_percent": 1.0,
+      "triangles": 16140,
+      "vertices": 40452
+    },
+    {
+      "level_percent": 3.0,
+      "triangles": 12814,
+      "vertices": 32344
+    },
+    {
+      "level_percent": 5.0,
+      "triangles": 8146,
+      "vertices": 20918
+    },
+    {
+      "level_percent": -1.0,
+      "triangles": 16652,
+      "vertices": 41700
+    },
+    {
+      "level_percent": -3.0,
+      "triangles": 13642,
+      "vertices": 34240
+    },
+    {
+      "level_percent": -5.0,
+      "triangles": 9652,
+      "vertices": 24368
+    }
+  ],
+  "kmeans": [
+    {
+      "metric": "km",
+      "k": 2,
+      "cells": 706,
+      "inertia": 22530732.923044764,
+      "silhouette": 0.5850857595816019,
+      "agreement_diagonal": 0.9008498583569405,
+      "stable_starts_99pct": 30
+    },
+    {
+      "metric": "km",
+      "k": 3,
+      "cells": 706,
+      "inertia": 13971635.873552125,
+      "silhouette": 0.49206418412931496
+    },
+    {
+      "metric": "km",
+      "k": 4,
+      "cells": 706,
+      "inertia": 10111427.863012519,
+      "silhouette": 0.4729389904272995
+    },
+    {
+      "metric": "km",
+      "k": 5,
+      "cells": 706,
+      "inertia": 8122456.900237802,
+      "silhouette": 0.3986144097662332
+    },
+    {
+      "metric": "km",
+      "k": 6,
+      "cells": 706,
+      "inertia": 6661202.495497055,
+      "silhouette": 0.3787601551322043
+    },
+    {
+      "metric": "estandarizado",
+      "k": 2,
+      "cells": 706,
+      "inertia": 1077.1544656147162,
+      "silhouette": 0.4437223532018992,
+      "agreement_diagonal": 0.9178470254957507,
+      "stable_starts_99pct": 30
+    },
+    {
+      "metric": "estandarizado",
+      "k": 3,
+      "cells": 706,
+      "inertia": 751.0727223621143,
+      "silhouette": 0.4002450981644054
+    },
+    {
+      "metric": "estandarizado",
+      "k": 4,
+      "cells": 706,
+      "inertia": 514.5873675996268,
+      "silhouette": 0.40389314407799604
+    },
+    {
+      "metric": "estandarizado",
+      "k": 5,
+      "cells": 706,
+      "inertia": 438.19941222749424,
+      "silhouette": 0.37580966263834803
+    },
+    {
+      "metric": "estandarizado",
+      "k": 6,
+      "cells": 706,
+      "inertia": 369.26073524250444,
+      "silhouette": 0.35443543090784113
+    }
+  ],
+  "best_k_km": 2,
+  "nurbs": [
+    {
+      "name": "Nazca",
+      "color": "#7926b3",
+      "controls": 438,
+      "control_cells_rms_vertical_km": 30.657674514345192,
+      "heldout_catalog_events": 242,
+      "heldout_vertical_rms_km": 25.588618743473592,
+      "triangles": 35982,
+      "locally_supported_triangles": 16302,
+      "anchor_note": "Slab2 SAM +15 km, weak weight 0.15*8/clip(sigma,5,30); no seismic compatibility filter",
+      "grid_shape": [
+        14,
+        18
+      ],
+      "smooth": 0.8,
+      "degree": 3,
+      "unit_rational_weights": true,
+      "nominal_thickness_km": 30
+    },
+    {
+      "name": "Caribe",
+      "color": "#ed831b",
+      "controls": 268,
+      "control_cells_rms_vertical_km": 24.841949814261152,
+      "heldout_catalog_events": 131,
+      "heldout_vertical_rms_km": 19.23847674170763,
+      "triangles": 16912,
+      "locally_supported_triangles": 10918,
+      "anchor_note": "Nearest seismic cell depths on 75 km buffer, weight 0.12; no Caribbean Slab2 anchors",
+      "grid_shape": [
+        10,
+        14
+      ],
+      "smooth": 2.0,
+      "degree": 3,
+      "unit_rational_weights": true,
+      "nominal_thickness_km": 30
+    }
+  ],
+  "diagonal_endpoints_lon_lat": [
+    [
+      -72.5,
+      6.0
+    ],
+    [
+      -76.3,
+      9.2
+    ]
+  ],
+  "tectonic_boundary_confirmed": false,
+  "tomography_unchanged": true,
+  "heldout_geometry_note": "Catalog coordinates, depth >=40 km, same geographic side and 75 km data hull buffer; no gap or Slab2 compatibility filter; vertical geometric errors are not location errors or travel-time RMS",
+  "source_sha256": {
+    "codigos/hipotesis_placas_revision_h.py": "5beaad89f1a24c2033723c0c1d8ea51d421b961085f8bfa67750a64db1cd645b",
+    "resultados/campana_perfil_suavidad_20261011h/real_smooth_20/vp_final.npz": "712b7580d152e98a4f478c9118fcb5c01b2013fe7539f564bdb7baafaadf2729",
+    "resultados/campana_perfil_suavidad_20261011h/real_smooth_20/relocated_train_events.csv": "5fe0693048da5b339092eddd56135acc645f56cf981e33d5e1e9d64032cbffc9",
+    "resultados/campana_perfil_suavidad_20261011h/event_descriptors.csv": "d4125efd95ce6c7b6e5277d98207a3e81a7e08d291a627cd1ba3713fd46e3c0f",
+    "resultados/campana_factorizada_cotas_20261011g/real_elevation/domain.json": "8061a79fc8be3b4002759b47339c4c1a2a3b95f3b1099352db2fe7164f257607",
+    "datos/limite_diagonal_nazca_caribe_20261010.json": "096d8aaca52ce943a900d09159c35d9ea2dc1a3a5c719d08552bee5e24ad6f14",
+    "datos/cartografia/departamentos_dane_2025.geojson": "02dbaabbae1d55d9f6d90c624531da56a7591266cffe7fede8ab6c1a4b1eecaa",
+    "datos/slab2_2026-10-10/sam_slab2_dep_02.23.18.grd": "0e09dc45baaf402204bdecbe3254b637e3a8f4818ff23903bf61254de3525257",
+    "datos/slab2_2026-10-10/sam_slab2_unc_02.23.18.grd": "38b27b519c368631e52598708b24012cb0911cecbe0144b593003fb0d45c1dc0",
+    "codigos/nazca_nurbs_morada_20261010.py": "88aa3838281c2b5707e2ac95e96ee96b403da69f88d0b4e21934962c39989e39",
+    "codigos/modelo_3d_continuo.py": "5b43e7cf038296c281ddef00d38634d3da4196cd6325c6887e3f37d63d85b93e"
+  }
+}

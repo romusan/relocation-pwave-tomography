@@ -6,6 +6,9 @@
   "external_hyperlinks": [
     "https://orcid.org/",
     "mailto:romulo@ecci.edu.co",
+    "suplementos/figura_1_fragmentos_sgc.html",
+    "suplementos/figura_2_nurbs_nazca_caribe_sgc.html",
+    "suplementos/clasificacion_kmeans_sgc.html",
     "https://github.com/romusan/relocation-pwave-tomography/tree/tomografia-colombia-uis-h/tomografia_colombia_uis",
     "suplementos/Datos_estaciones_magnitudes_profundidades.png",
     "suplementos/RMS_por_ronda.png",
@@ -13,9 +16,9 @@
     "suplementos/Perfiles_velocidad.png",
     "suplementos/Damero_efectivo.png",
     "suplementos/Estaticas_elevacion.png",
-    "suplementos/figura_1_fragmentos_sgc.html",
-    "suplementos/figura_2_nurbs_nazca_caribe_sgc.html",
-    "suplementos/clasificacion_kmeans_sgc.html"
+    "suplementos/hipotesis_h_metodologia.json",
+    "suplementos/hipotesis_h_metricas_kmeans.csv",
+    "suplementos/hipotesis_h_kmeans_celdas.csv"
   ],
   "numerical_values_match_completed_reports": true,
   "requires_separate_visual_review": true

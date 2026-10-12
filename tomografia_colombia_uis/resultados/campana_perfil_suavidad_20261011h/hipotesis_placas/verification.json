@@ -1,0 +1,9 @@
+{
+  "source_hashes_verified": true,
+  "analytic_oblique_plane_pass": true,
+  "all_mesh_indices_and_depths_valid": true,
+  "kmeans_labels_match_saved_centroids": true,
+  "nurbs_unit_weights_and_bounded_depths_verified": true,
+  "nominal_normal_thickness_verified": true,
+  "tomography_source_unchanged": true
+}

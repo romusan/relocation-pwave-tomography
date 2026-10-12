@@ -1,0 +1,36 @@
+{
+  "source": "https://apps.usgs.gov/shakemap_geodata/slabs/",
+  "retrieved_date": "2026-10-10",
+  "files": [
+    {
+      "name": "cam_slab2_dep_02.24.18.grd",
+      "url": "https://apps.usgs.gov/shakemap_geodata/slabs/cam_slab2_dep_02.24.18.grd",
+      "bytes": 120116
+    },
+    {
+      "name": "cam_slab2_unc_02.24.18.grd",
+      "url": "https://apps.usgs.gov/shakemap_geodata/slabs/cam_slab2_unc_02.24.18.grd",
+      "bytes": 119527
+    },
+    {
+      "name": "car_slab2_dep_02.24.18.grd",
+      "url": "https://apps.usgs.gov/shakemap_geodata/slabs/car_slab2_dep_02.24.18.grd",
+      "bytes": 84944
+    },
+    {
+      "name": "car_slab2_unc_02.24.18.grd",
+      "url": "https://apps.usgs.gov/shakemap_geodata/slabs/car_slab2_unc_02.24.18.grd",
+      "bytes": 85407
+    },
+    {
+      "name": "sam_slab2_dep_02.23.18.grd",
+      "url": "https://apps.usgs.gov/shakemap_geodata/slabs/sam_slab2_dep_02.23.18.grd",
+      "bytes": 581426
+    },
+    {
+      "name": "sam_slab2_unc_02.23.18.grd",
+      "url": "https://apps.usgs.gov/shakemap_geodata/slabs/sam_slab2_unc_02.23.18.grd",
+      "bytes": 604649
+    }
+  ]
+}

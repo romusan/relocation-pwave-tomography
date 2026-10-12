@@ -11,13 +11,13 @@
   },
   {
     "path": "articulo_boletin_geologia_uis_adjunto/crear_manuscrito_revision_20261011h.py",
-    "bytes": 36882,
-    "sha256": "d0e5fd44b6f2d127c3dc2fddbe5d2e4e2287dfab31cf36a889d5c7fed34471f9"
+    "bytes": 43970,
+    "sha256": "15862e120cdbc48e94625262116850c3cc95415d7839cb5d27c3645c77d17b63"
   },
   {
     "path": "articulo_boletin_geologia_uis_adjunto/empaquetar_revision_h.py",
-    "bytes": 3939,
-    "sha256": "53ac1cf1296f0b05785d521209900c8d09c14ad1c3a78f0f2bd3c723a92b5ae2"
+    "bytes": 4441,
+    "sha256": "b3825205e553419cc180c303ddc793e817912fcb917800ac466ad35efa413e1d"
   },
   {
     "path": "articulo_boletin_geologia_uis_adjunto/figuras_revision_h/Anomalias_activas.png",
@@ -236,8 +236,8 @@
   },
   {
     "path": "articulo_boletin_geologia_uis_adjunto/Manuscrito_tomografia_Vp_Colombia_UIS_revision_20261011h.docx",
-    "bytes": 1107435,
-    "sha256": "e023e3170c81c1942dfb65bb0cbae530fbd934cfb9d7c6fa49f057ca9c54f168"
+    "bytes": 1110039,
+    "sha256": "b7ed0bd5d74e9c26f62ff06c87dbdb044c71add2358efdf0dd6e8a3162f23ca3"
   },
   {
     "path": "articulo_boletin_geologia_uis_adjunto/preparar_rama_publicacion_h.py",
@@ -246,8 +246,8 @@
   },
   {
     "path": "articulo_boletin_geologia_uis_adjunto/README_reproduccion_h.md",
-    "bytes": 4478,
-    "sha256": "589d856861a7ec8a722f66b38e81cd9999c4d83ea5eb366faedc17bd4e9cb083"
+    "bytes": 5452,
+    "sha256": "b90c6dd1ceff7271815e0ff8b6385c91d39aef9767ae7f18aefd900bac01dc84"
   },
   {
     "path": "articulo_boletin_geologia_uis_adjunto/suplementos/Anomalias_activas.png",
@@ -256,8 +256,8 @@
   },
   {
     "path": "articulo_boletin_geologia_uis_adjunto/suplementos/clasificacion_kmeans_sgc.html",
-    "bytes": 6200749,
-    "sha256": "1cc91b0d06ef6d69a8c253c8d96747f1fc5c8602f6ed31d1a4647b9a5fad4680"
+    "bytes": 6522091,
+    "sha256": "485959bfc3338c4afb2c4cb298e59784331b6e46ff2ec46f4e9c681d40cd4e80"
   },
   {
     "path": "articulo_boletin_geologia_uis_adjunto/suplementos/clasificacion_kmeans_sismos.csv",
@@ -281,13 +281,43 @@
   },
   {
     "path": "articulo_boletin_geologia_uis_adjunto/suplementos/figura_1_fragmentos_sgc.html",
-    "bytes": 6066263,
-    "sha256": "4bf5d6ec523ed863c086611e368fddc3c6c878cee869c4b208134087c17a5a29"
+    "bytes": 13555786,
+    "sha256": "e69291d980276660b1658496fa714f689c2cc541ee69a3701b63ba935defc67c"
   },
   {
     "path": "articulo_boletin_geologia_uis_adjunto/suplementos/figura_2_nurbs_nazca_caribe_sgc.html",
-    "bytes": 7874601,
-    "sha256": "51ee5a8ecae69df8f693ea147cdcc1b17f81c7ece4c78845d64cda03cbb9ae57"
+    "bytes": 10143417,
+    "sha256": "542163f598e3f447577e2036bbb6c10b5ef92c5cefadde4f7b153519ddddd94f"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/hipotesis_h_bisectores_kmeans.csv",
+    "bytes": 53797,
+    "sha256": "56d3378094d972ff7610a2a589089cf4471510181006dcd2a663ddb571cc4ebe"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/hipotesis_h_kmeans_celdas.csv",
+    "bytes": 60966,
+    "sha256": "036bdb468d9348275e610547f6cbe09b6e7f2722c7ea410b4e3abb68b64e90c2"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/hipotesis_h_kmeans_centroides.csv",
+    "bytes": 2723,
+    "sha256": "2351fb5ba0ff1b786df60110c300b237dd50ee63049e396365b38c358f45e73f"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/hipotesis_h_kmeans_sismos.csv",
+    "bytes": 217355,
+    "sha256": "00fbd673e12724e09e707d181a32faa664694a7acf341d115bf3dae8cafa2ac4"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/hipotesis_h_metodologia.json",
+    "bytes": 5696,
+    "sha256": "d5a310247127266d7fa24dcb0ac38c2f2407abe5c0407b2eadcc2e38061df567"
+  },
+  {
+    "path": "articulo_boletin_geologia_uis_adjunto/suplementos/hipotesis_h_metricas_kmeans.csv",
+    "bytes": 673,
+    "sha256": "49fe727d269148cee2b61ddbccde0286442256582d251eff8522dca5501dde92"
   },
   {
     "path": "articulo_boletin_geologia_uis_adjunto/suplementos/metricas_kmeans.csv",
@@ -356,8 +386,8 @@
   },
   {
     "path": "articulo_boletin_geologia_uis_adjunto/verificar_manuscrito_h.py",
-    "bytes": 2391,
-    "sha256": "15554d6fc176b84807594342279d7f2f40aef38f98e29f1ed6ace37665cdbd0f"
+    "bytes": 2802,
+    "sha256": "f6b77f9490da0f0606829a9defa2831c83bdbcef2b61764c03013f2722eccebd"
   },
   {
     "path": "campana_carma_caribe.py",
@@ -658,6 +688,11 @@
     "path": "codigos/geometria_revision_20261011.py",
     "bytes": 4896,
     "sha256": "d9a5fd2bb9732483a93d98494da8d0eb2625c9332f4086ca8908cec58ccfc5a6"
+  },
+  {
+    "path": "codigos/hipotesis_placas_revision_h.py",
+    "bytes": 20852,
+    "sha256": "5beaad89f1a24c2033723c0c1d8ea51d421b961085f8bfa67750a64db1cd645b"
   },
   {
     "path": "codigos/informe_comparacion_inicios.py",
@@ -1175,6 +1210,11 @@
     "sha256": "2a668c2df4437d39efa027fbf88e2c80fc7f0cbeda5ce6f140013650e28e3e85"
   },
   {
+    "path": "codigos/verificar_hipotesis_h.py",
+    "bytes": 3064,
+    "sha256": "6c8294f2d8769f908794851dad04e31171811a0b637f3808508dfec560455b31"
+  },
+  {
     "path": "codigos/verificar_modelos_articulo_20261010.py",
     "bytes": 2624,
     "sha256": "e849bcc2aae70b6565d1bb076230341cd1d3d17d8dd2c0a1776457193fcc132c"
@@ -1320,6 +1360,11 @@
     "sha256": "41482e6472f3ad0d258f8839d89aab4c735c502e3bf0806885e9ba12cc7e4189"
   },
   {
+    "path": "datos/limite_diagonal_nazca_caribe_20261010.json",
+    "bytes": 466,
+    "sha256": "096d8aaca52ce943a900d09159c35d9ea2dc1a3a5c719d08552bee5e24ad6f14"
+  },
+  {
     "path": "datos/nazca_cauca_valle_eje_2026-10-10/catalogo_sgc.csv",
     "bytes": 87337346,
     "sha256": "3bda9316c24056ab645d3743338cba27da6a57e987d213d5a12fb87f07404f57"
@@ -1333,6 +1378,21 @@
     "path": "datos/picks_phasenet.csv",
     "bytes": 8183697,
     "sha256": "9485062d63ca849cb202d001ed80ca4532d231ac6079faf6171c3d866c761f4f"
+  },
+  {
+    "path": "datos/slab2_2026-10-10/descarga.json",
+    "bytes": 1149,
+    "sha256": "c90922a31eb6ca2cd1f5321caf1a2b60a1448208a77c161cee02674c48590c2c"
+  },
+  {
+    "path": "datos/slab2_2026-10-10/sam_slab2_dep_02.23.18.grd",
+    "bytes": 581426,
+    "sha256": "0e09dc45baaf402204bdecbe3254b637e3a8f4818ff23903bf61254de3525257"
+  },
+  {
+    "path": "datos/slab2_2026-10-10/sam_slab2_unc_02.23.18.grd",
+    "bytes": 604649,
+    "sha256": "38b27b519c368631e52598708b24012cb0911cecbe0144b593003fb0d45c1dc0"
   },
   {
     "path": "resultados/campana_factorizada_cotas_20261011g/codigo_congelado/campana_factorizada_cotas_20261011g.py",
@@ -2211,13 +2271,13 @@
   },
   {
     "path": "resultados/campana_perfil_suavidad_20261011h/document_content_qa.json",
-    "bytes": 1010,
-    "sha256": "48aa9a475f3054a2fb89a4cc87e8f52ca17683a5a0549354db68cd832fdfa0d4"
+    "bytes": 1161,
+    "sha256": "95dc0e40d10f7a1f65fe3a134050da266a8ced4c9386a59355b2f348163e8140"
   },
   {
     "path": "resultados/campana_perfil_suavidad_20261011h/document_delivery_qa.json",
-    "bytes": 2474,
-    "sha256": "e6cd9bbd5eb096d0f45899e5330846887bbed6e8aaaa443185e984f9d477c82f"
+    "bytes": 2774,
+    "sha256": "59d902385d42e88f876cba25579649a976c99935542e584c95b39bafb7d81695"
   },
   {
     "path": "resultados/campana_perfil_suavidad_20261011h/elevation_contrast.json",
@@ -2350,6 +2410,116 @@
     "sha256": "96a7edec5d1fe6ebcebc466f2bac54ce4fcb9ddefd0674b290d688a53c631378"
   },
   {
+    "path": "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/anomalia_+1.npz",
+    "bytes": 679589,
+    "sha256": "a5646c2a683791dba4556df26a6d06acee723853d6e52661d637f4cb81c5271a"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/anomalia_+3.npz",
+    "bytes": 534184,
+    "sha256": "47a5cc6781ef29dd96a95d2ed46c053b5508b1675a4679bbf95c7bbf46a0e836"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/anomalia_+5.npz",
+    "bytes": 331389,
+    "sha256": "14f6452ed46d6b17399ab2a77bdd2425d42d4e0b29de8157aa779308940fcf9f"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/anomalia_-1.npz",
+    "bytes": 707614,
+    "sha256": "3566250e6c970dfb415708ddfadaa228af5f63e3c36b69f36071ecaebf378837"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/anomalia_-3.npz",
+    "bytes": 584925,
+    "sha256": "8123dca5d080d23cc03190759bcb64b2b2b6512a06e05c7ac317e5242fc29c76"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/anomalia_-5.npz",
+    "bytes": 419530,
+    "sha256": "9376cc9fad9d55ff4835da66a2b005e46c343f02ef65af101ef838414d9f6138"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/bisectores_kmeans.csv",
+    "bytes": 53797,
+    "sha256": "56d3378094d972ff7610a2a589089cf4471510181006dcd2a663ddb571cc4ebe"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/caribe_espesor_30km.npz",
+    "bytes": 562623,
+    "sha256": "b27b4fc711f41307e63e35b7c53c0a05545c782669db32d251968f6f6c88d3d9"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/caribe_superficie.csv",
+    "bytes": 992536,
+    "sha256": "059d3a8b3f77262eba5d205c75c19b360765b4fde1db9c2565892efd7a33bef4"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/caribe_superficie.npz",
+    "bytes": 599248,
+    "sha256": "446938ef9260e36fe537f5031422ebd4cd5388daab0ec3d4acc4fa576d01a5d1"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/clasificacion_kmeans_sgc.plotly.json",
+    "bytes": 1700430,
+    "sha256": "f8eb0ba7f786edef7c21a52cc3848f070959201ce5336304bfc63a28cdeac8e3"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/figura_1_fragmentos_sgc.plotly.json",
+    "bytes": 8734305,
+    "sha256": "1859bd19683387a1927954f3f2b1be93271d2e31c434de51cbbe7be62188e323"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/figura_2_nurbs_nazca_caribe_sgc.plotly.json",
+    "bytes": 5321679,
+    "sha256": "a005507c71c806945409dd7b1f20f1cf29d07089112113fa10ceb99b751cb6b5"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/kmeans_celdas.csv",
+    "bytes": 60966,
+    "sha256": "036bdb468d9348275e610547f6cbe09b6e7f2722c7ea410b4e3abb68b64e90c2"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/kmeans_centroides.csv",
+    "bytes": 2723,
+    "sha256": "2351fb5ba0ff1b786df60110c300b237dd50ee63049e396365b38c358f45e73f"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/kmeans_sismos.csv",
+    "bytes": 217355,
+    "sha256": "00fbd673e12724e09e707d181a32faa664694a7acf341d115bf3dae8cafa2ac4"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/metodologia.json",
+    "bytes": 5696,
+    "sha256": "d5a310247127266d7fa24dcb0ac38c2f2407abe5c0407b2eadcc2e38061df567"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/metricas_kmeans.csv",
+    "bytes": 673,
+    "sha256": "49fe727d269148cee2b61ddbccde0286442256582d251eff8522dca5501dde92"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/nazca_espesor_30km.npz",
+    "bytes": 1193854,
+    "sha256": "1c67b1469d1b6cdb2d09976ea4c7f241b3ecef7cd7d7e150f2b0c953f7812575"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/nazca_superficie.csv",
+    "bytes": 2001554,
+    "sha256": "21d5e7c86f019cdc8ea60f3f8320a05586b1bd26decfba1d6454882a2354ef0f"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/nazca_superficie.npz",
+    "bytes": 1244831,
+    "sha256": "dff4839246b14a24434438f6345e6f72f703791fa2b88aef299e29b978e90ce2"
+  },
+  {
+    "path": "resultados/campana_perfil_suavidad_20261011h/hipotesis_placas/verification.json",
+    "bytes": 317,
+    "sha256": "055fddc27d43f0b5140253c50cae5ba401959db7eeb5cc76c231b0f06a0349b2"
+  },
+  {
     "path": "resultados/campana_perfil_suavidad_20261011h/intermediate_cache_cleanup_plan.json",
     "bytes": 12172,
     "sha256": "ab0872f8a216f3e8ca8cdb053e825cd0995aa53af517fb3e056fdffe0147def7"
@@ -2401,8 +2571,8 @@
   },
   {
     "path": "resultados/campana_perfil_suavidad_20261011h/publication_branch.json",
-    "bytes": 375,
-    "sha256": "ebc14ad7347dd16104961d2378b6fb42fc527760bcd62f904075c926fbdfbada"
+    "bytes": 372,
+    "sha256": "0bfebe12014e6fd45ac060e95bbfa1aa0c9fe86d2af36af39ec333613717077b"
   },
   {
     "path": "resultados/campana_perfil_suavidad_20261011h/real_comparisons.json",
@@ -2941,8 +3111,8 @@
   },
   {
     "path": "resultados/campana_perfil_suavidad_20261011h/word_cleanup.json",
-    "bytes": 551,
-    "sha256": "4c8e4c5d6ea89f73099bfff62b78a88346404f1d7c9e97ef8afd381bbaa6332b"
+    "bytes": 15531,
+    "sha256": "6d6003565828a42d605b1ba3c8df305b576521c4f180733f56d995bba40fafb8"
   },
   {
     "path": "resultados/revision_independiente_20261011f/estaticas_y_elevacion.csv",
